@@ -1,6 +1,11 @@
 [project]
-name = "course"
+name = "ue-phil-arg-2026-ws"
+version = "1.0.0"
+readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "quarto-coursegen>=0.1",
+    "quarto-coursegen",
 ]
+
+[tool.uv.sources]
+quarto-coursegen = { path = "/home/sebastian/Nextcloud/Documents/mindmaps/code/quarto-coursegen", editable = true }
