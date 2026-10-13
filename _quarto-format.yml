@@ -1,0 +1,33 @@
+format:
+  html:
+    template-partials:
+      - assets/partials/title-block.html
+    theme:
+      - flatly
+      - assets/styles/custom.scss
+    toc: true
+    toc-depth: 3
+    argdown:
+      mode: web-component
+      sourceHighlighter: web-component
+      config: argdown.config.json
+  pdf:
+    documentclass: article
+    papersize: a4
+    include-in-header: assets/latex/_handout-packages.tex
+    template-partials:
+      - assets/latex/before-body.tex
+    syntax-definitions:
+      - assets/pandoc/argdown.xml
+    syntax-highlighting: assets/pandoc/argdown.theme
+    # Required for the LaTeX svg package to call Inkscape when converting
+    # inline SVG images produced by the argdown-filter (mode: inline, format: svg).
+    pdf-engine-opt: "-shell-escape"
+    argdown:
+      mode: inline
+      format: svg
+      config: argdown.config.json
+
+filters:
+  - node_modules/.bin/argdown-filter # On Linux/macOS
+  # - node_modules/.bin/argdown-filter.cmd # On Windows
