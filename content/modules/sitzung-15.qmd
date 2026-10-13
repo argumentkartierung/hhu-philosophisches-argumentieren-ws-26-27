@@ -1,6 +1,6 @@
 ---
 title: "Sitzung 15 (05.02.2027)"
-subtitle: "Abschlusssitzung" 
+subtitle: "Abschlusssitzung (Test)" 
 date: "2027-02-05"
 status: "published"
 lang: "de"

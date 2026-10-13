@@ -67,7 +67,7 @@ format:
 | 13 | 22.01.2027 | Sitzung 13 | Normative Argumente |
 | 14 | 29.01.2027 | Sitzung 14 | TBD |
 | | | **Abschluss** |
-| 15 | 05.02.2027 | Sitzung 15 | Abschlusssitzung |
+| 15 | 05.02.2027 | Sitzung 15 | Abschlusssitzung (Test)|
 
 
 :::
