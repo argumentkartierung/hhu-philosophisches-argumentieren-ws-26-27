@@ -3,7 +3,7 @@ course:
   title: "Übung Philosophisches Argumentieren"
   semester: "WS 26/27"
   language: "de"
-  ects: 6
+  ects: 3
   date_format: "%d.%m.%Y" # optional display format for template-rendered dates
 
   instructors:
@@ -547,7 +547,7 @@ modules:
     type: lecture
     title: "Sitzung 15"
     date: 2027-02-05
-    subtitle: "Abschlusssitzung"
+    subtitle: "Abschlusssitzung (Test)"
     description: |
       In dieser Sitzung schreiben Sie einen kleinen Abschlusstest.
 

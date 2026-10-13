@@ -13,78 +13,77 @@ format:
   pdf: default
 ---
 
-## Willkommen
+Willkommen zur Übung *Philosophisches Argumentieren* (Gruppe 1)!
 
-TODO: Add a short description or welcome message for the course.
+Die Übung führt anhand zahlreicher Beispiele in das philosophische Argumentieren ein. Besprochen werden gute und weniger gute Argumente aus fast allen Bereichen der Philosophie. In praktischen Übungen werden Sie dazu angeleitet, die wesentlichen Bestandteile von Argumenten und die darin verwendeten Schlussregeln zu erkennen. 
 
-## Kursinformationen
+Dabei verfolgt die Veranstaltung zwei **Lernziele:** Unmittelbar lernen Sie, fremde Argumente zu analysieren und zu kritisieren; mittelbar lernen Sie, selbst überzeugend zu argumentieren.
+
+Die Übung behandelt u.a. die folgenden **Themen:** 
+
++ Grundlagen der Argumentationstheorie,
++ Verhältnis von Logik und Umgangssprache,
++ Argumentanalyse, 
++ philosophische Debatten, 
++ Argumentkartierung,
++ Fehlschlüsse und Argumentationsmuster.
+
+
+::: {.callout-warning}
+Die Informationen auf dieser Seite sind vorläufig und werden im Laufe des Semesters ergänzt und ggf. angepasst:
+
++ Bitte überprüfen Sie regelmäßig die Seite auf Aktualisierungen.
++ Aufgaben und Materialien zu den Sitzungen werden vor Beginn der Sitzung hochgeladen und in der Sitzung angekündigt.
++ Urheberrechtlich geschützte Texte werden ausschließlich über den Moodle-Kurs bereitgestellt.
+:::
+
+## Allgemeine Informationen
 
 | | |
 |---|---|
-| **Semester** | WS 26/27 |
-| **ECTS** | 6 |
-| **Sprache** | DE |
-| **Institution** | Heinrich-Heine-Universität Düsseldorf |
-| **Abteilung** | Institut für Philosophie |
-
-## Lehrende
-
-
-- **Sebastian Cacean** (lecturer) · sebastian.cacean@hhu.de
-
+| **Universität** | Heinrich-Heine-Universität Düsseldorf |
+| **Institut** | Institut für Philosophie |
+| **Dozent** | [Sebastian Cacean](mailto:sebastian.cacean@hhu.de) |
+| **Semester** | Wintersemester 2026/27 |
+| **Zeit** | Freitag, 10:30--12:00 |
+| **Ort** | Gebäude 23.21 - 2321.U1.73 |
+| **Moodle** | <xxx> |
+| **Webex Link zur Veranstaltung** | <xxx>|
+| **ECTS (ohne Prüfung)** | 3 |
 
 
-## Zeitplan
+::: {.callout-note}
++ **Hybride Teilnahme:** Das Seminar wird hybrid durchgeführt, d.h. Sie können (mit Ausnahme der letzten Sitzung) sowohl in Präsenz als auch über Webex teilnehmen. Ich empfehle Ihnen allerdings, die Veranstaltung so oft wie möglich vor Ort zu besuchen, da die Bild- und Tonqualität des Livestreams bescheiden ist.
++ **Moodle & Kurswebseite:** Alle Informationen zu diesem Kurs (Folien, Handouts und Aufgabenblätter) werden auf dieser Kursseite bereitgestellt. Moodle wird zur Einreichung von Abgaben und zur Bereitstellung von Literatur verwendet.
++ **Kommunikation:** Für Fragen und Anmerkungen können Sie mich gerne per E-Mail kontaktieren. Für organisatorische Fragen (z.B. zu Abgaben, Fristen, etc.) nutzen Sie bitte die Moodle-Diskussionsforen (xxx).
+:::
 
-- **Beginn:** 16.10.2026
-- **Ende:** 05.02.2027
-- **Wochentag:** Friday
+## Teilnahmevoraussetzungen
 
-## Sitzungen
+Die Übung setzt Logikkenntnisse voraus. Die Teilnahme an der Übung ist nur möglich, wenn Sie bereits Logikkenntnisse erworben haben oder im laufenden Semester erwerben, etwa durch die Teilnahme am Modul Logik.
 
+## Studienleistung
 
-- [Sitzung 1](content/modules/sitzung-01.qmd) — Kursüberblick & Einfache Argumentkarten
+Eine Studienleistung (einen Beteiligungsnachweis) erlangen Sie durch
 
++ regelmäßige und aktive Teilnahme an der Übung,
++ das pünktliche und erfolgreiche Bearbeiten der Übungsblätter (siehe unten),
++ und das Bestehen eines schriftlichen Tests in der letzten Sitzung am 5.02.2027.
 
-- [Sitzung 2](content/modules/sitzung-02.qmd) — Struktur von Argumenten
+### Schriftlicher Test
 
+Der 45-minütige Test soll lediglich sicherstellen, dass Sie die Übungsblätter selbst gelöst und keine Lösungen von jemand anderem hochgeladen haben. Wenn Sie die Übungsblätter selbst sorgfältig gelöst haben, wird Ihnen der Test wahrscheinlich leicht fallen.
 
-- [Sitzung 3](content/modules/sitzung-03.qmd) — Formal-logische Gültigkeit und aussagenlogische Formalisierung
+### Übungsblätter
 
+In der Regel wird es für jede Sitzung ein Übungsblatt geben, das Sie bis zur nächsten Sitzung bearbeiten sollen. Aufgaben, für die Punkte verteilt werden, sind in den Übungsblättern entsprechend markiert. Diese können Multiple-Choice-Aufgaben umfassen oder Aufgaben, bei denen Sie Lösungen erstellen und hochladen müssen. 
 
-- [Sitzung 4](content/modules/sitzung-04.qmd) — Argumente kritisieren
++ **Erfolgreiche Bearbeitung der Übungsaufgaben:** Um die Übungsaufgaben erfolgreich zu bearbeiten, müssen Sie im Durchschnitt 60% der Aufgaben richtig lösen (gemessen an der Gesamtpunktzahl). Des Weiteren dürfen Sie nicht mehr als 3 Übungszettel gar nicht bearbeiten, bzw. mit 0% abschließen.
++ **Abgaben:** Abgaben sind ausschließlich über Moodle abzugeben. Informationen zu den Aufgaben werden auf der Kurswebseite bereitgestellt.
++ **Fristen und Abgabeformat:** Bitte lösen Sie das Übungsblatt jeweils innerhalb einer Woche vollständig am Computer. Die jeweiligen Fristen werden in Moodle festgelegt. Nach diesem Zeitpunkt ist es nicht mehr möglich, das Übungsblatt abzugeben. 
+  + Für hochzuladene Dokumente gilt: Handschriftliche Lösungen oder handschriftliche Zusätze werden nicht akzeptiert. Laden Sie Ihre Lösung als PDF-Dokument auf Moodle hoch. 
++ **Besprechung und Lösungen der Übungsblätter:** Für die Übung gibt es kein begleitendes Tutorium. Musterlösungen zu den Aufgaben werden z.T. über die Kurswebseite und Moodle bereitgestellt. Ansonsten werden die Lösungen in den Sitzungen besprochen. Individuelles Feedback zu den Lösungen wird es nur eingeschränkt über die Moodle-Benotung geben.
 
-
-- [Sitzung 5](content/modules/sitzung-05.qmd) — Vertiefte Argumentkarten
-
-
-- [Sitzung 6](content/modules/sitzung-06.qmd) — Rekonstruktion von Argumenten
-
-
-- [Sitzung 7](content/modules/sitzung-07.qmd) — Erstellung von Argumentkarten mit Argdown
-
-
-- [Sitzung 8](content/modules/sitzung-08.qmd) — Rekonstruktionsprinzipien
-
-
-- [Sitzung 9](content/modules/sitzung-09.qmd) — Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1
-
-
-- [Sitzung 10](content/modules/sitzung-10.qmd) — Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 2
-
-
-- [Sitzung 11](content/modules/sitzung-11.qmd) — Annahmewiderlegung und Annahmebeseitigung
-
-
-- [Sitzung 12](content/modules/sitzung-12.qmd) — Analogieargumente
-
-
-- [Sitzung 13](content/modules/sitzung-13.qmd) — Normative Argumente
-
-
-- [Sitzung 14](content/modules/sitzung-14.qmd) — TBD
-
-
-- [Sitzung 15](content/modules/sitzung-15.qmd) — Abschlusssitzung
-
-
+::: {.callout-note}
+Bitte senden Sie keine Übungsblätter per E-Mail! Nur wenn Moodle aus unvorhergesehenen Gründen nicht verfügbar ist, können Abgaben fristgerecht per E-Mail eingereicht werden. Sollten Sie aufgrund von Krankheit Fristen nicht einhalten können, reichen Sie bitte ein ärztliches Attest ein und melden Sie sich frühzeitig, damit wir eine Lösung finden können.
+:::

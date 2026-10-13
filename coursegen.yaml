@@ -1,4 +1,4 @@
 protected_paths:          # optional paths protected from generate --force
-#   - index.qmd
+  - index.qmd
   # - _quarto.yml
   - _quarto-format.yml
