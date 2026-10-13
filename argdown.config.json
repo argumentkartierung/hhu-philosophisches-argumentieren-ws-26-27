@@ -3,7 +3,7 @@
     "withoutHeader": true,
     "views": {
       "source": true,
-      "map": false
+      "map": true
     }
   },
   "sourceHighlighter": {
