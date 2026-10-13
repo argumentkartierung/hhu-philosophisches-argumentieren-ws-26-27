@@ -1,0 +1,85 @@
+---
+title: "Sitzung 2 (23.10.2026)"
+subtitle: "Struktur von Argumenten" 
+date: "2026-10-23"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+In dieser Sitzung werden grundlegende Ideen zum Argumentbegriff eingeführt und wiederholt.
+
+## {{< fa bullseye >}} Lernziele
+
+
++ Was ist ein Argument und wie sind Argumente aufgebaut?
++ Was ist die (einfache) Standarddarstellung eines Arguments? Wie funktionieren mehrstufige Argumente?
++ Inwiefern können die Prämissen eines Arguments die Konklusion begründen? Was ist deduktive Gültigkeit?
+
+
+
+
+
+
+
+
+## {{< fa display >}} Folien 
+
+🚧 In Arbeit ...
+
+<!--
+## {{< fa display >}} Folien
+
+ [Folien im Vollbildmodus](../slides/sitzung-02-slides.html){target="_blank"}   | [Folien als PDF](../slides/sitzung-02-slides.pdf){target="_blank"} 
+
+
+```{=html}
+<iframe class="slide-deck" src="../slides/sitzung-02-slides.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+```
+
+-->
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+
+## {{< fa folder-open >}} Materialien
+
+
+
+
+
+
+
+- **Folien** 🚧: In Arbeit ...
+<!-- - **Folien**: [{{< fa link >}}](../slides/sitzung-02-slides.html) | [{{< fa file-pdf >}}](../slides/sitzung-02-slides.pdf) -->
+
+
+
+
+
+
+
+
+- **Mitschrift**: [{{< fa link >}}](../notes/sitzung-02-notes.html) | [{{< fa file-pdf >}}](../notes/sitzung-02-notes.pdf)
+
+
+
+
+

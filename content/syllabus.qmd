@@ -1,0 +1,81 @@
+---
+title: "Syllabus"
+subtitle: "Übung Philosophisches Argumentieren"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  html: default
+  pdf:
+    documentclass: article
+    papersize: a4
+    toc: false
+---
+
+## Kursinformationen
+
+| | |
+|---|---|
+| **Kurs** | Übung Philosophisches Argumentieren |
+| **Semester** | WS 26/27 |
+| **ECTS** | 6 |
+| **Sprache** | DE |
+| **Institution** | Heinrich-Heine-Universität Düsseldorf |
+| **Abteilung** | Institut für Philosophie |
+
+## Lehrende
+
+
+- **Sebastian Cacean** (lecturer) — sebastian.cacean@hhu.de
+
+
+
+## Zeitplan
+
+- **Beginn:** 15.10.2026
+- **Ende:** 04.02.2027
+- **Wochentag:** Friday
+
+## Module
+
+| # | Datum | Titel | Status |
+|---|------|-------|--------|
+| 1 | 16.10.2026 | Sitzung 1 | published |
+| 2 | 23.10.2026 | Sitzung 2 | published |
+| 3 | 30.10.2026 | Sitzung 3 | published |
+
+
+## Lernziele
+
+
+### Sitzung 1
+
+
++ Was sind die Ziele der Argumentanalyse?
++ Woran erkennt man Argumente?
++ Wie kann man mit einfachen Argumentkarten Beziehungen zwischen Argumente darstellen?
+
+
+
+### Sitzung 2
+
+
++ Was ist ein Argument und wie sind Argumente aufgebaut?
++ Was ist die (einfache) Standarddarstellung eines Arguments? Wie funktionieren mehrstufige Argumente?
++ Inwiefern können die Prämissen eines Arguments die Konklusion begründen? Was ist deduktive Gültigkeit?
+
+
+
+### Sitzung 3
+
+
++ Welche Rolle spielt die Formalisierung für den Gültigkeitsnachweis von Argumenten?
++ Was sind die Satzoperatoren der formalen Logik?
++ Adäquatheitsbedingungen der Formalisierung: Wie können und müssen Aussagen formalisiert werden?
+
+
+

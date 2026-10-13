@@ -1,0 +1,35 @@
+---
+title: "Sitzung 1 (16.10.): Kursüberblick & Einfache Argumentkarten"
+date: "2026-10-16"
+lang: "de"
+format:
+  html: default
+  pdf:
+    documentclass: article
+    papersize: a4
+
+---
+
+## Second slide
+
+The map:
+
+```argdown-map
+[s1]
+    <- <a1>
+```
+
+
+## Highlighted Premise-conclusion-structures
+
+```argdown
+
+(1) All humans are mortal.
+(2) Socrates is a human.
+--
+Universal instantiation, Modus Ponens
+{uses: [1,2], logic: ["deductive", "predicate logic"]}
+--
+(3) Socrates is mortal.
+```
+

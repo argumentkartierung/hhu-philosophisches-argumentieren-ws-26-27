@@ -1,0 +1,19 @@
+# AUTO-GENERATED — do not edit by hand.
+# Sub-project: handouts  (PDF)
+# Render with: quarto render content/handouts/   or: make handouts
+
+project:
+  type: default
+  output-dir: ../../docs/content/handouts
+
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    toc: false
+
+render:
+  - sitzung-01-notes.qmd
+  - sitzung-02-notes.qmd
+  - sitzung-03-notes.qmd
+

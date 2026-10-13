@@ -1,0 +1,87 @@
+---
+title: "Sitzung 1 (16.10.2026)"
+subtitle: "Kursüberblick & Einfache Argumentkarten" 
+date: "2026-10-16"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+In dieser einführenden Sitzung werden organisatorische Informationen geteilt und Fragen dazu geklärt.  Außerdem analysieren wir die Argumentation eines erstes Textbeispiels und machen uns die Ziele der Argumentanalyse klar.
+
+## {{< fa bullseye >}} Lernziele
+
+
++ Was sind die Ziele der Argumentanalyse?
++ Woran erkennt man Argumente?
++ Wie kann man mit einfachen Argumentkarten Beziehungen zwischen Argumente darstellen?
+
+
+
+
+
+
+
+
+## {{< fa display >}} Folien
+
+ [Folien im Vollbildmodus](../slides/sitzung-01-slides.html){target="_blank"}   | [Folien als PDF](../slides/sitzung-01-slides.pdf){target="_blank"} 
+
+
+```{=html}
+<iframe class="slide-deck" src="../slides/sitzung-01-slides.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+```
+
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+
+## {{< fa folder-open >}} Materialien
+
+
+
+
+
+
+
+- **Folien**: [{{< fa link >}}](../slides/sitzung-01-slides.html) | [{{< fa file-pdf >}}](../slides/sitzung-01-slides.pdf)
+
+
+
+
+
+
+
+
+- **Mitschrift**: [{{< fa link >}}](../notes/sitzung-01-notes.html) | [{{< fa file-pdf >}}](../notes/sitzung-01-notes.pdf)
+
+
+
+
+
+
+
+
+- **Übungsblatt**: [{{< fa link >}}](../assignments/sitzung-01-assignment.html)
+
+
+
+
+

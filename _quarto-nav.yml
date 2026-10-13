@@ -1,0 +1,52 @@
+# AUTO-GENERATED — do not edit by hand.
+# This file is owned by tools/generate.py and will be overwritten on each run.
+# Edit _quarto.yml to adjust project settings.
+
+website:
+    sidebar:
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - text: "Startseite"
+          href: index.qmd
+        - text: "Syllabus"
+          href: content/syllabus.qmd
+        - text: "---"
+
+
+
+        - section: "Sitzung 1"
+          href: content/modules/sitzung-01.qmd
+          contents:
+            - text: "Mitschrift"
+              href: content/notes/sitzung-01-notes.qmd
+            - text: "Übungsblatt"
+              href: content/assignments/sitzung-01-assignment.qmd
+
+
+
+
+
+        - section: "Sitzung 2"
+          href: content/modules/sitzung-02.qmd
+          contents:
+            - text: "Mitschrift"
+              href: content/notes/sitzung-02-notes.qmd
+
+
+
+
+
+        - section: "Sitzung 3"
+          href: content/modules/sitzung-03.qmd
+          contents:
+            - text: "Mitschrift"
+              href: content/notes/sitzung-03-notes.qmd
+            - text: "Übungsblatt"
+              href: content/assignments/sitzung-03-assignment.qmd
+
+
+
+
+
+
