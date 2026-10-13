@@ -19,7 +19,7 @@ slides:
 # Export slides to PDF using Decktape (requires decktape installed globally).
 slides-pdf: slides
 	for f in docs/content/slides/*.html; do \
-		decktape reveal "$$f" "$${f%.html}.pdf"; \
+		./node_modules/.bin/decktape reveal "$$f" "$${f%.html}.pdf"; \
 	done
 
 # Render handouts (PDF)
@@ -42,7 +42,7 @@ clean:
 # Any content you have added to the stubs will be lost.
 # Run 'make generate' afterwards to recreate stubs from course.yaml.
 clean-all: clean
-	rm -f index.qmd _quarto.yml _quarto-nav.yml
+	rm -f index.qmd _quarto-nav.yml
 	rm -f content/syllabus.qmd
 	rm -f content/modules/*.qmd
 	rm -f content/slides/*.qmd  content/slides/_quarto.yml
