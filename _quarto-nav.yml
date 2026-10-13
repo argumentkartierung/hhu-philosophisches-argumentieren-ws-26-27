@@ -15,36 +15,92 @@ website:
 
 
 
-        - section: "Sitzung 1"
+        - text: "Sitzung 1"
           href: content/modules/sitzung-01.qmd
-          contents:
-            - text: "Mitschrift"
-              href: content/notes/sitzung-01-notes.qmd
-            - text: "Übungsblatt"
-              href: content/assignments/sitzung-01-assignment.qmd
 
 
 
 
-
-        - section: "Sitzung 2"
+        - text: "Sitzung 2"
           href: content/modules/sitzung-02.qmd
-          contents:
-            - text: "Mitschrift"
-              href: content/notes/sitzung-02-notes.qmd
 
 
 
 
-
-        - section: "Sitzung 3"
+        - text: "Sitzung 3"
           href: content/modules/sitzung-03.qmd
-          contents:
-            - text: "Mitschrift"
-              href: content/notes/sitzung-03-notes.qmd
-            - text: "Übungsblatt"
-              href: content/assignments/sitzung-03-assignment.qmd
 
+
+
+
+        - text: "Sitzung 4"
+          href: content/modules/sitzung-04.qmd
+
+
+
+
+        - text: "Sitzung 5"
+          href: content/modules/sitzung-05.qmd
+
+
+
+
+        - text: "Sitzung 6"
+          href: content/modules/sitzung-06.qmd
+
+
+
+
+        - text: "Sitzung 7"
+          href: content/modules/sitzung-07.qmd
+
+
+
+
+        - text: "Sitzung 8"
+          href: content/modules/sitzung-08.qmd
+
+
+
+
+        - text: "Sitzung 9"
+          href: content/modules/sitzung-09.qmd
+
+
+
+
+        - text: "Sitzung 10"
+          href: content/modules/sitzung-10.qmd
+
+
+
+
+        - text: "Sitzung 11"
+          href: content/modules/sitzung-11.qmd
+
+
+
+
+        - text: "Sitzung 12"
+          href: content/modules/sitzung-12.qmd
+
+
+
+
+        - text: "Sitzung 13"
+          href: content/modules/sitzung-13.qmd
+
+
+
+
+        - text: "Sitzung 14"
+          href: content/modules/sitzung-14.qmd
+
+
+
+
+        - text: "Sitzung 15"
+          href: content/modules/sitzung-15.qmd
 
 
 

@@ -1,0 +1,47 @@
+---
+title: "Sitzung 9 (11.12.2026)"
+subtitle: "Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1" 
+date: "2026-12-11"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+In dieser Sitzung führen wir die prädikatenlogische Formalisierung von Sätzen ein und besprechen, für welche Fälle sie sinnvoll und notwendig ist.
+
+Zentrale Fragen:
+
++ Kann man immer den Modus Ponens verwenden? 
++ Wie können Argumente mit Hilfe von allgemeinen Prinzipien rekonstruiert werden?
++ Was ist die allquantifizierte Subjunktion und was unterscheidet sie von der Subjunktion der Aussagenlogik?
+
+
+
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
+<!--
+## {{< fa bullseye >}} Lernziele
+
+- TODO: Add learning objectives
+-->
+
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+

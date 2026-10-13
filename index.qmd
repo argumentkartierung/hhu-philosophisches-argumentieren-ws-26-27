@@ -36,11 +36,11 @@ TODO: Add a short description or welcome message for the course.
 
 ## Zeitplan
 
-- **Beginn:** 15.10.2026
-- **Ende:** 04.02.2027
+- **Beginn:** 16.10.2026
+- **Ende:** 05.02.2027
 - **Wochentag:** Friday
 
-## Module
+## Sitzungen
 
 
 - [Sitzung 1](content/modules/sitzung-01.qmd) — Kursüberblick & Einfache Argumentkarten
@@ -50,5 +50,41 @@ TODO: Add a short description or welcome message for the course.
 
 
 - [Sitzung 3](content/modules/sitzung-03.qmd) — Formal-logische Gültigkeit und aussagenlogische Formalisierung
+
+
+- [Sitzung 4](content/modules/sitzung-04.qmd) — Argumente kritisieren
+
+
+- [Sitzung 5](content/modules/sitzung-05.qmd) — Vertiefte Argumentkarten
+
+
+- [Sitzung 6](content/modules/sitzung-06.qmd) — Rekonstruktion von Argumenten
+
+
+- [Sitzung 7](content/modules/sitzung-07.qmd) — Erstellung von Argumentkarten mit Argdown
+
+
+- [Sitzung 8](content/modules/sitzung-08.qmd) — Rekonstruktionsprinzipien
+
+
+- [Sitzung 9](content/modules/sitzung-09.qmd) — Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1
+
+
+- [Sitzung 10](content/modules/sitzung-10.qmd) — Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 2
+
+
+- [Sitzung 11](content/modules/sitzung-11.qmd) — Annahmewiderlegung und Annahmebeseitigung
+
+
+- [Sitzung 12](content/modules/sitzung-12.qmd) — Analogieargumente
+
+
+- [Sitzung 13](content/modules/sitzung-13.qmd) — Normative Argumente
+
+
+- [Sitzung 14](content/modules/sitzung-14.qmd) — TBD
+
+
+- [Sitzung 15](content/modules/sitzung-15.qmd) — Abschlusssitzung
 
 

@@ -1,0 +1,41 @@
+---
+title: "Sitzung 11 (08.01.2027)"
+subtitle: "Annahmewiderlegung und Annahmebeseitigung" 
+date: "2027-01-08"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+In dieser Sitzung beschäftigen wir uns mit Annahmewiderlegung und -beseitigung als typische Schlussmuster in der Philosophie.
+
+
+
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
+<!--
+## {{< fa bullseye >}} Lernziele
+
+- TODO: Add learning objectives
+-->
+
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+

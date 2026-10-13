@@ -1,0 +1,47 @@
+---
+title: "Sitzung 13 (22.01.2027)"
+subtitle: "Normative Argumente" 
+date: "2027-01-22"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+In dieser Sitzung beschäftigen wir uns mit Spezifika normativer Argumente 
+
+Zentrale Fragen:
+
++ Wie unterschieden sich deskriptive und normative Aussagen?
++ Welche unterschiedlichen Arten des “Sollens” gibt es?
++ Wie rekonstruiert man normative Argumente?
+
+
+
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
+<!--
+## {{< fa bullseye >}} Lernziele
+
+- TODO: Add learning objectives
+-->
+
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+

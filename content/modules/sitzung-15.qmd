@@ -1,0 +1,43 @@
+---
+title: "Sitzung 15 (05.02.2027)"
+subtitle: "Abschlusssitzung" 
+date: "2027-02-05"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+In dieser Sitzung schreiben Sie einen kleinen Abschlusstest.
+
+Achtung: In dieser Sitzung in Anwesenheitspflicht. Eine Hybridteilnahme ist nicht möglich.
+
+
+
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
+<!--
+## {{< fa bullseye >}} Lernziele
+
+- TODO: Add learning objectives
+-->
+
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+

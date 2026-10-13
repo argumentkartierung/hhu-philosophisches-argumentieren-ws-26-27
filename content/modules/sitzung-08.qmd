@@ -1,0 +1,47 @@
+---
+title: "Sitzung 8 (04.12.2026)"
+subtitle: "Rekonstruktionsprinzipien" 
+date: "2026-12-04"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+In dieser Sitzung führen wir zentrale Rekonstruktionsprinzipien ein.
+
+Zentrale Fragen:
+
++ Welche Rolle spielt Interpretation bei der Rekonstruktion von Argumenten?
++ Gibt es eindeutig richtige und eindeutig falsche Argumentrekonstruktionen?
++ Welche Prinzipien sind hilfreich und sinnvoll für die Rekonstruktion von Argumenten?
+
+
+
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
+<!--
+## {{< fa bullseye >}} Lernziele
+
+- TODO: Add learning objectives
+-->
+
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+

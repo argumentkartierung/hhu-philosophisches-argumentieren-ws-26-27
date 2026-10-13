@@ -1,0 +1,46 @@
+---
+title: "Sitzung 6 (20.11.2026)"
+subtitle: "Rekonstruktion von Argumenten" 
+date: "2026-11-20"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+In dieser Sitzung führen wir die Methode der Argumentrekonstruktion ein. 
+
+Zentrale Fragen:
++ Sollten Argumente als deduktiv gültige Argumente rekonstruiert werden?
++ Was sind implizite Prämissen und welche Rolle spielen sie?
++ Was ist die erweiterte Standarddarstellung von Argumenten?
+
+
+
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
+<!--
+## {{< fa bullseye >}} Lernziele
+
+- TODO: Add learning objectives
+-->
+
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+

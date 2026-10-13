@@ -1,0 +1,46 @@
+---
+title: "Sitzung 12 (15.01.2027)"
+subtitle: "Analogieargumente" 
+date: "2027-01-15"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+In dieser Sitzung beschäftigen wir uns mit Analogieargumenten. 
+
+Zentrale Fragen:
+
++ Was sind Analogieargumente und wir kann man sie rekonstruieren?
++ Sind Analogieargumente deduktiv oder induktiv?
+
+
+
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
+<!--
+## {{< fa bullseye >}} Lernziele
+
+- TODO: Add learning objectives
+-->
+
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+

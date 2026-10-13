@@ -23,8 +23,8 @@ course:
 
 
   schedule:
-    start_date: 2026-10-15
-    end_date: 2027-02-04
+    start_date: 2026-10-16
+    end_date: 2027-02-05
     weekly_day: "Friday"
 
 # Course-level artifacts (e.g. syllabus, a course overview deck)
@@ -32,38 +32,43 @@ artifacts:
   - id: syllabus
     type: syllabus
     file: "content/syllabus.qmd"
+    # overwrite: never
 
 modules:
   - id: sitzung-01
     type: lecture
     title: "Sitzung 1"
     subtitle: "Kursüberblick & Einfache Argumentkarten"
-    description: >
+    date: 2026-10-16
+    description: |
       In dieser einführenden Sitzung werden organisatorische Informationen geteilt und Fragen dazu geklärt. 
       Außerdem analysieren wir die Argumentation eines erstes Textbeispiels und machen uns die Ziele der Argumentanalyse klar.
-    date: 2026-10-16
-    # visibility: hidden
-    # overwrite: never
+    
+      Zentrale Fragen:
 
-    learning_objectives: |
       + Was sind die Ziele der Argumentanalyse?
       + Woran erkennt man Argumente?
       + Wie kann man mit einfachen Argumentkarten Beziehungen zwischen Argumente darstellen?
+    # visibility: hidden
+    # overwrite: never
     artifacts:
       - id: folien-sitzung-01
         type: slides
         output_formats: [revealjs, pdf]
+        enabled: false
         # status: draft
         # visibility: hidden
-        overwrite: never
+        # overwrite: never
       - id: notes-01
         type: notes
+        enabled: false
         # status: draft
         # visibility: hidden
-        overwrite: never
+        # overwrite: never
         output_formats: [website, pdf]
       - id: assignment-01
         type: assignment
+        enabled: false
         # status: draft
         # visibility: hidden
         # overwrite: never
@@ -74,61 +79,502 @@ modules:
     type: lecture
     title: "Sitzung 2"
     subtitle: "Struktur von Argumenten"
-    description: >
-      In dieser Sitzung werden grundlegende Ideen zum Argumentbegriff eingeführt und wiederholt.
     date: 2026-10-23
-    # visibility: public
+    description: |
+      In dieser Sitzung werden grundlegende Ideen zum Argumentbegriff eingeführt und wiederholt.
+    
+      Zentrale Fragen:
 
-    learning_objectives: |
       + Was ist ein Argument und wie sind Argumente aufgebaut?
       + Was ist die (einfache) Standarddarstellung eines Arguments? Wie funktionieren mehrstufige Argumente?
       + Inwiefern können die Prämissen eines Arguments die Konklusion begründen? Was ist deduktive Gültigkeit?
-
+    # visibility: hidden
+    # overwrite: never
     artifacts:
       - id: folien-sitzung-02
         type: slides
-        # visibility: hidden
-        status: draft
         output_formats: [revealjs, pdf]
-      - id: notes-02
-        type: notes
+        enabled: false
         # status: draft
         # visibility: hidden
         # overwrite: never
+      - id: notes-02
+        type: notes
         output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
       - id: assignment-02
         type: assignment
-        status: draft
-        visibility: hidden
-        output_formats: [website]
-
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
 
   - id: sitzung-03
     type: lecture
     title: "Sitzung 3"
-    subtitle: "Formal-logische Gültigkeit und aussagenlogische Formalisierung"
-    description: >
-      In dieser Sitzung beschäftigen wir uns mit der logisch-semantischen Analyse (Formalisierung) von natürlichsprachlichen Sätzen und ihrer Rolle für die Prüfung deduktiver Gültigkeit von Argumenten.
     date: 2026-10-30
-    # status: published
-    # visibility: hidden
+    subtitle: "Formal-logische Gültigkeit und aussagenlogische Formalisierung"
+    description: |
+      In dieser Sitzung beschäftigen wir uns mit der logisch-semantischen Analyse (Formalisierung) von natürlichsprachlichen Sätzen und ihrer Rolle für die Prüfung deduktiver Gültigkeit von Argumenten.
+    
+      Zentrale Fragen:
 
-    learning_objectives: |
       + Welche Rolle spielt die Formalisierung für den Gültigkeitsnachweis von Argumenten?
       + Was sind die Satzoperatoren der formalen Logik?
       + Adäquatheitsbedingungen der Formalisierung: Wie können und müssen Aussagen formalisiert werden?
+    # status: draft
+    # visibility: hidden
     artifacts:
-      - id: folien-sitzung-03
+      - id: folien-sitzung-02
         type: slides
-        status: published
         output_formats: [revealjs, pdf]
-      - id: notes-03
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-02
         type: notes
-        # visibility: hidden
         output_formats: [website, pdf]
-      - id: assignment-03
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-02
         type: assignment
-        # status: published
+        output_formats: [website]
+        enabled: false
+        # status: draft
         # visibility: hidden
+        # overwrite: never
+  - id: sitzung-04
+    type: lecture
+    title: "Sitzung 4"
+    date: 2026-11-06
+    subtitle: "Argumente kritisieren"
+    description: |
+      In dieser Sitzung machen wir uns klar, wie Argumente kritisiert und Einwände entkräftet werden können. 
+
+      Zentrale Fragen:
+
+      + Wie kann man (umgangssprachlich formulierte) Argumente kritisieren?
+      + Wie können Argumente anhand ihrer Rekonstruktion systematisch evaluiert werden?
+      + Was sind Einwände und Entkräftungen von Einwänden?
+      + Was sind kontradiktorische und konträre Widersprüche und welche Rolle spielen sie für die Kritik an Argumenten?
+    # status: draft
+    # visibility: hidden
+    artifacts:
+      - id: folien-sitzung-04
+        type: slides
+        output_formats: [revealjs, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-04
+        type: notes
         output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-04
+        type: assignment
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+  - id: sitzung-05
+    type: lecture
+    title: "Sitzung 5"
+    date: 2026-11-13
+    subtitle: "Vertiefte Argumentkarten"
+    description: |
+      In dieser Sitzung führen wir die Methode der Argumentkartierung auf Grundlage von Argumenten in ihrer Standarddarstellung ein.
+
+      Zentrale Fragen:
+
+      + Was sind vertiefte Argumentkarten und was unterscheidet sie von einfachen Argumentkarten?
+      + Wie sind die zwei zentralen Argumentbeziehungen "Angriff" und "Stützung" definiert?
+      + Wie kann man Argumentkarten lesen?
+    # status: draft
+    # visibility: hidden
+    artifacts:
+      - id: folien-sitzung-05
+        type: slides
+        output_formats: [revealjs, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-05
+        type: notes
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-05
+        type: assignment
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+  - id: sitzung-06
+    type: lecture
+    title: "Sitzung 6"
+    date: 2026-11-20
+    subtitle: "Rekonstruktion von Argumenten"
+    description: |
+      In dieser Sitzung führen wir die Methode der Argumentrekonstruktion ein. 
+
+      Zentrale Fragen:
+      + Sollten Argumente als deduktiv gültige Argumente rekonstruiert werden?
+      + Was sind implizite Prämissen und welche Rolle spielen sie?
+      + Was ist die erweiterte Standarddarstellung von Argumenten?
+    # status: draft
+    # visibility: hidden
+    artifacts:
+      - id: folien-sitzung-06
+        type: slides
+        output_formats: [revealjs, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-06
+        type: notes
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-06
+        type: assignment
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+  - id: sitzung-07
+    type: lecture
+    title: "Sitzung 7"
+    date: 2026-11-27
+    subtitle: "Erstellung von Argumentkarten mit Argdown"
+    description: |
+      Es gibt verschiedene Möglichkeiten Argumentkarten zu erstellen. [Argdown](https://argdown.org/) ist eine einfache Syntax um Argumentkarten (samt Argumentrekonstruktionen) zu erstellen. In dieser Sitzung machen wir uns mit Argdown vertraut.
+
+      Zentrale Fragen:
+      
+      + Wie kann man mit Argdown einfache und vertiefte Argumentkarten erstellen?
+      + Wie kann man VS Code verwenden, um Argdown-basierte Argumentkarten zu erstellen?
+    # status: draft
+    # visibility: hidden
+    artifacts:
+      - id: folien-sitzung-07
+        type: slides
+        output_formats: [revealjs, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-07
+        type: notes
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-07
+        type: assignment
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+  - id: sitzung-08
+    type: lecture
+    title: "Sitzung 8"
+    date: 2026-12-04
+    subtitle: "Rekonstruktionsprinzipien"
+    description: |
+      In dieser Sitzung führen wir zentrale Rekonstruktionsprinzipien ein.
+
+      Zentrale Fragen:
+
+      + Welche Rolle spielt Interpretation bei der Rekonstruktion von Argumenten?
+      + Gibt es eindeutig richtige und eindeutig falsche Argumentrekonstruktionen?
+      + Welche Prinzipien sind hilfreich und sinnvoll für die Rekonstruktion von Argumenten? 
+    # status: draft
+    # visibility: hidden
+    artifacts:
+      - id: folien-sitzung-08
+        type: slides
+        output_formats: [revealjs, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-08
+        type: notes
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-08
+        type: assignment
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+  - id: sitzung-09
+    type: lecture
+    title: "Sitzung 9"
+    date: 2026-12-11
+    subtitle: "Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1"
+    description: |
+      In dieser Sitzung führen wir die prädikatenlogische Formalisierung von Sätzen ein und besprechen, für welche Fälle sie sinnvoll und notwendig ist.
+
+      Zentrale Fragen:
+
+      + Kann man immer den Modus Ponens verwenden? 
+      + Wie können Argumente mit Hilfe von allgemeinen Prinzipien rekonstruiert werden?
+      + Was ist die allquantifizierte Subjunktion und was unterscheidet sie von der Subjunktion der Aussagenlogik?
+    # status: draft
+    # visibility: hidden
+    artifacts:
+      - id: folien-sitzung-09
+        type: slides
+        output_formats: [revealjs, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-09
+        type: notes
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-09
+        type: assignment
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+  - id: sitzung-10
+    type: lecture
+    title: "Sitzung 10"
+    date: 2026-12-18
+    subtitle: "Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 2"
+    description: |
+      In dieser Sitzung führen wir die prädikatenlogische Rekonstruktion von Argumente fort.
+
+      Zentrale Fragen:
+
+      + Was sind die wichtigsten prädikatenlogischen Schlussmuster?
+      + Wann bzw. warum sollten Argumente mit Hilfe von allgemeinen Prinzipien rekonstruiert werden?
+
+    # status: draft
+    # visibility: hidden
+    artifacts:
+      - id: folien-sitzung-10
+        type: slides
+        output_formats: [revealjs, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-10
+        type: notes
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-10
+        type: assignment
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+  - id: sitzung-11
+    type: lecture
+    title: "Sitzung 11"
+    date: 2027-01-08
+    subtitle: "Annahmewiderlegung und Annahmebeseitigung"
+    description: |
+      In dieser Sitzung beschäftigen wir uns mit Annahmewiderlegung und -beseitigung als typische Schlussmuster in der Philosophie.
+    # status: draft
+    # visibility: hidden
+    artifacts:
+      - id: folien-sitzung-11
+        type: slides
+        output_formats: [revealjs, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-11
+        type: notes
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-11
+        type: assignment
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+  - id: sitzung-12
+    type: lecture
+    title: "Sitzung 12"
+    date: 2027-01-15
+    subtitle: "Analogieargumente"
+    description: |
+      In dieser Sitzung beschäftigen wir uns mit Analogieargumenten. 
+
+      Zentrale Fragen:
+
+      + Was sind Analogieargumente und wir kann man sie rekonstruieren?
+      + Sind Analogieargumente deduktiv oder induktiv?
+    # status: draft
+    # visibility: hidden
+    artifacts:
+      - id: folien-sitzung-12
+        type: slides
+        output_formats: [revealjs, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-12
+        type: notes
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-12
+        type: assignment
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+  - id: sitzung-13
+    type: lecture
+    title: "Sitzung 13"
+    date: 2027-01-22
+    subtitle: "Normative Argumente"
+    description: |
+      In dieser Sitzung beschäftigen wir uns mit Spezifika normativer Argumente 
+
+      Zentrale Fragen:
+
+      + Wie unterschieden sich deskriptive und normative Aussagen?
+      + Welche unterschiedlichen Arten des “Sollens” gibt es?
+      + Wie rekonstruiert man normative Argumente?
+    # status: draft
+    # visibility: hidden
+    artifacts:
+      - id: folien-sitzung-13
+        type: slides
+        output_formats: [revealjs, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-13
+        type: notes
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-13
+        type: assignment
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+  - id: sitzung-14
+    type: lecture
+    title: "Sitzung 14"
+    date: 2027-01-29
+    subtitle: "TBD"
+    description: |
+      Zu diesem Zeitpunkt steht noch nicht fest, was wir in dieser Sitzung konkret machen.
+    # status: draft
+    # visibility: hidden
+    artifacts:
+      - id: folien-sitzung-14
+        type: slides
+        output_formats: [revealjs, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-14
+        type: notes
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-14
+        type: assignment
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+  - id: sitzung-15
+    type: lecture
+    title: "Sitzung 15"
+    date: 2027-02-05
+    subtitle: "Abschlusssitzung"
+    description: |
+      In dieser Sitzung schreiben Sie einen kleinen Abschlusstest.
+
+      Achtung: In dieser Sitzung in Anwesenheitspflicht. Eine Hybridteilnahme ist nicht möglich.
+    # status: draft
+    # visibility: hidden
+    artifacts:
+      - id: folien-sitzung-15
+        type: slides
+        output_formats: [revealjs, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: notes-15
+        type: notes
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+      - id: assignment-15
+        type: assignment
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+
 

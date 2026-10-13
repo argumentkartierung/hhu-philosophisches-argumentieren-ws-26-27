@@ -1,0 +1,46 @@
+---
+title: "Sitzung 7 (27.11.2026)"
+subtitle: "Erstellung von Argumentkarten mit Argdown" 
+date: "2026-11-27"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+Es gibt verschiedene Möglichkeiten Argumentkarten zu erstellen. [Argdown](https://argdown.org/) ist eine einfache Syntax um Argumentkarten (samt Argumentrekonstruktionen) zu erstellen. In dieser Sitzung machen wir uns mit Argdown vertraut.
+
+Zentrale Fragen:
+
++ Wie kann man mit Argdown einfache und vertiefte Argumentkarten erstellen?
++ Wie kann man VS Code verwenden, um Argdown-basierte Argumentkarten zu erstellen?
+
+
+
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
+<!--
+## {{< fa bullseye >}} Lernziele
+
+- TODO: Add learning objectives
+-->
+
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+

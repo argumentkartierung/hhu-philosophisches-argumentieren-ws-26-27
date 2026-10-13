@@ -12,8 +12,7 @@ format:
 
 In dieser Sitzung beschäftigen wir uns mit der logisch-semantischen Analyse (Formalisierung) von natürlichsprachlichen Sätzen und ihrer Rolle für die Prüfung deduktiver Gültigkeit von Argumenten.
 
-## {{< fa bullseye >}} Lernziele
-
+Zentrale Fragen:
 
 + Welche Rolle spielt die Formalisierung für den Gültigkeitsnachweis von Argumenten?
 + Was sind die Satzoperatoren der formalen Logik?
@@ -21,19 +20,12 @@ In dieser Sitzung beschäftigen wir uns mit der logisch-semantischen Analyse (Fo
 
 
 
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
+<!--
+## {{< fa bullseye >}} Lernziele
 
-
-
-
-
-## {{< fa display >}} Folien
-
- [Folien im Vollbildmodus](../slides/sitzung-03-slides.html){target="_blank"}   | [Folien als PDF](../slides/sitzung-03-slides.pdf){target="_blank"} 
-
-
-```{=html}
-<iframe class="slide-deck" src="../slides/sitzung-03-slides.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
-```
+- TODO: Add learning objectives
+-->
 
 
 
@@ -50,38 +42,6 @@ In dieser Sitzung beschäftigen wir uns mit der logisch-semantischen Analyse (Fo
 
 TODO: Add content.
 -->
-
-
-
-## {{< fa folder-open >}} Materialien
-
-
-
-
-
-
-
-- **Folien**: [{{< fa link >}}](../slides/sitzung-03-slides.html) | [{{< fa file-pdf >}}](../slides/sitzung-03-slides.pdf)
-
-
-
-
-
-
-
-
-- **Mitschrift**: [{{< fa link >}}](../notes/sitzung-03-notes.html) | [{{< fa file-pdf >}}](../notes/sitzung-03-notes.pdf)
-
-
-
-
-
-
-
-
-- **Übungsblatt**: [{{< fa link >}}](../assignments/sitzung-03-assignment.html) | [{{< fa file-pdf >}}](../assignments/sitzung-03-assignment.pdf)
-
-
 
 
 

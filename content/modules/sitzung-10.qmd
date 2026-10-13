@@ -1,0 +1,46 @@
+---
+title: "Sitzung 10 (18.12.2026)"
+subtitle: "Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 2" 
+date: "2026-12-18"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+In dieser Sitzung führen wir die prädikatenlogische Rekonstruktion von Argumente fort.
+
+Zentrale Fragen:
+
++ Was sind die wichtigsten prädikatenlogischen Schlussmuster?
++ Wann bzw. warum sollten Argumente mit Hilfe von allgemeinen Prinzipien rekonstruiert werden?
+
+
+
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
+<!--
+## {{< fa bullseye >}} Lernziele
+
+- TODO: Add learning objectives
+-->
+
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+

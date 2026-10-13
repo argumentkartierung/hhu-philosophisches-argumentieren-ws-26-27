@@ -1,0 +1,47 @@
+---
+title: "Sitzung 5 (13.11.2026)"
+subtitle: "Vertiefte Argumentkarten" 
+date: "2026-11-13"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+In dieser Sitzung führen wir die Methode der Argumentkartierung auf Grundlage von Argumenten in ihrer Standarddarstellung ein.
+
+Zentrale Fragen:
+
++ Was sind vertiefte Argumentkarten und was unterscheidet sie von einfachen Argumentkarten?
++ Wie sind die zwei zentralen Argumentbeziehungen "Angriff" und "Stützung" definiert?
++ Wie kann man Argumentkarten lesen?
+
+
+
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
+<!--
+## {{< fa bullseye >}} Lernziele
+
+- TODO: Add learning objectives
+-->
+
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+

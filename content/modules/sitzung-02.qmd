@@ -12,8 +12,7 @@ format:
 
 In dieser Sitzung werden grundlegende Ideen zum Argumentbegriff eingeführt und wiederholt.
 
-## {{< fa bullseye >}} Lernziele
-
+Zentrale Fragen:
 
 + Was ist ein Argument und wie sind Argumente aufgebaut?
 + Was ist die (einfache) Standarddarstellung eines Arguments? Wie funktionieren mehrstufige Argumente?
@@ -21,26 +20,13 @@ In dieser Sitzung werden grundlegende Ideen zum Argumentbegriff eingeführt und 
 
 
 
-
-
-
-
-
-## {{< fa display >}} Folien 
-
-🚧 In Arbeit ...
-
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
 <!--
-## {{< fa display >}} Folien
+## {{< fa bullseye >}} Lernziele
 
- [Folien im Vollbildmodus](../slides/sitzung-02-slides.html){target="_blank"}   | [Folien als PDF](../slides/sitzung-02-slides.pdf){target="_blank"} 
-
-
-```{=html}
-<iframe class="slide-deck" src="../slides/sitzung-02-slides.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
-```
-
+- TODO: Add learning objectives
 -->
+
 
 
  
@@ -56,30 +42,6 @@ In dieser Sitzung werden grundlegende Ideen zum Argumentbegriff eingeführt und 
 
 TODO: Add content.
 -->
-
-
-
-## {{< fa folder-open >}} Materialien
-
-
-
-
-
-
-
-- **Folien** 🚧: In Arbeit ...
-<!-- - **Folien**: [{{< fa link >}}](../slides/sitzung-02-slides.html) | [{{< fa file-pdf >}}](../slides/sitzung-02-slides.pdf) -->
-
-
-
-
-
-
-
-
-- **Mitschrift**: [{{< fa link >}}](../notes/sitzung-02-notes.html) | [{{< fa file-pdf >}}](../notes/sitzung-02-notes.pdf)
-
-
 
 
 

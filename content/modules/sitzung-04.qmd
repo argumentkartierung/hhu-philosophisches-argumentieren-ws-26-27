@@ -1,0 +1,48 @@
+---
+title: "Sitzung 4 (06.11.2026)"
+subtitle: "Argumente kritisieren" 
+date: "2026-11-06"
+status: "published"
+lang: "de"
+format:
+  html: default
+---
+
+## {{< fa circle-info >}} Überblick
+
+In dieser Sitzung machen wir uns klar, wie Argumente kritisiert und Einwände entkräftet werden können. 
+
+Zentrale Fragen:
+
++ Wie kann man (umgangssprachlich formulierte) Argumente kritisieren?
++ Wie können Argumente anhand ihrer Rekonstruktion systematisch evaluiert werden?
++ Was sind Einwände und Entkräftungen von Einwänden?
++ Was sind kontradiktorische und konträre Widersprüche und welche Rolle spielen sie für die Kritik an Argumenten?
+
+
+
+<!-- Possibly uncomment and edit the following section to add learning objectives to the module page. -->
+<!--
+## {{< fa bullseye >}} Lernziele
+
+- TODO: Add learning objectives
+-->
+
+
+
+ 
+
+
+ 
+
+
+<!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
+<!-- 
+
+## Inhalt
+
+TODO: Add content.
+-->
+
+
+
