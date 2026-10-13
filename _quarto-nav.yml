@@ -9,7 +9,7 @@ website:
       contents:
         - text: "Startseite"
           href: index.qmd
-        - text: "Syllabus"
+        - text: "Lehrplan"
           href: content/syllabus.qmd
         - text: "---"
 

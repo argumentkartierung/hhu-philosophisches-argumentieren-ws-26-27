@@ -32,7 +32,7 @@ artifacts:
   - id: syllabus
     type: syllabus
     file: "content/syllabus.qmd"
-    # overwrite: never
+    overwrite: never
 
 modules:
   - id: sitzung-01

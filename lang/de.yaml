@@ -7,11 +7,11 @@ artifact_labels:
   handout: "Handout"
   notes: "Mitschrift"
   assignment: "Übungsblatt"
-  syllabus: "Syllabus"
+  syllabus: "Lehrplan"
 
 nav:
   home: "Startseite"
-  syllabus: "Syllabus"
+  syllabus: "Lehrplan"
   materials: "Materialien"
 
 module_page:
@@ -44,7 +44,7 @@ assignment:
   references: "Literatur"
 
 syllabus:
-  title: "Syllabus"
+  title: "Lehrplan"
   course_information: "Kursinformationen"
   labels:
     course: "Kurs"
@@ -59,7 +59,7 @@ syllabus:
     weekly_day: "Wochentag"
   instructors: "Lehrende"
   schedule: "Zeitplan"
-  modules: "Module"
+  modules: "Sitzungen"
   table_headers:
     num: "#"
     date: "Datum"

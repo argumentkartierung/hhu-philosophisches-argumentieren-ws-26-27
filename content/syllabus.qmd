@@ -1,5 +1,5 @@
 ---
-title: "Syllabus"
+title: "Lehrplan"
 subtitle: "Übung Philosophisches Argumentieren"
 author: "Sebastian Cacean"
 organization: "Heinrich-Heine-Universität Düsseldorf"
@@ -16,50 +16,61 @@ format:
     toc: false
 ---
 
-## Kursinformationen
+## Sitzungen
 
-| | |
-|---|---|
-| **Kurs** | Übung Philosophisches Argumentieren |
-| **Semester** | WS 26/27 |
-| **ECTS** | 6 |
-| **Sprache** | DE |
-| **Institution** | Heinrich-Heine-Universität Düsseldorf |
-| **Abteilung** | Institut für Philosophie |
-
-## Lehrende
-
-
-- **Sebastian Cacean** (lecturer) — sebastian.cacean@hhu.de
-
-
-
-## Zeitplan
-
-- **Beginn:** 16.10.2026
-- **Ende:** 05.02.2027
-- **Wochentag:** Friday
-
-## Module
+::: {.content-visible when-format="html"}
 
 | # | Datum | Sitzung | Titel |
-|---|------|-------|--------|
+|-|---|------------|------------|
+| | | **Einführung in die Analyse und Kartierung von Argumenten** |
 | 1 | 16.10.2026 | [Sitzung 1](modules/sitzung-01.qmd) | Kursüberblick & Einfache Argumentkarten |
 | 2 | 23.10.2026 | [Sitzung 2](modules/sitzung-02.qmd) | Struktur von Argumenten |
 | 3 | 30.10.2026 | [Sitzung 3](modules/sitzung-03.qmd) | Formal-logische Gültigkeit und aussagenlogische Formalisierung |
 | 4 | 06.11.2026 | [Sitzung 4](modules/sitzung-04.qmd) | Argumente kritisieren |
 | 5 | 13.11.2026 | [Sitzung 5](modules/sitzung-05.qmd) | Vertiefte Argumentkarten |
+| | | **Argumente rekonstruieren** |
 | 6 | 20.11.2026 | [Sitzung 6](modules/sitzung-06.qmd) | Rekonstruktion von Argumenten |
 | 7 | 27.11.2026 | [Sitzung 7](modules/sitzung-07.qmd) | Erstellung von Argumentkarten mit Argdown |
 | 8 | 04.12.2026 | [Sitzung 8](modules/sitzung-08.qmd) | Rekonstruktionsprinzipien |
+| | | **Typische Schluss- und Argumentmuster der Philosophie** |
 | 9 | 11.12.2026 | [Sitzung 9](modules/sitzung-09.qmd) | Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1 |
 | 10 | 18.12.2026 | [Sitzung 10](modules/sitzung-10.qmd) | Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 2 |
 | 11 | 08.01.2027 | [Sitzung 11](modules/sitzung-11.qmd) | Annahmewiderlegung und Annahmebeseitigung |
 | 12 | 15.01.2027 | [Sitzung 12](modules/sitzung-12.qmd) | Analogieargumente |
 | 13 | 22.01.2027 | [Sitzung 13](modules/sitzung-13.qmd) | Normative Argumente |
 | 14 | 29.01.2027 | [Sitzung 14](modules/sitzung-14.qmd) | TBD |
+| | | **Abschluss** |
 | 15 | 05.02.2027 | [Sitzung 15](modules/sitzung-15.qmd) | Abschlusssitzung |
 
+
+:::
+
+::: {.content-visible when-format="pdf"}
+
+| # | Datum | Sitzung | Titel |
+|-|---|------------|------------|
+| | | **Einführung in die Analyse und Kartierung von Argumenten** |
+| 1 | 16.10.2026 | Sitzung 1 | Kursüberblick & Einfache Argumentkarten |
+| 2 | 23.10.2026 | Sitzung 2 | Struktur von Argumenten |
+| 3 | 30.10.2026 | Sitzung 3 | Formal-logische Gültigkeit und aussagenlogische Formalisierung |
+| 4 | 06.11.2026 | Sitzung 4 | Argumente kritisieren |
+| 5 | 13.11.2026 | Sitzung 5 | Vertiefte Argumentkarten |
+| | | **Argumente rekonstruieren** |
+| 6 | 20.11.2026 | Sitzung 6 | Rekonstruktion von Argumenten |
+| 7 | 27.11.2026 | Sitzung 7 | Erstellung von Argumentkarten mit Argdown |
+| 8 | 04.12.2026 | Sitzung 8 | Rekonstruktionsprinzipien |
+| | | **Typische Schluss- und Argumentmuster der Philosophie** |
+| 9 | 11.12.2026 | Sitzung 9 | Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1 |
+| 10 | 18.12.2026 | Sitzung 10 | Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 2 |
+| 11 | 08.01.2027 | Sitzung 11 | Annahmewiderlegung und Annahmebeseitigung |
+| 12 | 15.01.2027 | Sitzung 12 | Analogieargumente |
+| 13 | 22.01.2027 | Sitzung 13 | Normative Argumente |
+| 14 | 29.01.2027 | Sitzung 14 | TBD |
+| | | **Abschluss** |
+| 15 | 05.02.2027 | Sitzung 15 | Abschlusssitzung |
+
+
+:::
 
 <!-- Possibly uncomment and edit the following section to add learning objectives to the syllabus. -->
 <!--
