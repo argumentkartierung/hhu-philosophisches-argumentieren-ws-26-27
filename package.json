@@ -4,6 +4,7 @@
     "node-addon-api":"",
     "@argdown/cli": "",
     "@argdown/image-export": "",
-    "@argdown/pandoc-filter": ""
+    "@argdown/pandoc-filter": "",
+    "decktape": ""
   }
 }
