@@ -65,6 +65,7 @@ syllabus:
     num: "#"
     date: "Date"
     title: "Title"
+    subtitle: "Subtitle"
     status: "Status"
   tbd: "TBD"
   learning_objectives: "Learning Objectives"

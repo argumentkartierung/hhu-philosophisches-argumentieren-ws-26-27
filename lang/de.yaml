@@ -63,7 +63,8 @@ syllabus:
   table_headers:
     num: "#"
     date: "Datum"
-    title: "Titel"
+    title: "Sitzung"
+    subtitle: "Titel"
     status: "Status"
   tbd: "TBD"
   learning_objectives: "Lernziele"
@@ -83,4 +84,4 @@ index:
     weekly_day: "Wochentag"
   instructors: "Lehrende"
   schedule: "Zeitplan"
-  modules: "Module"
+  modules: "Sitzungen"
