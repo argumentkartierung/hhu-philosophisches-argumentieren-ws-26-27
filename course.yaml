@@ -1,157 +1,134 @@
 course:
-  id: my-course
-  title: "My Course"
-  subtitle: "A subtitle for my course"
-  semester: "WS 2026"
-  language: "en"        # en | de — controls i18n strings in generated stubs
-  ects: 3
+  id: ue-phil-arg-2026-ws
+  title: "Übung Philosophisches Argumentieren"
+  semester: "WS 26/27"
+  language: "de"
+  ects: 6
+  date_format: "%d.%m.%Y" # optional display format for template-rendered dates
 
   instructors:
-    - name: "Prof. Jane Smith"
-      email: "jane.smith@university.edu"
+    - name: "Sebastian Cacean"
+      email: "sebastian.cacean@hhu.de"
       role: "lecturer"          # lecturer | tutor | coordinator
 
   organization:
-    institution: "My University"
-    department: "Department of Something"
-    institute: "Institute of Something"
+    institution: "Heinrich-Heine-Universität Düsseldorf"
+    department: "Institut für Philosophie"
+    institute: "Institut für Philosophie"
 
   defaults:
-    status: planned        # planned | draft | review | published | archived
-    visibility: public     # public | internal | hidden
+    status: published      # planned | draft | review | published | archived
+    visibility: public     # public | hidden
     duration: 90           # minutes
 
+
   schedule:
-    start_date: 2026-10-01
-    end_date: 2027-01-31
-    weekly_day: "Monday"
+    start_date: 2026-10-15
+    end_date: 2027-02-04
+    weekly_day: "Friday"
 
 # Course-level artifacts (e.g. syllabus, a course overview deck)
 artifacts:
   - id: syllabus
     type: syllabus
-    enabled: true
     file: "content/syllabus.qmd"
 
 modules:
-  - id: intro
+  - id: sitzung-01
     type: lecture
-    title: "Introduction"
-    subtitle: "Getting started"
+    title: "Sitzung 1"
+    subtitle: "Kursüberblick & Einfache Argumentkarten"
     description: >
-      Overview of the course, its goals, and the assessment format.
-    date: 2026-10-06
-    status: published
-    visibility: public
+      In dieser einführenden Sitzung werden organisatorische Informationen geteilt und Fragen dazu geklärt. 
+      Außerdem analysieren wir die Argumentation eines erstes Textbeispiels und machen uns die Ziele der Argumentanalyse klar.
+    date: 2026-10-16
+    # visibility: hidden
+    # overwrite: never
 
     learning_objectives: |
-      - Understand the scope and goals of the course
-      - Know the assessment format and grading criteria
-
+      + Was sind die Ziele der Argumentanalyse?
+      + Woran erkennt man Argumente?
+      + Wie kann man mit einfachen Argumentkarten Beziehungen zwischen Argumente darstellen?
     artifacts:
-      - id: intro-slides
+      - id: folien-sitzung-01
         type: slides
-        enabled: true
-        status: published
-        output_formats: [revealjs, beamer]
-      - id: intro-handout
-        type: handout
-        enabled: true
-        status: published
-        output_formats: [website, pdf]
-      - id: intro-notes
+        output_formats: [revealjs, pdf]
+        # status: draft
+        # visibility: hidden
+        overwrite: never
+      - id: notes-01
         type: notes
-        enabled: true
-        status: published
-        output_formats: [pdf]
+        # status: draft
+        # visibility: hidden
+        overwrite: never
+        output_formats: [website, pdf]
+      - id: assignment-01
+        type: assignment
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+        output_formats: [website]
 
-    lms:
-      release: 2026-10-01
-      due: null
 
-    dependencies: []
-
-  - id: topic-a
+  - id: sitzung-02
     type: lecture
-    title: "Topic A"
-    subtitle: "Core concepts"
+    title: "Sitzung 2"
+    subtitle: "Struktur von Argumenten"
     description: >
-      Introduction to the core concepts and methods of the field.
-    date: 2026-10-13
-    status: published
-    visibility: public
+      In dieser Sitzung werden grundlegende Ideen zum Argumentbegriff eingeführt und wiederholt.
+    date: 2026-10-23
+    # visibility: public
 
     learning_objectives: |
-      - Explain the fundamental concepts of Topic A
-      - Apply the basic methods to simple examples
+      + Was ist ein Argument und wie sind Argumente aufgebaut?
+      + Was ist die (einfache) Standarddarstellung eines Arguments? Wie funktionieren mehrstufige Argumente?
+      + Inwiefern können die Prämissen eines Arguments die Konklusion begründen? Was ist deduktive Gültigkeit?
 
     artifacts:
-      - id: topic-a-slides
+      - id: folien-sitzung-02
         type: slides
-        enabled: true
-        status: published
-        output_formats: [revealjs, beamer]
-      - id: topic-a-handout
-        type: handout
-        enabled: true
-        status: published
+        # visibility: hidden
+        status: draft
+        output_formats: [revealjs, pdf]
+      - id: notes-02
+        type: notes
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
         output_formats: [website, pdf]
-      - id: topic-a-assignment
+      - id: assignment-02
         type: assignment
-        enabled: true
-        status: published
-        output_formats: [website, pdf]
+        status: draft
+        visibility: hidden
+        output_formats: [website]
 
-    lms:
-      release: 2026-10-10
-      due: 2026-10-20
 
-    dependencies: [intro]
-
-  - id: topic-b
-    type: exercise
-    title: "Topic B — Practice Session"
-    subtitle: "Hands-on exercises"
+  - id: sitzung-03
+    type: lecture
+    title: "Sitzung 3"
+    subtitle: "Formal-logische Gültigkeit und aussagenlogische Formalisierung"
     description: >
-      Guided practice applying the concepts from Topic A to real-world examples.
-    date: 2026-10-20
-    status: planned
-    visibility: public
+      In dieser Sitzung beschäftigen wir uns mit der logisch-semantischen Analyse (Formalisierung) von natürlichsprachlichen Sätzen und ihrer Rolle für die Prüfung deduktiver Gültigkeit von Argumenten.
+    date: 2026-10-30
+    # status: published
+    # visibility: hidden
 
     learning_objectives: |
-      - Solve applied problems using the methods from Topic A
-      - Reflect on limitations and open questions
-
+      + Welche Rolle spielt die Formalisierung für den Gültigkeitsnachweis von Argumenten?
+      + Was sind die Satzoperatoren der formalen Logik?
+      + Adäquatheitsbedingungen der Formalisierung: Wie können und müssen Aussagen formalisiert werden?
     artifacts:
-      - id: topic-b-slides
+      - id: folien-sitzung-03
         type: slides
-        enabled: false          # no slides for exercise sessions
-        output_formats: [revealjs]
-      - id: topic-b-handout
-        type: handout
-        enabled: true
+        status: published
+        output_formats: [revealjs, pdf]
+      - id: notes-03
+        type: notes
+        # visibility: hidden
         output_formats: [website, pdf]
-      - id: topic-b-assignment
+      - id: assignment-03
         type: assignment
-        enabled: true
+        # status: published
+        # visibility: hidden
         output_formats: [website, pdf]
 
-    lms:
-      release: 2026-10-17
-      due: 2026-10-27
-
-    dependencies: [intro, topic-a]
-
-  # Add more modules below. Each module can have slides, handouts, notes,
-  # and assignments. Set enabled: false to skip stub generation for a
-  # specific artifact type.
-  #
-  # - id: topic-c
-  #   type: lecture
-  #   title: "Topic C"
-  #   date: 2026-10-27
-  #   artifacts:
-  #     - id: topic-c-slides
-  #       type: slides
-  #       enabled: true
-  #       output_formats: [revealjs]
