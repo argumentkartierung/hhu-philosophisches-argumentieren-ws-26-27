@@ -31,3 +31,5 @@ format:
 filters:
   - node_modules/.bin/argdown-filter # On Linux/macOS
   # - node_modules/.bin/argdown-filter.cmd # On Windows
+
+bibliography: bibliography.bib
