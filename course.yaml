@@ -55,10 +55,10 @@ modules:
       - id: folien-sitzung-01
         type: slides
         output_formats: [revealjs, pdf]
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
       - id: notes-01
         type: notes
         enabled: false
@@ -68,10 +68,10 @@ modules:
         output_formats: [website, pdf]
       - id: assignment-01
         type: assignment
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
         output_formats: [website]
 
 

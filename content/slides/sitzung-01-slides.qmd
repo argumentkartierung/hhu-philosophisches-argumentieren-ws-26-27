@@ -1,0 +1,301 @@
+---
+title: "Sitzung 1: Kursüberblick & Einfache Argumentkarten"
+date: "2026-10-16"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  revealjs:
+    theme: [default, ../../assets/styles/slides.scss]
+    slide-number: true
+    preview-links: auto
+---
+
+## Agenda
+
+1. Thematischer Überblick
+2. 
+
+
+## Rolle von Argumentation in der Philosophie
+
+> Wenn es eine Grundregel philosophischen Arbeitens gibt, dann die, daß jede Ansicht, wie abwegig sie auch sein mag, zur Diskussion gestellt werden kann, vorausgesetzt nur, ihr Befürworter bemüht sich, sie angemessen durch Argumente zu sichern [@rosenberg_philosophieren_2009, S. 27]. 
+
+
+# Identifizierung intendierter Begründungsansprüche
+
+## Identifizierung intendierter Begründungsansprüche
+
+👉 1. Schritt der Argumentationanalyse: 
+
+Klärung der folgenden Fragen:
+
++ Um die Begründung welcher Aussagen geht es? 
++ Mit welchen anderen Aussagen werden diese Aussagen begründet?
++ Welche Aussagen werden als Einwände gegen welche Aussagen angeführt?
++ Welche Textbestandteile haben andere Funktionen?
+
+::: {.callout-important}
+## Nicht-argumentative Textbestandteile beachten
+Nicht jeder Textbestandteil muss eine begründende Funktion erfüllen.
+:::
+
+Sätze können auch lediglich:
+
++ die Bedeutung eines anderen Satz erläutern,
++ einen anderen Satz reformulieren, um (genauer) zu erklären, was gemeint ist,
++ etwas durch ein Beispiel illustrieren,
++ ...
+
+## Identifikation von intendierten Begründungsansprüchen
+
+::: {.callout-important}
+Achtung: Nicht jedes im Text vorkommende Argument ist zwangsläufig ein Argument, das von dem/der Autor:in vertreten wird.
+:::
+
+1. **Identifizierung intendierter Begründungsansprüche:**
+   + Welche Textbestandteile werden als Begründungen angeführt? 
+   + Welche Textbestandteile sollen mit ihnen begründet werden?
+   + Welche Textbestandteile haben keine begründende Funktion?
+2. **Identifizierung von Positionen:**
+   + Welche Thesen, welche Argumente vertritt/verneint der/die Autor:in?
+   + Wem werden Thesen und Argumente unterstellt, die der/die Autor:in nicht vertritt?
+   + Bzgl. welcher These, welcher Argumente ist der/die Autor:in indifferent?
+
+## Identifizierung intendierter Begründungsansprüche und Positionen
+
+*Argumentationsanzeiger* bzw. *Argumentationsindikatoren* machen Begründungsansprüche explizit: 
+
++ *"p wegen/weil/da/aufgrund/denn q"*
++ *"... Also ..."*
++ *"... Daher..."*
++ *"... Daraus folgt, dass..."*
++ *"... Deshalb.../"*
++ *"... Folglich..."*
++ *"... das beweist, dass..."*
++ *"Das Argument ... benutzt/begründet ..."*
++ ...
+
+## Identifizierung intendierter Begründungsansprüche und Positionen
+
+Ebenso gibt es typische Signalwörter/-formulierungen für Positionen (*Positionsindikatoren*). Bspw.:
+
++ *"Gegen meine Behauptung könnte man einwenden, dass ..., was offensichtlich falsch ist, weil ..."*
++ *"X ist der Meinung, dass ... Ich denke hingegen, dass..."*
++ ...
+
+## Beispiel: Merkel zum Recht auf Leben des Embryos
+
+::: {style="font-size: 0.8em;"}
+> Sollen dem Embryo aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden? Vier prinzipielle Argumente dafür sind denkbar: erstens die Zugehörigkeit des Embryos zur Spezies Homo sapiens; [...] und viertens eine bestimmte Identität bereits des Embryos mit allen späteren Mensch-Zuständen seiner möglichen Existenz. [...]
+> 
+> Das Speziesargument ist sehr einfach: Der Schutz des Tötungsverbots gelte für den Embryo schon und allein deshalb, weil er biologisch der Spezies Homo sapiens angehört. [...]
+> 
+> Das Argument ist nicht haltbar, ein Musterfall dessen, was Philosophen den "naturalistischen Fehlschluss" nennen: die (unmögliche) direkte Ableitung einer Norm aus einem Faktum. [...]
+> 
+> Und damit bin ich ersichtlich bei unserem letzten, dem Identitätsargument. Schon beim Embryo, so kann man es ausbuchstabieren, bestehe in der entscheidenden Hinsicht eine Identität mit dem geborenen Menschen, der später daraus entstehen kann. Daher müsse der Embryo schon aus Gründen der Logik genauso geschützt werden. [...]
+> 
+> Das Problem des Arguments besteht ersichtlich in der Frage, welches denn die entscheidende Hinsicht ist, in der bereits der früheste Embryo identisch ist mit dem geborenen Menschen, der aus ihm werden kann. Denn zwischen einem nur unter dem Mikroskop erkennbaren Vier- oder Achtzellwesen und einem geborenen Menschen lässt sich nur eine einzige Identitätsbeziehung feststellen: die der DNA, des individuellen Genoms. Dieses allein, das haben wir bei unserem Speziesargument gesehen, ist als Grundlage einer ethischen Schutznorm nicht geeignet [@merkel_rechte_2001].
+:::
+
+## Merkel zum Recht auf Leben des Embryos: Annotation der Argumentationsanzeiger
+
+::: {style="font-size: 0.8em;"}
+> Sollen dem Embryo aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden? [Vier prinzipielle Argumente dafür sind denkbar:]{.ann-key} [erstens]{.ann-key} die Zugehörigkeit des Embryos zur Spezies Homo sapiens; [...] und [viertens]{.ann-key} eine bestimmte Identität bereits des Embryos mit allen späteren Mensch-Zuständen seiner möglichen Existenz. [...]
+> 
+> Das [Speziesargument]{.ann-key} ist sehr einfach: Der Schutz des Tötungsverbots gelte für den Embryo schon und allein deshalb, [weil]{.ann-key} er biologisch der Spezies Homo sapiens angehört. [...]
+> 
+> [Das Argument ist nicht haltbar,]{.ann-key} ein Musterfall dessen, was Philosophen den "naturalistischen Fehlschluss" nennen: die (unmögliche) direkte Ableitung einer Norm aus einem Faktum. [...]
+> 
+> Und damit bin ich ersichtlich bei unserem letzten, dem [Identitätsargument]{.ann-key}. Schon beim Embryo, so kann man es ausbuchstabieren, bestehe in der entscheidenden Hinsicht eine Identität mit dem geborenen Menschen, der später daraus entstehen kann. [Daher]{.ann-key} müsse der Embryo schon aus Gründen der Logik genauso geschützt werden. [...]
+> 
+> [Das Problem des Arguments]{.ann-key} besteht ersichtlich in der Frage, welches denn die entscheidende Hinsicht ist, in der bereits der früheste Embryo identisch ist mit dem geborenen Menschen, der aus ihm werden kann. [Denn]{.ann-key} zwischen einem nur unter dem Mikroskop erkennbaren Vier- oder Achtzellwesen und einem geborenen Menschen lässt sich nur eine einzige Identitätsbeziehung feststellen: die der DNA, des individuellen Genoms. Dieses allein, [das haben wir bei unserem Speziesargument gesehen]{.ann-key}, ist als Grundlage einer ethischen Schutznorm nicht geeignet [@merkel_rechte_2001].
+:::
+
+## Merkel zum Recht auf Leben des Embryos: Annotation der Begründungsbeziehungen
+
+::: {style="font-size: 0.8em;"}
+> [Sollen dem Embryo aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden?]{.ann-conclusion} [Vier prinzipielle Argumente dafür sind denkbar:]{.ann-key} [erstens]{.ann-key} [die Zugehörigkeit des Embryos zur Spezies Homo sapiens;]{.ann-premise} [...] und [viertens]{.ann-key} [eine bestimmte Identität bereits des Embryos mit allen späteren Mensch-Zuständen seiner möglichen Existenz.]{.ann-premise} [...]
+> 
+> Das [Speziesargument]{.ann-key} ist sehr einfach: [Der Schutz des Tötungsverbots gelte für den Embryo schon und allein deshalb]{.ann-conclusion}, [weil]{.ann-key} [er biologisch der Spezies Homo sapiens angehört.]{.ann-premise} [...]
+> 
+> [Das Argument ist nicht haltbar,]{.ann-key} ein Musterfall dessen, was Philosophen den ["naturalistischen Fehlschluss" nennen: die (unmögliche) direkte Ableitung einer Norm aus einem Faktum.]{.ann-premise} [...]
+> 
+> Und damit bin ich ersichtlich bei unserem letzten, dem [Identitätsargument]{.ann-key}. Schon beim Embryo, so kann man es ausbuchstabieren, [bestehe in der entscheidenden Hinsicht eine Identität mit dem geborenen Menschen, der später daraus entstehen kann.]{.ann-premise} [Daher]{.ann-key} [müsse der Embryo schon aus Gründen der Logik genauso geschützt werden.]{.ann-conclusion} [...]
+> 
+> [Das Problem des Arguments]{.ann-key} besteht ersichtlich in der Frage, welches denn die entscheidende Hinsicht ist, in der bereits der früheste Embryo identisch ist mit dem geborenen Menschen, der aus ihm werden kann. [Denn]{.ann-key} [zwischen einem nur unter dem Mikroskop erkennbaren Vier- oder Achtzellwesen und einem geborenen Menschen lässt sich nur eine einzige Identitätsbeziehung feststellen: die der DNA, des individuellen Genoms. Dieses allein, [das haben wir bei unserem Speziesargument gesehen]{.ann-key}, ist als Grundlage einer ethischen Schutznorm nicht geeignet]{.ann-premise} [@merkel_rechte_2001].
+:::
+
+
+## Merkel: Zusammenhang von Menschenwürde, Recht auf Leben und Tötungsverbot
+
+**Verständnisfrage:** Wie ist denn die Argumentation zu verstehen? Sollen die beiden Hauptargumente das Tötungsverbot begründen oder die Menschenwürde und das Recht auf Leben des Embryos? 
+
+## Merkel: Zusammenhang von Menschenwürde, Recht auf Leben und Tötungsverbot
+
+**Verständnisfrage:** Wie ist denn die Argumentation zu verstehen? Sollen die beiden Hauptargumente das Tötungsverbot begründen oder die Menschenwürde und das Recht auf Leben des Embryos? 
+
+👉 *Vermutung/Hypothese*: Die Argumente begründen direkt die Menschenwürde und das Recht auf Leben. Gesteht man das zu folgt aber direkt das Tötungsverbot.
+
+::: {.callout-tip}
+## Nutzen der Argumentationsanalyse
+Methoden der Argumentationsanalyse sollen Ihnen hilfreiche Werkzeuge an die Hand geben, solche Verständnisfragen *systematisch* zu beantworten. 
+:::
+
+## Merkel: Zusammenhang von Menschenwürde, Recht auf Leben und Tötungsverbot
+
+```argdown-map
+===
+webComponent:
+  withoutHeader: true
+===
+
+[Tötungsverbot]: Das Tötungsverbot gilt für den Embryo. #pro
+   <+ <Argument vom Recht auf Leben>: Das Tötungsverbot gilt für den Embryo, **weil** es dem Embryo aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden soll. #pro
+    <+ [Menschenwürde des Embryos] #pro
+
+[Menschenwürde des Embryos]: Dem Embryo soll aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden. #pro
+      <+ <Speziesargument>: Dem Embryo soll aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden, **weil** er biologisch der Spezies Homo sapiens angehört. #pro
+      <+ <Identitätsargument>: Dem Embryo soll aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden, **weil** beim Embryo in der entscheidenden Hinsicht eine Identität mit dem geborenen Menschen besteht, der später daraus entstehen kann. #pro
+```
+
+## Merkel zum Recht auf Leben des Embryos: Als Argumentkarte dargestellt
+
+```argdown-map
+===
+webComponent:
+  withoutHeader: true
+===
+
+[Tötungsverbot]: #pro
+   <+ <Argument vom Recht auf Leben> #pro
+    <+ [Menschenwürde des Embryos] #pro
+
+[Menschenwürde des Embryos]: #pro
+      <+ <Speziesargument>: #pro
+      <+ <Identitätsargument>: #pro
+
+<Einwand des naturalistischen Fehlschlusses>: Das Speziesargument ist nicht haltbar, **weil** es unmöglich ist Normen direkt aus einem Faktum abzuleiten. #con
+  -> <Speziesargument>
+
+<Einwand gegen das Identitätsargument>: Das Identitätsargument ist problematisch, **weil** die einzige relevante Identitätshinsicht (die des Genoms) als Grundlage einer Schutznorm nicht geeignet ist. #con 
+  -> <Identitätsargument>
+```
+
+## Weitere Verständnisfragen
+
+xxx
+
+
+## Einfache Argumentkarten: Knoten und Kanten
+
+::: {.callout-note}
+## Definition: Was sind einfache Argumentkarten? 
+Einfache Argumentkarten visualisieren Begründungsbeziehungen zwischen Argumenten und Aussagen. Sie bestehen aus zwei Arten von Knoten
+
+1. **Aussagekästen:** Weiß hinterlegte Kästen, die Aussagen repräsentieren.
+2. **Argumentkästen:** Farblich hinterlegt Kästen, die Argumente (Einwänden, Entkräftungen, etc.) repräsentieren.
+
+und zwei Arten von Kanten
+
+1. **Grüne Pfeile** repräsentieren intendierte Begründungen bzw. Stützungen.
+2. **Rote Pfeile** repräsentieren intendierte Einwände, Entkräftungen bzw. "Angriffe".
+::: 
+
+## Einfache Argumentkarten: Titel und Besschreibung der Knoten
+
+::: {.callout-note}
+## Daumenregel: Wie sollte man Titel und Beschreibung der Knoten verwenden? 
+
+Die Knoten können jeweils einen Titel und eine Beschreibung enthalten und folgendermaßen verwendet werden sollten:
+
++ Für beide Knoten sollte der **Titel** einen kurzen prägnanten Namen des Arguments oder der Aussage enthalten.
++ Für **Aussagekästen** sollte die **Beschreibung** einfach die Aussage formulieren.
++ Für **Argumentkästen** sollte die **Beschreibung** den Kerngedanken des Arguments in einem Satz zusammenfassen. Sinnvoll ist eine Standardformulierung der Form "p, weil q", die explizit macht, was begründet werden soll und was als Begründung angeführt wird.
+:::
+
+## Schematische Darstellung einer einfachen Argumentkarte
+
+```argdown-map
+[Name der These/Aussage]: p. #pro
+    + <Name des 1. stützenden Arguments>: p, weil q. #pro
+    + <Name des 2. stützdnden Arguments>: p, weil r. #pro
+    - <Name des Einwands gegen die These>: p falsch, weil s. #con
+        - <Name der Entkräftung des Einwands>: s falsch, weil t . #pro
+```
+
+# Motivation der Argumentationsanalyse
+
+## Warum Argumentationsanalyse
+
+Methoden der Argumentationstheorie können helfen, die folgenden Aspekte systematisch zu bearbeiten.
+
+1. Klärung von Verständnisfragen
+2. Evaluierung von Argumentationen.
+
+## Argumentationen verstehen und evaluieren
+
+*Unterscheidung zweier Aktivitäten:*
+
+1. **Argumentationen verstehen:**
+	+ Wie genau "funktioniert" das Argument? Wie ist die Begründung zu verstehen?
+	+ Wie beziehen sich die Argumente in der Debatte aufeinander?
+	+ Welche Annahmen gehen in die Begründung ein?
+2. **Argumentationen evaluieren:**
+	+ Ist das Argument ein starkes/gutes/plausibles Argument?
+	+ Liegt dem Argument ein Fehler zugrunde?
+	+ Wie stark steht die These bei Betrachtung aller Argumente dar?
+	+ Wurden alle Begründungsansprüche eingelöst?
+	+ Was ist im Lichte der Argumentation weiterhin offen und/oder begründungsbedürftig?
+
+
+## Argumentationen verstehen und evaluieren
+
+*Normative Leitidee*: Verständnisfragen so weit es geht von Evaluationsfragen trennen.
+
++ Warum ist es sinnvoll die Aspekte Verstehen & Evaluation zu trennen?
+	+ Ist es überhaupt sinnvoll?
+	+ Kann man diese Fragen überhaupt trennen?
+
+## Motivation: Trennung von Verstehen & Evaluation
+
++ Gemeinsames Verständnis anstreben: Einigkeit bzgl. argumentativer Zusammenhänge 
+	+ Einigkeit darüber, welche Argumente es gibt, was sie begründen wollen, wie sie zusammenhängen.
+	+ Einigkeit darüber, wer welche Positionen in der Debatte vertritt.
+	+ Einigkeit darüber, ob Positionen miteinander verträglich sind oder sich widersprechen.
+
+::: {.callout-important}
+Einigkeit bzgl. der argumentativen Zusammenhänge lässt es zu, dass man ganz unterschiedliche inhaltliche Meinungen in der Debatte vertritt.
+:::
+
+## Notwendigkeit der Argumentationsanalyse
+
+::: {.callout-tip}
+## These
+Um Einigkeit bezüglich der konkreten Verständnisfragen zu erreichen, braucht man die Argumentationsanalyse.
+:::
+
+*Präzisierung relevanter Begriffe*:
+
++ Die Begriffe 'Argument', 'begründen', 'Argumentationszusammenhänge', 'Position' & 'Widerspruch' sind mehrdeutig und z.T. recht vage in der Umgangsprache.
+
+👉 Um die angestrebte Einigkeit zu erreichen, müssen wir sie uns auf eine präzisere Verwendungsweise der relevanten Begriffe einigen.
+
+## Präzisierung relevanter Begriffe
+
+Zu klärende Fragen:
+
++ Was ist ein Argument?
++ Wie kann man die Struktur von Argumenten allgemein beschreiben?
++ In welcher Beziehung können Argumente unter sich und zu weiteren Aussagen stehen?
+
+
+# Organisatorisches & Kursüberblick
+
+👉 Siehe [Kursstartseite](xx) und [Syllabus](xx)
+
+## Zusammenfassung

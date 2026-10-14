@@ -1,0 +1,17 @@
+# AUTO-GENERATED — do not edit by hand.
+# Sub-project: slides  (reveal.js)
+# Render with: quarto render content/slides/   or: make slides
+
+project:
+  type: default
+  output-dir: ../../docs/content/slides
+
+format:
+  revealjs:
+    theme: [default, ../../assets/styles/slides.scss]
+    slide-number: true
+    preview-links: auto
+
+render:
+  - sitzung-01-slides.qmd
+
