@@ -47,15 +47,15 @@ Die Informationen auf dieser Seite sind vorläufig und werden im Laufe des Semes
 | **Semester** | Wintersemester 2026/27 |
 | **Zeit** | Freitag, 10:30--12:00 |
 | **Ort** | Gebäude 23.21 - 2321.U1.73 |
-| **Moodle** | <xxx> |
-| **Webex Link zur Veranstaltung** | <xxx>|
+| **Moodle** | <https://moodle.phil.hhu.de/course/view.php?id=2278> |
+| **Webex Link zur Veranstaltung** | <https://hhu.webex.com/hhu/j.php?MTID=m110ff5546448ca94fadeea48f8aecfd1> |
 | **ECTS (ohne Prüfung)** | 3 |
 
 
 ::: {.callout-note}
 + **Hybride Teilnahme:** Das Seminar wird hybrid durchgeführt, d.h. Sie können (mit Ausnahme der letzten Sitzung) sowohl in Präsenz als auch über Webex teilnehmen. Ich empfehle Ihnen allerdings, die Veranstaltung so oft wie möglich vor Ort zu besuchen, da die Bild- und Tonqualität des Livestreams bescheiden ist.
 + **Moodle & Kurswebseite:** Alle Informationen zu diesem Kurs (Folien, Handouts und Aufgabenblätter) werden auf dieser Kursseite bereitgestellt. Moodle wird zur Einreichung von Abgaben und zur Bereitstellung von Literatur verwendet.
-+ **Kommunikation:** Für Fragen und Anmerkungen können Sie mich gerne per E-Mail kontaktieren. Für organisatorische Fragen (z.B. zu Abgaben, Fristen, etc.) nutzen Sie bitte die Moodle-Diskussionsforen (xxx).
++ **Kommunikation:** Für Fragen und Anmerkungen können Sie mich gerne per E-Mail kontaktieren. Für organisatorische Fragen, die für alle relevant sind (z.B. zu Abgaben, Fristen, etc.), nutzen Sie bitte die Moodle-Diskussionsforen (<https://moodle.phil.hhu.de/mod/forum/view.php?id=123422>).
 :::
 
 ## Teilnahmevoraussetzungen
