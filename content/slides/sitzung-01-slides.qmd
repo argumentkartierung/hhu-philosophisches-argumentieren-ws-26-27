@@ -17,9 +17,10 @@ format:
 
 ## Agenda
 
-1. Thematischer Überblick
-2. 
-
+1. Identifizierung intendierter Begründungsansprüche
+2. Argumentkarten
+3. Motivation der Argumentationsanalyse
+4. Organisatorisches und Kursüberblick
 
 ## Rolle von Argumentation in der Philosophie
 
@@ -139,12 +140,14 @@ Ebenso gibt es typische Signalwörter/-formulierungen für Positionen (*Position
 
 **Verständnisfrage:** Wie ist denn die Argumentation zu verstehen? Sollen die beiden Hauptargumente das Tötungsverbot begründen oder die Menschenwürde und das Recht auf Leben des Embryos? 
 
-👉 *Vermutung/Hypothese*: Die Argumente begründen direkt die Menschenwürde und das Recht auf Leben. Gesteht man das zu folgt aber direkt das Tötungsverbot.
+👉 *Vermutung/Hypothese*: Die Argumente begründen direkt die Menschenwürde und das Recht auf Leben. Gesteht man das zu, folgt aber direkt das Tötungsverbot.
 
 ::: {.callout-tip}
 ## Nutzen der Argumentationsanalyse
 Methoden der Argumentationsanalyse sollen Ihnen hilfreiche Werkzeuge an die Hand geben, solche Verständnisfragen *systematisch* zu beantworten. 
 :::
+
+# Argumentkarten
 
 ## Merkel: Zusammenhang von Menschenwürde, Recht auf Leben und Tötungsverbot
 
@@ -155,7 +158,7 @@ webComponent:
 ===
 
 [Tötungsverbot]: Das Tötungsverbot gilt für den Embryo. #pro
-   <+ <Argument vom Recht auf Leben>: Das Tötungsverbot gilt für den Embryo, **weil** es dem Embryo aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden soll. #pro
+   <+ <Argument vom Recht auf Leben>: Das Tötungsverbot gilt für den Embryo, **weil** dem Embryo aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden soll. #pro
     <+ [Menschenwürde des Embryos] #pro
 
 [Menschenwürde des Embryos]: Dem Embryo soll aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden. #pro
@@ -186,11 +189,6 @@ webComponent:
   -> <Identitätsargument>
 ```
 
-## Weitere Verständnisfragen
-
-xxx
-
-
 ## Einfache Argumentkarten: Knoten und Kanten
 
 ::: {.callout-note}
@@ -198,7 +196,7 @@ xxx
 Einfache Argumentkarten visualisieren Begründungsbeziehungen zwischen Argumenten und Aussagen. Sie bestehen aus zwei Arten von Knoten
 
 1. **Aussagekästen:** Weiß hinterlegte Kästen, die Aussagen repräsentieren.
-2. **Argumentkästen:** Farblich hinterlegt Kästen, die Argumente (Einwänden, Entkräftungen, etc.) repräsentieren.
+2. **Argumentkästen:** Farblich hinterlegte Kästen, die Argumente (Einwänden, Entkräftungen, etc.) repräsentieren.
 
 und zwei Arten von Kanten
 
@@ -221,12 +219,46 @@ Die Knoten können jeweils einen Titel und eine Beschreibung enthalten und folge
 ## Schematische Darstellung einer einfachen Argumentkarte
 
 ```argdown-map
+===
+webComponent:
+  withoutHeader: true
+===
+
 [Name der These/Aussage]: p. #pro
     + <Name des 1. stützenden Arguments>: p, weil q. #pro
     + <Name des 2. stützdnden Arguments>: p, weil r. #pro
     - <Name des Einwands gegen die These>: p falsch, weil s. #con
         - <Name der Entkräftung des Einwands>: s falsch, weil t . #pro
 ```
+## Weitere Verständnisfragen zum Textausschnitt von Merkel
+
+```argdown-map
+===
+webComponent:
+  withoutHeader: true
+===
+
+[Tötungsverbot]: #pro
+   <+ <Argument vom Recht auf Leben> #pro
+    <+ [Menschenwürde des Embryos] #pro
+
+[Menschenwürde des Embryos]: #pro
+      <+ <Speziesargument>: #pro
+      <+ <Identitätsargument>: #pro
+
+<Einwand des naturalistischen Fehlschlusses>: Das Speziesargument ist nicht haltbar, **weil** es unmöglich ist Normen direkt aus einem Faktum abzuleiten. #con
+  -> <Speziesargument>
+
+<Einwand gegen das Identitätsargument>: Das Identitätsargument ist problematisch, **weil** die einzige relevante Identitätshinsicht (die des Genoms) als Grundlage einer Schutznorm nicht geeignet ist. #con 
+  -> <Identitätsargument>
+```
+
+## Weitere Fragen zum Textausschnitt von Merkel
+
+1. Wie genau funktioniert der `<Einwand des naturalistischen Fehlschlusses>`? Was genau wird damit begründet? Eine Aussage über das Argument oder eine Aussage des Arguments? 
+2. Ist der `<Einwand des naturalistischen Fehlschlusses>` berechtigt? 
+3. Wie genau ist der `<Einwand gegen das Identitätsargument>` zu verstehen? Was genau wird damit gezeigt und welche weiteren Annahmen gehen in die Überlegungen ein?
+4. Ist der `<Einwand gegen das Identitätsargument>` berechtigt? 
 
 # Motivation der Argumentationsanalyse
 
@@ -296,6 +328,17 @@ Zu klärende Fragen:
 
 # Organisatorisches & Kursüberblick
 
-👉 Siehe [Kursstartseite](xx) und [Syllabus](xx)
+👉 Siehe [Kursstartseite](https://argumentkartierung.github.io/hhu-philosophisches-argumentieren-ws-26-27/) und den [Lehrplan](https://argumentkartierung.github.io/hhu-philosophisches-argumentieren-ws-26-27/content/syllabus.html)
 
 ## Zusammenfassung
+
+::: {.callout-note}
+## Wichtigste Punkte der heutigen Sitzung:
+1. Die Identifizierung intendierter Begründungsansprüche ist ein zentraler Schritt der Argumentationsanalyse. 
+2. Identifizierte Thesen, Aussagen, Argumenten, Einwände, Entkräftungen etc. können über einfache Argumentkarten visualisiert werden.
+3. Einfache Argumentkarten bestehen aus zwei Arten von Knoten (Aussagekästen und Argumentkästen) und zwei Arten von Argumentbeziehungen (Angriff und Stützung).
+4. Argumentanalyse dient der systematischen Beantwortung von Verständnisfragen und einer darauf aufbauenden Evaluation von Argumentation.
+:::
+
+<!-- ## Literatur -->
+

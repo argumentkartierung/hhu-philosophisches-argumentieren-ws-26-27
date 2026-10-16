@@ -15,8 +15,12 @@ website:
 
 
 
-        - text: "Sitzung 1"
+        - section: "Sitzung 1"
           href: content/modules/sitzung-01.qmd
+          contents:
+            - text: "Übungsblatt"
+              href: content/assignments/sitzung-01-assignment.qmd
+
 
 
 

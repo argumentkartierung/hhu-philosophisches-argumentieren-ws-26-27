@@ -76,3 +76,12 @@ TODO: Add content.
 
 
 
+
+
+
+- **Übungsblatt**: [{{< fa link >}}](../assignments/sitzung-01-assignment.html) | [{{< fa file-pdf >}}](../assignments/sitzung-01-assignment.pdf)
+
+
+
+
+

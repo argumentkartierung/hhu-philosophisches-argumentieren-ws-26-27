@@ -1,0 +1,76 @@
+---
+title: "Übungsblatt: Sitzung 1 (16.10.2026) - Kursüberblick & Einfache Argumentkarten"
+date: "2026-10-16"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  html: default
+  pdf: default
+---
+
+## Hörster zum Theodizee Problem
+
+In der nächsten Sitzung benutzen wir den folgenden Textausschnitt als Grundlage für eine Argumentationsanalyse. Bitte bearbeiten Sie die unten formulierten Aufgaben bis kommenden Donnerstag (Frist: Do., 21.10., 23:59).
+
+
+Der Textausschnitt:
+
+::: {.line-number}
+
+In dem vorliegenden Kapitel wollen wir uns mit Argumenten befassen, die gegen die Existenz Gottes sprechen. [...]
+
+Im Mittelpunkt aller Kontra-Argumente steht das sogenannte Theodizee-Problem, das heißt das Problem der Rechtfertigung Gottes angesichts des Übels in der Welt: Wie kann ein uneingeschränkt vollkommener Gott, also ein personales Wesen, das sowohl allmächtig (einschließlich allwissend) als auch allgütig (einschließlich allgerecht) ist, es zulassen oder sogar wollen, daß die von ihm geschaffene sowie erhaltene und gelenkte Welt jene offenkundigen Übel enthält, die kein Betrachter dieser Welt leugnen kann? Der Atheist hält dieses Problem nicht für lösbar. Er glaubt, mit Epikur von Gott behaupten zu können: «Ist er willens, aber nicht fähig, Übel zu verhindern? Dann ist er ohnmächtig. Ist er fähig, aber nicht willens? Dann ist er boshaft. Ist er sowohl fähig als auch willens? Woher kommt dann das Übel?» (Zitiert nach: Hume 1,5. 99.)
+
+Der Atheist ist mit seinem Kontra-Argument nicht etwa darauf aus, die Existenz schlechthin jedes göttlichen Wesens zu leugnen. Er leugnet lediglich die Existenz eines göttlichen Wesens, das sowohl allmächtig als auch allgütig ist, mit anderen Worten: die Existenz Gottes. Angesichts des unbezweifelbaren Übels in der Welt hält er ein Weltbild unter Einschluß der Existenz Gottes für in sich widersprüchlich und damit für irrational. Nach seiner Überzeugung muß der Theist den Glauben an zumindest eine der beiden genannten Eigenschaften Gottes preisgeben. [...]
+
+Das Theodizee-Problem, das Problem des Übels, ist ganz offenbar ein ernsthaftes Problem, das jeder Theist, der seinen Glauben für rational vertretbar hält, als Herausforderung ansehen und deshalb zu lösen versuchen muß.
+
+Wie könnte eine Lösung aussehen? Ohne Zweifel wäre es keine vertretbare Lösung, einfach die Existenz des Übels in der Welt zu leugnen. [...] [E]s [gibt] genügend Phänomene in der Welt, deren Übelcharakter von keiner halbwegs vernünftigen Person bestritten wird. So ist jedes unverschuldete Leiden mit Sicherheit ein Übel. [...]
+
+Was der Theist unter diesen Umständen benötigt, ist so etwas wie eine überzeugende *Brückenthese*, das heißt eine These, die ihm die Möglichkeit verschafft, den behaupteten Widerspruch zwischen Gottes Allmächtigkeit und Allgüte auf der einen Seite und der Existenz des Übels auf der anderen Seite wirksam zu überbrücken und damit als einen nur *scheinbaren* Widerspruch zu erweisen. [...]
+
+Den Kern all dieser Brückenthesen bildet die Zurückweisung der Annahme, daß ein allmächtiges und allgütiges Wesen *niemals* ein Übel verursachen würde, verbunden mit der positiven Behauptung, daß auch ein solches Wesen durchaus dann ein Übel verursachen würde, wenn dieses Übel die *zwingende Voraussetzung zur Herbeiführung eines größeren Gutes* ist. Und um es gleich zu sagen: Mit dieser Behauptung, die im Zentrum jeder ernsthaften Theodizee stehen muß, hat der Theist ganz sicher recht! Die generelle Annahme, wonach ein gutes Wesen jedenfalls absichtlich niemals ein Übel verursachen würde, ist oberflächlich sowie falsch . [...]
+
+Nach alledem lautet die für das Theodizee-Problem alles entscheidende Frage: Kann der Theist wirklich zeigen, daß jene Übel,
+die die Welt mit Sicherheit enthält, keine in dem Sinn überflässigen Übel sind, daß sie sogar für ein allmächtiges Wesen eine notwendige Voraussetzung zur Herbeiführung größerer, die Übel an Wert übertreffender Güter sind? Ist die tatsächliche Welt mit ihrem Übel also besser als jede andere, mögliche Welt ohne oder mit weniger Übel? [@hoerster_frage_2005, S. 87--89]
+:::
+
+## 1. Aufgabe: Textarbeit (unbepunktet)
+
+Lesen Sie als Vorbereitung für die nächste Aufgabe (und die kommende Sitzung) den kurzen Textabschnitt von Hörster und annotieren Sie im Text Argumentationsanzeiger und argumentativ relevante Textbestandteile. Notieren Sie sich ggf. Analysefragen und entsprechende Hypothesen.
+
+*Hinweise:* 
+
++ Beachten Sie dafür ggf. die Hinweise auf den Folien der letzten Sitzung.
++ Ihre Annotationen und Bemerkungen sollen *nicht* abgegeben werden.
+
+## 2. Aufgabe: Fragen zum Text (0--4 Punkte)
+
+Beantworten Sie die Fragen zum Text in der Moodle-Aufgabe "Übungsblatt 1, Aufgabe 2" (<https://moodle.phil.hhu.de/mod/quiz/view.php?id=123588>).
+
+<!--
+8 Antwortoptionen, davon 4 richtig
+
+1. Hörster vertritt im Textauschnitt die These, dass es einen uneingeschränkt vollkommenen Gott nicht gibt. (falsch)
+  + Hörster diskutiert und kommentiert ein Kontra-Argument und dessen mögliche Entkräftung im Text. Welche Position er bzgl. dieser These vertritt, lässt er offen.
+2. Hörster diskutiert im Textauschnitt das Theodizee-Problem, indem er die Grundidee dieses Kontra-Arguments erläutert und bespricht, wie Theisten versuchen können, dieses Problem zu lösen. (richtig)
+3. Im Textausschnitt wird die Eigenschaft "Gott ist uneingeschränkt vollkommen." verstanden als "Gott ist entweder allmächtig (einschließlich allwissend) oder Gott ist allgütig (einschließlich allgerecht)." (falsch)
+  + Das ist falsch. Hörster erläutert, dass mit der uneingeschränkten Vollkommenheit Gottes gemeint ist, dass Gott sowohl allmächtig als auch allgütig ist (vgl. Zeilen 5--6 in der PDF).
+
+4. Das Kontra-Argument des Theodizee-Problems des Atheisten soll laut Hörster zeigen, dass es schlechthin kein göttliches Wesen gibt. (falsch)
+  + Das ist falsch. Hörster erläutert explizit, dass dies nicht das argumentative Ziel des Kontra-Arguments ist (vgl. Zeilen 12--13 in der PDF).
+
+5. Das Kontra-Argument des Theodizee-Problems beruht laut Hörster auf der Annahme, dass die Existenz von Übel in der Welt im Widerspruch zu Gottes Allmächtigkeit und Allgüte steht. (richtig)
+  + Das ist richtig. Laut Hörster besteht die Hauptidee des Kontra-Arguments in genau diesem behaupteten Widerspruch (vgl. die Zeilen 26--27 in der PDF).
+6. Laut Hörster besteht die aussichtsreichste Strategie, das Kontra-Argument des Theodizee-Problems zu entkräften, darin, dass man zeigt bzw. dafür argumentiert, dass es in der Welt kein Übel gibt. (falsch)
+  + Das ist falsch. Hörster sagt explizit, dass eine solche Strategie aussichtslos ist, und nennt als Beispiel unverschuldete Übel (vgl. Zeilen 21--24).
+7. Laut Hörster besteht eine mögliche Strategie, das Kontra-Argument des Theodizee-Problems zu entkräften, darin, dass der Theist zeigt, dass der behauptete Widerspruch des Theodizee-Problems nur ein scheinbarer Widerspruch ist. (richtig)
+  + Das ist richtig (vgl. Zeilen 25--28 in der PDF).
+8. Laut Hörster kann der Theist das Kontra-Argument des Theodizee-Problems entkräften, indem gezeigt wird, dass ein uneingeschränkt vollkommenes Wesen durchaus dann ein Übel verursachen würde, wenn dieses Übel die zwingende Voraussetzung zur Herbeiführung eines größeren Gutes ist. (richtig)
+  + Das ist richtig (vgl. Zeilen 29--32 in der PDF).
+-->
