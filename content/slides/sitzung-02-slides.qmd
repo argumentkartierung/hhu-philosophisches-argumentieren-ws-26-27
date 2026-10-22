@@ -1,0 +1,401 @@
+---
+title: "Sitzung 2: Struktur von Argumenten"
+date: "2026-10-23"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  revealjs:
+    theme: [default, ../../assets/styles/slides.scss]
+    slide-number: true
+    preview-links: auto
+---
+
+## Die wichtigsten Punkte der letzten Sitzung
+
+::: {.callout-note}
+## Die wichtigsten Punkte der letzten Sitzung:
+1. Die **Identifizierung intendierter Begründungsansprüche** ist ein zentraler Schritt der Argumentationsanalyse. 
+2. Identifizierte Thesen, Aussagen, Argumenten, Einwände, Entkräftungen etc. können über einfache Argumentkarten visualisiert werden.
+3. **Einfache Argumentkarten** bestehen aus zwei Arten von Knoten (Aussagekästen und Argumentkästen) und zwei Arten von Argumentbeziehungen (Angriff und Stützung).
+4. **Argumentanalyse** dient der systematischen Beantwortung von Verständnisfragen und einer darauf aufbauenden Evaluation von Argumentation.
+:::
+
+## Ablauf einer Argumentationsanalyse (bisheriger Stand)
+
+![](../../assets/images/hermeneutical_loop_04_a.jpg)
+
+## Agenda für heute
+
+1. Makrostruktur der Textausschnitts von Hörster
+2. Struktur und Rekonstruktion von Argumenten
+3. Gemeinsame Rekonstruktion eines Arguments aus dem Hörstertext
+4. Die Begründungsbeziehung
+
+# 1. Makrostruktur der Textausschnitts von Hörster
+
+👉 Siehe Mitschrift zur heutigen Sitzung
+
+
+# 2. Struktur und Rekonstruktion von Argumenten
+
+## Was sind Argumente?
+
+::: {.callout-note}
+## Allgemeine Beschreibung von Argumenten
+Ein Argument ist eine Menge von Sätzen, derart, dass ein Teil der Sätze (die Prämissen) mit dem **Anspruch** formuliert werden, einen anderen Teil zu begründen (die Konklusion).
+:::
+
+
+**Standardform**: Prämissen-Konklusion-Struktur
+
+```argdown
+(1) Erste Prämisse...
+(2) Zweite Prämisse...
+(3) ...
+----
+(4) *Also*: Konklusion
+```
+
+## Ein einfaches Beispiel
+
+> Elvira ist eine begabte Philosophin. Sie wird daher eine gute Arbeitsstelle finden, weil alle begabten Philosoph:innen eine gute Arbeitsstelle finden werden.
+
+## Ein einfaches Beispiel
+
+> Elvira ist eine begabte Philosophin. Sie wird daher eine gute Arbeitsstelle finden, weil alle begabten Philosoph:innen eine gute Arbeitsstelle finden werden.
+
+
+```argdown
+(1) Elvira ist eine begabte Philosophin.
+(2) Alle begabten Philosoph:innen werden eine gute Arbeitsstelle finden.
+----
+(3) *Also:* Elvira wird eine gute Arbeitsstelle finden.
+```
+
+## Rekonstruktion von Argumenten als "Verstehensmethode"
+
+::: {.callout-note}
+## Rekonstruktion von Argumenten
+Überführung umgangssprachlich formulierter Argumente in eine Standarddarstellung (so dass bestimmte Rekonstruktionsprinzipien erfüllt sind).
+:::
+
+👉 Ein Argument versteht man nur dann (hinreichend), wenn man das Argument rekonstruieren kann.
+
+## Argumente mit Unterargumenten/Zwischenkonklusionen
+
+::: {.callout-note}
+## Zwischenkonklusionen und Unterargumente
+Eine Aussage, die in einem Argument sowohl begründet wird als auch selbst als Begründung angeführt wird, heißt Zwischenkonklusion. Aussagen des Arguments, die eine Zwischenkonklusion begründen, bilden mit ihr zusammen ein Unterargument.
+:::
+
+Schematisch:
+
+```argdown
+(1) 1. Prämisse.
+-- begründet durch (1) --
+(2) Zwischenkonklusion.
+(3) 2. Prämisse.
+-- begründet durch 2 & 3 -- 
+(4) Konklusion.
+```
+
+## Argument mit Unterargumenten/Zwischenkonklusionen
+
+oder auch komplexer:
+
+```argdown
+(1) 1. Prämisse.
+(2) 2. Prämisse.
+-- begründet durch 1 & 2 --
+(3) 1. Zwischenkonklusion.
+(4) 3. Prämisse.
+(5) 4. Prämisse.
+-- begründet durch 4 & 5 -- 
+(6) 2. Zwischenkonklusion.
+-- begründet durch 3 & 6 -- 
+(7) Konklusion.
+```
+
+
+## Argument mit Unterargumenten/Zwischenkonklusionen
+
+oder auch komplexer:
+
+```argdown-map
+===
+webComponent:
+  views:
+    map: true
+selection:
+  statementSelectionMode: all # adds all statements as nodes to the map
+model:
+  explodeArguments: true # adds argument nodes for each inferential step of each argument
+map:
+  argumentLabelMode: none # no text in argument nodes
+  statementLabelMode: text # no titles in statement nodes
+dot:
+  argument:
+    shape: circle # argument nodes are in the shape of circles
+    minWidth: 0.2 # let's make those circles really small
+  graphVizSettings:
+    rankdir: TB # arrows flow from top to bottom (to produce a tree-like structure)
+===
+(1) 1. Prämisse.
+(2) 2. Prämisse.
+-- {uses:[1,2]} --
+(3) 1. Zwischenkonklusion.
+(4) 3. Prämisse.
+(5) 4. Prämisse.
+-- {uses:[4,5]} -- 
+(6) 2. Zwischenkonklusion.
+-- {uses:[3,6]} -- 
+(7) Konklusion.
+```
+
+## Argument mit Unterargumenten/Zwischenkonklusionen: Buchführung
+
+oder auch komplexer:
+
+```argdown
+(1) 1. Prämisse.
+(2) 2. Prämisse.
+-- begründet durch 1 & 2 --
+(3) 1. Zwischenkonklusion.
+(4) 3. Prämisse.
+(5) 4. Prämisse.
+-- begründet durch 4 & 5 -- 
+(6) 2. Zwischenkonklusion.
+-- begründet durch 3 & 6 -- 
+(7) Konklusion.
+```
+
+
+::: {.callout-important}
+## Buchführung
+Machen sie in der Rekonstruktion von Argumenten deutlich, welche Sätze für die Begründung welcher anderen Sätze angeführt werden!
+:::
+
+
+# 3. Gemeinsame Rekonstruktion eines Arguments aus dem Hörstertext
+
+👉 Siehe Mitschrift zur heutigen Sitzung
+
+
+# 4. Die Begründungsbeziehung
+
+## Begründungsansprüche
+
+
+::: {.callout-note}
+## Allgemeine Beschreibung von Argumenten
+Ein Argument ist eine Menge von Sätzen, derart, dass ein Teil der Sätze (die Prämissen) mit dem **Anspruch** formuliert werden, einen anderen Teil zu begründen (die Konklusion).
+:::
+
+👉 Ziel der Argumentationsanalyse ist es, sich Klarheit darüber zu verschaffen, ob und wie diese Begründungsansprüche eingelöst werden.
+
+🤔 Frage: Wann begründen denn nun aber die Prämissen die Konklusion?
+
+## Begründungsbeziehung
+
+Begründet bzw. rechtfertigt jemand eine Konklusion mit Hilfe von Prämissen, wird i.A. zweierlei behauptet:
+
+1. Die Prämissen sind wahr/plausibel.
+2. Die Prämissen stehen in einer rechtfertigenden Beziehung zur Konklusion.
+
+Wie sich herausstellt, kann man diese Fragen trennen:
+
++ D.h. ein Argument kann wahre/plausible Prämissen besitzen, ohne dass die Prämissen in einer rechtfertigenden Beziehung zueinander stehen und umgekehrt kann ein Argument falsche/unplausible Prämissen besitzen, die in einer rechtfertigenden Beziehungen zur Konklusion stehen.
+
+## Begründungsbeziehung
+
+Ein Beispiel:
+
+```argdown
+(1) Potsdam liegt östlich von Berlin.
+(2) Berlin liegt östlich von Hannover.
+-- aus 1,2 --
+(3) Also: Potsdam liegt östlich von Hannover.
+```
+
+Ein weiteres Beispiel:
+
+```argdown
+(1) Der Mond rotiert gebunden um die Erde.
+-- aus 1 --
+(2) Also: Berlin ist die Hauptstadt von DL.
+```
+
+Wie steht es in diesen Beispielen um die Begründungsbeziehung und die Plausibilität der Prämissen?
+
+## Begründungsbeziehung: Deduktive Gültigkeit
+
+Eine Möglichkeit der Präzisierung der 'rechtfertigenden Beziehung':
+
+::: {.callout-note}
+## Deduktiv gültige Argumente
+Argumente sind deduktiv gültig genau dann, wenn gilt: Sind die Prämissen wahr, kann die Konklusion nicht falsch sein. (Oder: Die Wahrheit der Prämissen, garantiert die Wahrheit der Konklusion. Oder: Die Konklusion folgt logisch aus den Prämissen.)
+:::
+
++ Für Argumente mit Zwischenkonklusion(en) wird entsprechend verlangt, dass jeder Schluss im Argument deduktiv gültig ist.
+
+## Begründungsrelationen - Deduktive Gültigkeit
+
++ Deduktive Gültigkeit wird sichergestellt durch die Bedeutung der benutzten Begriffe.
++ Deduktive Gültigkeit ist allerdings nicht die einzige mögliche Begründungsrelation zwischen Prämissen und Konklusion. (induktiv starke Argumente)
++ Ob ein Argument deduktiv gültig ist, ist z.T. unabhängig von der Frage, ob die Prämissen und die Konklusion wahr sind. 
+    + D.h. man kann die Frage nach der Wahrheit & Plausibilität der Prämissen von der Frage der ded. Gültigkeit des Arguments trennen. 
+
+
+<!--
+## Kleine Übung: Deduktive Gültigkeit
+
+::: {.callout-note}
+## Deduktiv gültige Argumente
+Argumente sind deduktiv gültig genau dann, wenn gilt: Sind die Prämissen wahr, kann die Konklusion nicht falsch sein.
+:::
+
+In einer Diskussion wird ein deduktiv gültiges Argument vorgebracht. Was gilt dann auf jeden Fall?
+
+1. Wenn mindestens eine der Prämissen falsch ist, ist die Konklusion falsch.
+2. Wenn alle Prämissen falsch sind, ist die Konklusion falsch.
+3. Wenn die Konklusion falsch ist, ist mindestens eine der Prämissen falsch.
+4. Wenn die Konklusion falsch ist, sind alle Prämissen falsch.
+-->
+
+## Begriff der Schlüssigkeit
+
+::: {.callout-note}
+## Schlüssige Argumente
+Argumente sind schlüssig genau dann, wenn gilt: Die Prämissen des Argument sind wahr und das Argument ist deduktiv gültig.
+:::
+
+
+## Nachweis deduktiver Gültigkeit
+
+**Deduktive Gültigkeit**: Wenn die Prämissen wahr sind, kann die Konklusion nicht falsch sein.
+
+🤔 Woher wissen wir, ob ein Argument deduktiv gültig ist? 
+
+## Schlussschemata und Schlussmuster
+
+```argdown
+<Kontra-Argument des Theodizee Problems>: Weil es Übel gibt, existiert Gott nicht. 
+
+(1) Wenn es Übel in der Welt gibt, dann gibt es keinen allmächtigen und 
+    allgütigen Gott gibt.
+(2) Es gibt Übel in der Welt.
+----
+(3) *Also:* Es gibt keinen allmächtigen und allgütigen Gott.
+```
+
+🤔 Deduktiv gültig?
+
+## Schlussschemata und Schlussmuster
+
+```argdown
+---
+argdown:
+  webComponent:
+    withoutHeader: true
+---
+<Kontra-Argument des Theodizee Problems>: Weil es Übel gibt, existiert Gott nicht. 
+
+(1) Wenn es Übel in der Welt gibt, dann gibt es keinen allmächtigen und 
+    allgütigen Gott gibt.
+(2) Es gibt Übel in der Welt.
+----
+(3) *Also:* Es gibt keinen allmächtigen und allgütigen Gott.
+```
+
+Was passiert, wenn wir bestimmte Bestandteile austauschen?
+
+## Schlussschemata und Schlussmuster
+
+```argdown
+<Kontra-Argument des Theodizee Problems>: Weil es Übel gibt, existiert Gott nicht. 
+
+(1) Wenn es Übel in der Welt gibt, **dann sind die Strassen nass.**
+(2) Es gibt Übel in der Welt.
+----
+(3) *Also:* **dann sind die Strassen nass.**
+```
+
+Ist immer noch deduktiv gültig!
+
+
+## Schlussschemata und Schlussmuster
+
+
+```argdown
+(1) Wenn **es regent**, dann
+	sind die Strassen nass.
+(2) **Es regnet**.
+-- aus 1,2 --
+(3) *Also*: Die Strassen sind nass.
+```
+
+Immer noch deduktiv gültig!
+
+
+## Schlussschemata und Schlussmuster
+
+Schematisch:
+
+```argdown
+(1) Wenn p, dann sind die Strassen nass.
+(2) p.
+-- aus 1,2 --
+(3) *Also*: Die Strassen sind nass.
+```
+
+## Schlussschemata und Schlussmuster
+
+Schematisch:
+
+```argdown
+(1) Wenn p, dann q.
+(2) p.
+-- aus 1,2 --
+(3) *Also*: q.
+```
+
+Jede Einsetzung dieses Schemas mit Aussagesätzen ergibt einen deduktiv gültigen Schluss.
+
+## Modus ponens
+
+```argdown
+<Argumentschema Modus Ponens>
+
+(1) Wenn p, dann q.
+(2) p.
+-- mit Modus Ponens aus 1,2 --
+(3) *Also*: q.
+```
+
+Jede Einsetzung dieses Schemas mit Aussagesätzen ergibt einen deduktiv gültigen Schluss.
+
++ Das entsprechende Schlussmuster heißt *modus ponens*.
+
+# Abschluss
+
+## Zusammenfassung
+
+::: {.callout-note}
+## Die wichtigsten Punkte der heutigen Sitzung:
+1. **Rekonstruktion von Argumenten:** Überführung umgangssprachlich formulierter Argumente in eine Standarddarstellung so dass Prämissen, Zwischenkonlusion und die Konklusion sowie die Schlüsse explizit gemacht werden.
+2. **Definition der deduktiven Gültigkeit:** Argumente sind deduktiv gültig genau dann, wenn gilt: Sind die Prämissen wahr, kann die Konklusion nicht falsch sein.
+3. **Nachweis deduktiver Gültigkeit:** Die deduktive Gültigkeit eines Arguments kann man nachweisen, indem man zeigt, dass das Argument ein deduktiv gültiges Argumentschema instanziiert. 
+:::
+
+
+## Fahrplan für die kommenden Sitzungen
+
++ Welche weiteren Schlussmuster gibt es?
++ Wie kann man feststellen, ob in einem bestimmten Argument eines dieser Schlussmuster verwendet wird?
++ Welche Argumente sollte als deduktiv gültig rekonstruiert werden (und welche nicht)?
+
