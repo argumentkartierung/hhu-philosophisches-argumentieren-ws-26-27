@@ -1,4 +1,8 @@
-.PHONY: all generate generate-force website slides slides-pdf handouts assignments clean clean-all
+.PHONY: all generate generate-force sync-assets website slides slides-pdf handouts assignments clean clean-all
+
+SYNC_SRC ?= /home/sebastian/Nextcloud/Documents/mindmaps/code/quarto-course-template/assets
+SYNC_DIRS := line-numbering markup
+ASSETS_DIR := assets
 
 # Generate stubs and config files from course.yaml
 generate:
@@ -8,26 +12,38 @@ generate:
 generate-force:
 	quarto-coursegen generate --force
 
+# Sync shared feature assets from template repository.
+# Override source path if needed: make SYNC_SRC=/path/to/template/assets website
+sync-assets:
+	@test -d "$(SYNC_SRC)" || (echo "Missing SYNC_SRC: $(SYNC_SRC)" && exit 1)
+	@mkdir -p "$(ASSETS_DIR)"
+	@for d in $(SYNC_DIRS); do \
+		test -d "$(SYNC_SRC)/$$d" || (echo "Missing source dir: $(SYNC_SRC)/$$d" && exit 1); \
+		echo "Syncing assets/$$d"; \
+		mkdir -p "$(ASSETS_DIR)/$$d"; \
+		rsync -a --delete "$(SYNC_SRC)/$$d/" "$(ASSETS_DIR)/$$d/"; \
+	done
+
 # Render the course website (HTML)
-website:
+website: sync-assets
 	quarto render
 
 # Render slides (reveal.js + Beamer PDF via Quarto)
-slides:
+slides: sync-assets
 	quarto render content/slides/
 
 # Export slides to PDF using Decktape (requires decktape installed globally).
-slides-pdf:
+slides-pdf: slides
 	for f in docs/content/slides/*.html; do \
 		./node_modules/.bin/decktape reveal "$$f" "$${f%.html}.pdf"; \
 	done
 
 # Render handouts (PDF)
-handouts:
+handouts: sync-assets
 	quarto render content/handouts/
 
 # Render assignments (HTML + PDF)
-assignments:
+assignments: sync-assets
 	quarto render content/assignments/
 
 # Render everything
