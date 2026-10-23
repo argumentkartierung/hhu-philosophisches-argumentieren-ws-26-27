@@ -25,8 +25,14 @@ website:
 
 
 
-        - text: "Sitzung 2"
+        - section: "Sitzung 2"
           href: content/modules/sitzung-02.qmd
+          contents:
+            - text: "Mitschrift"
+              href: content/notes/sitzung-02-notes.qmd
+            - text: "Übungsblatt"
+              href: content/assignments/sitzung-02-assignment.qmd
+
 
 
 

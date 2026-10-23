@@ -15,11 +15,47 @@ format:
 
 # Notizen zum Hörster Text
 
+Diese Notizen fassen unsere Zwischenergebnisse der Argumentationsanalyse des Hörster Textes zusammen. Sie können als Grundlage für eine weitergehende Analyse dienen.
+
+## Makrostruktur: Einfache Argumentkarte 
+
+```argdown-map
+[Gottes-These]: Ein allmächtiger und allgütiger Gott existiert. #pro
+	<- <Theodizee Problem>: Wenn es Übel in der Welt gibt, könnte eine allmächtiger und allgütiger Gott nicht existieren. #contra
+		<- <Argument von der Brückenthese>:  Ein allmächtiger und allgüter Gott würde notwendiges Übel verursachen. #pro
+```
+
+## Rekonstruktion der Argumente
+
+Erste Version des Kontra-Arguments (Theodizee-Problem) in der Standdardform:
+
+```argdown
+<Theodizee Problem>:  Wenn es Übel in der Welt gibt, könnte eine allmächtiger
+und allgütiger Gott nicht existieren.
+
+(1) Wenn es Leid in der Welt gäbe und Gott allgütig wäre, wäre er nicht
+	allmächtig.
+(2) Wenn es Leid in der Welt gäbe und Gott allmächtig wäre, wäre er nicht
+	allgütig.
+(3) Wenn Gott sowohl allgütig und allmächtig wäre, gabe es kein Leid.
+-- aus 1-3 (???) --
+(4) (Wenn es einen allmächtigen und allgütigen Gott gäbe, dann würde nicht
+	zulassen, dass es Leid in der Welt gibt.)
+	Wenn es Leid in der Welt gäbe, dann gäbe es keinen allmächtigen und
+	allgütigen Gott.
+(5) Es gibt Leid in der Welt.
+-- begründet mit 4 und 5 --
+(6) Also: Ein allmächtiger und allgütiger Gott existiert nicht.
+```
+
 ## Verständnisfragen
 
-...
+Zum Kontra-Argument (`<Theodizee Problem>`):
 
-## Einfache Argumentkarte 
++ Sind die beiden Formulierungensvarianten der Zwischenkonklusion (4) äquivalent?
++ Besteht bereits eine Begründungsbeziehung zwischen den Prämissen 1-3 und der Zwischenkonklusion (4). Folgt (4) bereits aus (1)-(3)?
 
-...
+Allgemeiner zum bisherigen Stand der identifzierten Makrostruktur:
 
++ Wie lässt sich die Entkräftung `<Argument von der Brückenthese>` besser verstehen? Wie kann die Entkräftung in die Standdardform überführt werden? Was sind die Prämissen des Arguments?
++ ...

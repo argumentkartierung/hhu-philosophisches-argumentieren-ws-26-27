@@ -122,6 +122,7 @@ oder auch komplexer:
 ```
 
 
+<!--
 ## Argument mit Unterargumenten/Zwischenkonklusionen
 
 oder auch komplexer:
@@ -156,6 +157,7 @@ dot:
 -- {uses:[3,6]} -- 
 (7) Konklusion.
 ```
+-->
 
 ## Argument mit Unterargumenten/Zwischenkonklusionen: Buchführung
 

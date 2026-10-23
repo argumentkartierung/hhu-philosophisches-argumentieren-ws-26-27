@@ -1,0 +1,41 @@
+---
+title: "Übungsblatt: Sitzung 2 (23.10.2026) - Struktur von Argumenten"
+date: "2026-10-23"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  html: default
+  pdf: default 
+---
+
+## Aufgabenstellung
+
+Beantworten Sie die Multiple-Choice-Fragen auf Moodle zu den eingeführten Begriffen der deduktiven Gültigkeit und der Schlüssigkeit (Frist: Donnerstag, 29.10., 23:59): <https://moodle.phil.hhu.de/mod/quiz/view.php?id=123955>
+
+::: {.callout-important}
+Aufgrund des PHP Problems auf den Uniseiten (<https://www.hhu.de/news-einzelansicht/webangebote-der-hhu-voruebergehend-nur-aus-dem-uninetz-erreichbar>) finden Sie die Aufgaben auch hier auf dem Aufgabenblatt. Die Abgabe sollte jedoch per Moodle erfolgen (sofern die Probleme bis zur Frist behoben sind). 
+::: 
+
+## Aufgabe 1 (0-2 Punkte)
+
+Was gilt für deduktiv gültige Argumente auf jeden Fall?
+
+1. Wenn alle Prämissen falsch sind, ist die Konklusion falsch.
+2. Wenn die Konklusion falsch ist, sind alle Prämissen falsch.
+3. Die Wahrheit der Prämissen des Arguments garantiert die Wahrheit seiner Konklusion.
+4. Wenn mindestens eine der Prämissen falsch ist, ist die Konklusion falsch.
+5. Wenn die Konklusion falsch ist, ist mindestens eine der Prämissen falsch.
+
+## Aufgabe 2 (0-2 Punkte)
+
+Wir wissen von einem Argument, dass seine Prämissen und seine Konklusion wahr sind. Was können wir daraus schließen?
+
+1. Es muss sich um ein schlüssiges Argument handeln.
+2. Das Argument ist zwar schlüssig, aber nicht notwendigerweise gültig.
+3. Wir wissen nicht viel. Denn das Argument kann entweder deduktiv gültig sein oder nicht.
+4. Das Argument ist notwendigerweise gültig.

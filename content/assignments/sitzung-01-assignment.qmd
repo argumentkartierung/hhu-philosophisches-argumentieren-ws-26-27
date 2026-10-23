@@ -53,6 +53,22 @@ Lesen Sie als Vorbereitung für die nächste Aufgabe (und die kommende Sitzung) 
 
 Beantworten Sie die Fragen zum Text in der Moodle-Aufgabe "Übungsblatt 1, Aufgabe 2" (<https://moodle.phil.hhu.de/mod/quiz/view.php?id=123588>).
 
+::: {.callout-important}
+Aufgrund des PHP Problems auf den Uniseiten (<https://www.hhu.de/news-einzelansicht/webangebote-der-hhu-voruebergehend-nur-aus-dem-uninetz-erreichbar>) kann die Abgabe auch per Mail erfolgen. Die Abgabefrist wird verlängert bis einschließlich Dienstag (27.10.)
+::: 
+
+Bitte beantworten Sie die folgenden Fragen zum Textausschnitt des ersten Übungsblattes (Sitzung 1, 16.10.).
+
+1. Hörster vertritt im Textauschnitt die These, dass es einen uneingeschränkt vollkommenen Gott nicht gibt.
+2. Hörster diskutiert im Textauschnitt das Theodizee-Problem, indem er die Grundidee dieses Kontra-Arguments erläutert und bespricht, wie Theisten versuchen können, dieses Problem zu lösen.
+3. Im Textausschnitt wird die Eigenschaft "Gott ist uneingeschränkt vollkommen." verstanden als "Gott ist entweder allmächtig (einschließlich allwissend) oder Gott ist allgütig (einschließlich allgerecht)."
+4. Das Kontra-Argument des Theodizee-Problems des Atheisten soll laut Hörster zeigen, dass es schlechthin kein göttliches Wesen gibt.
+5. Das Kontra-Argument des Theodizee-Problems beruht laut Hörster auf der Annahme, dass die Existenz von Übel in der Welt im Widerspruch zu Gottes Allmächtigkeit und Allgüte steht.
+6. Laut Hörster besteht die aussichtsreichste Strategie, das Kontra-Argument des Theodizee-Problems zu entkräften, darin, dass man zeigt bzw. dafür argumentiert, dass es in der Welt kein Übel gibt.
+7. Laut Hörster besteht eine mögliche Strategie, das Kontra-Argument des Theodizee-Problems zu entkräften, darin, dass der Theist zeigt, dass der behauptete Widerspruch des Theodizee-Problems nur ein scheinbarer Widerspruch ist.
+8. Laut Hörster kann der Theist das Kontra-Argument des Theodizee-Problems entkräften, indem gezeigt wird, dass ein uneingeschränkt vollkommenes Wesen durchaus dann ein Übel verursachen würde, wenn dieses Übel die zwingende Voraussetzung zur Herbeiführung eines größeren Gutes ist.
+
+
 <!--
 8 Antwortoptionen, davon 4 richtig
 
