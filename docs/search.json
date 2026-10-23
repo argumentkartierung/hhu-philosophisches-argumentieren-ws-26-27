@@ -1,17 +1,36 @@
 [
   {
+    "objectID": "content/notes/sitzung-02-notes.html#makrostruktur-einfache-argumentkarte",
+    "href": "content/notes/sitzung-02-notes.html#makrostruktur-einfache-argumentkarte",
+    "title": "Mitschrift: Sitzung 2 (23.10.2026) - Struktur von Argumenten",
+    "section": "Makrostruktur: Einfache Argumentkarte",
+    "text": "Makrostruktur: Einfache Argumentkarte\n[Gottes-These]: Ein allmächtiger und allgütiger Gott existiert. #pro\n    &lt;- &lt;Theodizee Problem&gt;: Wenn es Übel in der Welt gibt, könnte eine allmächtiger und allgütiger Gott nicht existieren. #contra\n        &lt;- &lt;Argument von der Brückenthese&gt;:  Ein allmächtiger und allgüter Gott würde notwendiges Übel verursachen. #pro\n\n\n\n\n\nArgument Map\n\n\nn0\n\n\nGottes-These\nEin allmächtiger und allgütiger Gott\n existiert. \n\n\n\n\n\nn1\n\n\nTheodizee Problem\nWenn es Übel in der Welt gibt, könnte\n eine allmächtiger und allgütiger Gott\n nicht existieren. \n\n\n\n\n\nn1-&gt;n0\n\n\n\n\n\n\n\n\nn2\n\n\nArgument von der Brückenthese\nEin allmächtiger und allgüter Gott\n würde notwendiges Übel verursachen. \n\n\n\n\n\nn2-&gt;n1",
+    "crumbs": [
+      "Sitzung 2",
+      "Mitschrift"
+    ]
+  },
+  {
+    "objectID": "content/notes/sitzung-02-notes.html#rekonstruktion-der-argumente",
+    "href": "content/notes/sitzung-02-notes.html#rekonstruktion-der-argumente",
+    "title": "Mitschrift: Sitzung 2 (23.10.2026) - Struktur von Argumenten",
+    "section": "Rekonstruktion der Argumente",
+    "text": "Rekonstruktion der Argumente\nErste Version des Kontra-Arguments (Theodizee-Problem) in der Standdardform:\n&lt;Theodizee Problem&gt;:  Wenn es Übel in der Welt gibt, könnte eine allmächtiger\nund allgütiger Gott nicht existieren.\n\n(1) Wenn es Leid in der Welt gäbe und Gott allgütig wäre, wäre er nicht\n    allmächtig.\n(2) Wenn es Leid in der Welt gäbe und Gott allmächtig wäre, wäre er nicht\n    allgütig.\n(3) Wenn Gott sowohl allgütig und allmächtig wäre, gabe es kein Leid.\n-- aus 1-3 (???) --\n(4) (Wenn es einen allmächtigen und allgütigen Gott gäbe, dann würde nicht\n    zulassen, dass es Leid in der Welt gibt.)\n    Wenn es Leid in der Welt gäbe, dann gäbe es keinen allmächtigen und\n    allgütigen Gott.\n(5) Es gibt Leid in der Welt.\n-- begründet mit 4 und 5 --\n(6) Also: Ein allmächtiger und allgütiger Gott existiert nicht.\n\n\n\n\nArgument Map",
+    "crumbs": [
+      "Sitzung 2",
+      "Mitschrift"
+    ]
+  },
+  {
     "objectID": "content/notes/sitzung-02-notes.html#verständnisfragen",
     "href": "content/notes/sitzung-02-notes.html#verständnisfragen",
     "title": "Mitschrift: Sitzung 2 (23.10.2026) - Struktur von Argumenten",
     "section": "Verständnisfragen",
-    "text": "Verständnisfragen\n…"
-  },
-  {
-    "objectID": "content/notes/sitzung-02-notes.html#einfache-argumentkarte",
-    "href": "content/notes/sitzung-02-notes.html#einfache-argumentkarte",
-    "title": "Mitschrift: Sitzung 2 (23.10.2026) - Struktur von Argumenten",
-    "section": "Einfache Argumentkarte",
-    "text": "Einfache Argumentkarte\n…"
+    "text": "Verständnisfragen\nZum Kontra-Argument (&lt;Theodizee Problem&gt;):\n\nSind die beiden Formulierungensvarianten der Zwischenkonklusion (4) äquivalent?\nBesteht bereits eine Begründungsbeziehung zwischen den Prämissen 1-3 und der Zwischenkonklusion (4). Folgt (4) bereits aus (1)-(3)?\n\nAllgemeiner zum bisherigen Stand der identifzierten Makrostruktur:\n\nWie lässt sich die Entkräftung &lt;Argument von der Brückenthese&gt; besser verstehen? Wie kann die Entkräftung in die Standdardform überführt werden? Was sind die Prämissen des Arguments?\n…",
+    "crumbs": [
+      "Sitzung 2",
+      "Mitschrift"
+    ]
   },
   {
     "objectID": "content/assignments/sitzung-01-assignment.html#hörster-zum-theodizee-problem",
@@ -40,7 +59,7 @@
     "href": "content/assignments/sitzung-01-assignment.html#aufgabe-fragen-zum-text-04-punkte",
     "title": "Übungsblatt: Sitzung 1 (16.10.2026) - Kursüberblick & Einfache Argumentkarten",
     "section": "2. Aufgabe: Fragen zum Text (0–4 Punkte)",
-    "text": "2. Aufgabe: Fragen zum Text (0–4 Punkte)\nBeantworten Sie die Fragen zum Text in der Moodle-Aufgabe “Übungsblatt 1, Aufgabe 2” (https://moodle.phil.hhu.de/mod/quiz/view.php?id=123588).",
+    "text": "2. Aufgabe: Fragen zum Text (0–4 Punkte)\nBeantworten Sie die Fragen zum Text in der Moodle-Aufgabe “Übungsblatt 1, Aufgabe 2” (https://moodle.phil.hhu.de/mod/quiz/view.php?id=123588).\n\n\n\n\n\n\nWichtig\n\n\n\nAufgrund des PHP Problems auf den Uniseiten (https://www.hhu.de/news-einzelansicht/webangebote-der-hhu-voruebergehend-nur-aus-dem-uninetz-erreichbar) kann die Abgabe auch per Mail erfolgen. Die Abgabefrist wird verlängert bis einschließlich Dienstag (27.10.)\n\n\nBitte beantworten Sie die folgenden Fragen zum Textausschnitt des ersten Übungsblattes (Sitzung 1, 16.10.).\n\nHörster vertritt im Textauschnitt die These, dass es einen uneingeschränkt vollkommenen Gott nicht gibt.\nHörster diskutiert im Textauschnitt das Theodizee-Problem, indem er die Grundidee dieses Kontra-Arguments erläutert und bespricht, wie Theisten versuchen können, dieses Problem zu lösen.\nIm Textausschnitt wird die Eigenschaft “Gott ist uneingeschränkt vollkommen.” verstanden als “Gott ist entweder allmächtig (einschließlich allwissend) oder Gott ist allgütig (einschließlich allgerecht).”\nDas Kontra-Argument des Theodizee-Problems des Atheisten soll laut Hörster zeigen, dass es schlechthin kein göttliches Wesen gibt.\nDas Kontra-Argument des Theodizee-Problems beruht laut Hörster auf der Annahme, dass die Existenz von Übel in der Welt im Widerspruch zu Gottes Allmächtigkeit und Allgüte steht.\nLaut Hörster besteht die aussichtsreichste Strategie, das Kontra-Argument des Theodizee-Problems zu entkräften, darin, dass man zeigt bzw. dafür argumentiert, dass es in der Welt kein Übel gibt.\nLaut Hörster besteht eine mögliche Strategie, das Kontra-Argument des Theodizee-Problems zu entkräften, darin, dass der Theist zeigt, dass der behauptete Widerspruch des Theodizee-Problems nur ein scheinbarer Widerspruch ist.\nLaut Hörster kann der Theist das Kontra-Argument des Theodizee-Problems entkräften, indem gezeigt wird, dass ein uneingeschränkt vollkommenes Wesen durchaus dann ein Übel verursachen würde, wenn dieses Übel die zwingende Voraussetzung zur Herbeiführung eines größeren Gutes ist.",
     "crumbs": [
       "Sitzung 1",
       "Übungsblatt"
@@ -476,7 +495,7 @@
     "href": "content/modules/sitzung-02.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120666f6c6465722d6f70656e203e7d7d-materialien",
     "title": "Sitzung 2 (23.10.2026)",
     "section": " Materialien",
-    "text": "Materialien\n\nFolien:  | \nÜbungsblatt:  |",
+    "text": "Materialien\n\nFolien:  | \nMitschrift:  | \nÜbungsblatt:  |",
     "crumbs": [
       "Sitzung 2"
     ]
@@ -808,7 +827,29 @@
     "href": "content/assignments/sitzung-02-assignment.html#aufgabenstellung",
     "title": "Übungsblatt: Sitzung 2 (23.10.2026) - Struktur von Argumenten",
     "section": "Aufgabenstellung",
-    "text": "Aufgabenstellung\nBeantworten Sie die Multiple-Choice-Fragen auf Moodle zu den Begriffen der deduktiven Gültigkeit und der Schlüssigkeit: https://moodle.phil.hhu.de/mod/quiz/view.php?id=123955",
+    "text": "Aufgabenstellung\nBeantworten Sie die Multiple-Choice-Fragen auf Moodle zu den eingeführten Begriffen der deduktiven Gültigkeit und der Schlüssigkeit (Frist: Donnerstag, 29.10., 23:59): https://moodle.phil.hhu.de/mod/quiz/view.php?id=123955\n\n\n\n\n\n\nWichtig\n\n\n\nAufgrund des PHP Problems auf den Uniseiten (https://www.hhu.de/news-einzelansicht/webangebote-der-hhu-voruebergehend-nur-aus-dem-uninetz-erreichbar) finden Sie die Aufgaben auch hier auf dem Aufgabenblatt. Die Abgabe sollte jedoch per Moodle erfolgen (sofern die Probleme bis zur Frist behoben sind).",
+    "crumbs": [
+      "Sitzung 2",
+      "Übungsblatt"
+    ]
+  },
+  {
+    "objectID": "content/assignments/sitzung-02-assignment.html#aufgabe-1-0-2-punkte",
+    "href": "content/assignments/sitzung-02-assignment.html#aufgabe-1-0-2-punkte",
+    "title": "Übungsblatt: Sitzung 2 (23.10.2026) - Struktur von Argumenten",
+    "section": "Aufgabe 1 (0-2 Punkte)",
+    "text": "Aufgabe 1 (0-2 Punkte)\nWas gilt für deduktiv gültige Argumente auf jeden Fall?\n\nWenn alle Prämissen falsch sind, ist die Konklusion falsch.\nWenn die Konklusion falsch ist, sind alle Prämissen falsch.\nDie Wahrheit der Prämissen des Arguments garantiert die Wahrheit seiner Konklusion.\nWenn mindestens eine der Prämissen falsch ist, ist die Konklusion falsch.\nWenn die Konklusion falsch ist, ist mindestens eine der Prämissen falsch.",
+    "crumbs": [
+      "Sitzung 2",
+      "Übungsblatt"
+    ]
+  },
+  {
+    "objectID": "content/assignments/sitzung-02-assignment.html#aufgabe-2-0-2-punkte",
+    "href": "content/assignments/sitzung-02-assignment.html#aufgabe-2-0-2-punkte",
+    "title": "Übungsblatt: Sitzung 2 (23.10.2026) - Struktur von Argumenten",
+    "section": "Aufgabe 2 (0-2 Punkte)",
+    "text": "Aufgabe 2 (0-2 Punkte)\nWir wissen von einem Argument, dass seine Prämissen und seine Konklusion wahr sind. Was können wir daraus schließen?\n\nEs muss sich um ein schlüssiges Argument handeln.\nDas Argument ist zwar schlüssig, aber nicht notwendigerweise gültig.\nWir wissen nicht viel. Denn das Argument kann entweder deduktiv gültig sein oder nicht.\nDas Argument ist notwendigerweise gültig.",
     "crumbs": [
       "Sitzung 2",
       "Übungsblatt"
