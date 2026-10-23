@@ -47,6 +47,19 @@ $callout-color-important: $hhu-darkblue;  // HHU Dunkelblau
     margin-bottom: 0.8em;
   }
 
+.reveal argdown-map {
+  display: block !important;
+  width: 100% !important;
+  // height: 420px !important;
+  max-height: 60vh !important;
+}
+
+.reveal argdown-map [slot="source"],
+.reveal argdown-map [slot="map"] {
+  display: block;
+  height: 100%;
+}
+
 /*-- callout color overrides --*/
 
 .reveal .callout-note {
