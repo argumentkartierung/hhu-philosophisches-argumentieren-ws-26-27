@@ -37,8 +37,12 @@ website:
 
 
 
-        - text: "Sitzung 3"
+        - section: "Sitzung 3"
           href: content/modules/sitzung-03.qmd
+          contents:
+            - text: "Übungsblatt"
+              href: content/assignments/sitzung-03-assignment.qmd
+
 
 
 
