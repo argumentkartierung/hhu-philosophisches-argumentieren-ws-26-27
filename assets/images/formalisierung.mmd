@@ -1,0 +1,32 @@
+---
+config:
+  theme: 'neutral'
+---
+
+%% Ziel: Prüfung der Gültigkeit (mit Hilfe der aussagenlogischen Schlussmuster).
+%% 1. Intuitiv: Ist das Argument deduktiv gültig?
+%%     a. Ja: An welchen Termine hängt die Gültigkeit? Insbesondere: Ist das Argument gültig aufgrund der Bedeutung der aussagenlogischen Satzoperatoren ("und", "oder", "wenn-dann", "nicht")? 
+%%         i. Nein: Ergänzung impliziter Prämissen und weiter mit 1. 
+%%         ii. Ja: Aussagenlogische Formalisierung der Sätze:
+%%             + Angabe einer logischen Form (ist nicht immer eindeutig) mit Zuordnungstabelle.
+%%             + Ist die gefundene Formalisierung adäquat? (Durch Rückübersetzung prüfen, ob die Formalisierungsregeln eingehalten wurden.)
+%%                 + Ja: Folgt die Konkusion bereits mit aussagenlogischen Schlussmustern? Fertig.
+%%                 + Nein: Weiter mit (1.a.ii) oder bei hinreichend hoher nicht erfolgreicher Iteration: Ergänzung impliziter Prämissen und/oder Reformulierung der Sätze.
+%%     b. Nein: Ergänzung impliziter Prämissen und/oder Reformulierung der Sätze, so dass das Argument deduktiv gültig ist. Weiter mit 1.
+%% Adäquatheitsbedingungen für die Formalisierung:
+%% + Platzhalter $p,q,...$ stehen für Aussagesätze.
+%% + Es dürfen keine Bedeutungsbestandteile hinzugefügt werden, die nicht im Ausgangssatz enthalten.
+
+flowchart LR
+    START(["📄</br>Argument in</br>Standarddarstellung"]) --> A{"🤔</br>Intuitiv</br><b>deduktiv gültig?</b>"}
+    A -- Nein --> X["✏️</br>Implizite Prämissen</br>ergänzen oder</br>Sätze umformulieren"]
+    X --> A
+    A -- Ja --> B{"🔍</br>Gültigkeit durch</br>auss.log. Operatoren</br>bedingt?"}
+    B -- Nein --> X
+    B -- Ja --> C["🔣</br>Auss.log.</br><b>Formalisierung</b></br>mit Zuordnungstabelle"]
+    C --> D{"🔄</br><b>Formalisierung</br>adäquat?</b></br>(Rückübersetzung)"}
+    D -- Nein --> C
+    D -- Ja --> E{"🎯</br><b>Konklusion folgt</b></br>mit auss.log.</br>Schlussmustern?"}
+    E -- Ja --> DONE(["🎉</br>Fertig!"])
+    E -- Nein --> C
+    E -- "Nein (nach vielen</br>Versuchen)" --> X

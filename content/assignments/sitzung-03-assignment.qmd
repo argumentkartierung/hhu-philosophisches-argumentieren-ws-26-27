@@ -1,0 +1,55 @@
+---
+title: "Übungsblatt: Sitzung 3 (30.10.2026) - Formal-logische Gültigkeit und aussagenlogische Formalisierung"
+date: "2026-10-30"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  html: default
+  pdf: default
+---
+
+## Aufgabe 1 (0-2 Punkte) 
+
+Beantworten Sie die Multiple-Choice-Frage auf Moodle zu Formulierungsvarianten von Subjunktionen: <https://moodle.phil.hhu.de/mod/quiz/view.php?id=124201>
+
+Es gibt zahlreiche Formulierungsvarianten, anhand derer notwendige und hinreichende Bedingungen zum Ausdruck gebracht werden können. Die Ausdrücke "notwendig" und "hinreichend" müssen dabei selbstverständlich nicht immer explizit vorkommen!
+
+Welche der untenstehenden Sätze sind bezüglich der notwendigen und hinreichenden Bedingungen bedeutungsgleiche Reformulierungen des folgenden Satzes?
+
+> *"Nur wenn der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement führt, sind Keimbahntherapien moralisch zulässig."*
+
+1. Wenn Keimbahntherapien moralisch zulässig sind, dann führt der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement.
+2. Wenn der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement führt, sind Keimbahntherapien moralisch zulässig.
+3. Dass der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement führt, ist hinreichend für die moralische Zulässigkeit von Keimbahntherapien.
+4. Nur dann führt der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement, wenn Keimbahntherapien moralisch zulässig sind.
+5. Die moralische Zulässigkeit von Keimbahntherapien ist notwendig dafür, dass der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement führt.
+6. Keimbahntherapien sind nur dann moralisch zulässig, wenn der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement führt.
+7. Ohne dass der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement führt, sind Keimbahntherapien nicht moralisch zulässig.
+
+
+## Aufgabe 2 (0-2 Punkte)
+
+Rekonstruieren Sie das folgende Argument bitte in der erweiterten Standarddarstellung als deduktiv gültiges Argument. D.h., geben Sie neben der Formulierung des Arguments in Listendarstellung auch die logisch-semantische Form der Sätze, die Zuordnungsliste und die Schlussregeln an.
+
+> Das philosophische Wissen ist angeboren, denn die Philosoph:innen können philosophische Probleme ohne Wahrnehmung der Außenwelt durch bloßes Nachdenken lösen. Das können sie nur, wenn sie ihre Antworten auf philosophische Fragen schon von Anfang an kennen. Dann ist das philosophische Wissen offenbar angeboren.
+
+::: {.callout-important}
+Bitte laden Sie Ihre Argumentrekonstruktion dieser Aufgabe als **PDF**-Dokument auf [Moodle](https://moodle.phil.hhu.de/course/view.php?id=2164) im entsprechenden Ordner hoch. Bitte geben Sie keine handschriftlichen Lösungen ab. Für die Formalisierungen sollten Sie die in der Veranstaltung eingeführten Symbole verwenden (siehe ["Schlussmuster & Formalisierung"](../schlussmuster.html)).
+:::
+
+::: {.callout-note}
+## Varianten der Listendarstellung
+Ihre Argumentrekonstruktion sollte in der Listendarstellung klar die Prämissen, die Zwischenkonklusionen und die Schlusskonklusion ausweisen. Darüber hinaus gibt es keine festen Regeln, wie die Listendarstellung genau aussehen muss. Insbesondere muss Ihre Argumentrekonstruktion nicht so formatiert werden, wie in den Beispielen auf den Folien gezeigt. Wichtig ist, dass alles dargestellt wird, was für die erweiterte Standarddarstellung relevant ist. Sie können bspw. die Formalisierung der Sätze außerhalb der Listendarstellung angeben. Eine Variante finden Sie auf den Folien.
+:::
+
+Hinweise zur Bepunktung:
+
++ Ist die Argumentrekonstruktion unvollständig, erhalten Sie keine Punkte. Beachten Sie daher bitte die Hinweise auf den Folien, was alles zur erweiterten Standarddarstellung gehört.
++ Sie erhalten die volle Punktzahl, wenn sowohl die Formalisierung der Sätze als auch die Anwendung der Schlussmuster keine Fehler enthält und wenn Sie darüber hinaus die Prämissen, die Konklusion und ggf. die Zwischenkonklusionen korrekt identifizieren. Fehler in einem dieser Bereiche führen zu Punktabzug.
+
+

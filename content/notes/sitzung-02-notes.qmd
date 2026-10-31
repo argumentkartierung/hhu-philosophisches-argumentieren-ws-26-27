@@ -30,7 +30,7 @@ Diese Notizen fassen unsere Zwischenergebnisse der Argumentationsanalyse des Hö
 Erste Version des Kontra-Arguments (Theodizee-Problem) in der Standdardform:
 
 ```argdown
-<Theodizee Problem>:  Wenn es Übel in der Welt gibt, könnte eine allmächtiger
+<Theodizee Problem>: Wenn es Übel in der Welt gibt, könnte eine allmächtiger
 und allgütiger Gott nicht existieren.
 
 (1) Wenn es Leid in der Welt gäbe und Gott allgütig wäre, wäre er nicht

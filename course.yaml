@@ -132,21 +132,14 @@ modules:
       - id: folien-sitzung-02
         type: slides
         output_formats: [revealjs, pdf]
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
-      - id: notes-02
-        type: notes
-        output_formats: [website, pdf]
-        enabled: false
-        # status: draft
-        # visibility: hidden
-        # overwrite: never
+        overwrite: never
       - id: assignment-02
         type: assignment
-        output_formats: [website]
-        enabled: false
+        output_formats: [website, pdf]
+        # enabled: false
         # status: draft
         # visibility: hidden
         # overwrite: never

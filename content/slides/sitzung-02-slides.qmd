@@ -300,11 +300,11 @@ Argumente sind schlüssig genau dann, wenn gilt: Die Prämissen des Argument sin
 ## Schlussschemata und Schlussmuster
 
 ```argdown
----
+===
 argdown:
   webComponent:
     withoutHeader: true
----
+===
 <Kontra-Argument des Theodizee Problems>: Weil es Übel gibt, existiert Gott nicht. 
 
 (1) Wenn es Übel in der Welt gibt, dann gibt es keinen allmächtigen und 
@@ -389,7 +389,7 @@ Jede Einsetzung dieses Schemas mit Aussagesätzen ergibt einen deduktiv gültige
 
 ::: {.callout-note}
 ## Die wichtigsten Punkte der heutigen Sitzung:
-1. **Rekonstruktion von Argumenten:** Überführung umgangssprachlich formulierter Argumente in eine Standarddarstellung so dass Prämissen, Zwischenkonlusion und die Konklusion sowie die Schlüsse explizit gemacht werden.
+1. **Rekonstruktion von Argumenten:** Überführung umgangssprachlich formulierter Argumente in eine Standarddarstellung so dass Prämissen, Zwischenkonklusion und die Konklusion sowie die Schlüsse explizit gemacht werden.
 2. **Definition der deduktiven Gültigkeit:** Argumente sind deduktiv gültig genau dann, wenn gilt: Sind die Prämissen wahr, kann die Konklusion nicht falsch sein.
 3. **Nachweis deduktiver Gültigkeit:** Die deduktive Gültigkeit eines Arguments kann man nachweisen, indem man zeigt, dass das Argument ein deduktiv gültiges Argumentschema instanziiert. 
 :::
