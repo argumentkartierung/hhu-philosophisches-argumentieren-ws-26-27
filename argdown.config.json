@@ -18,5 +18,8 @@
   },
   "model": {
     "removeTagsFromText": true
+  },
+  "selection":{
+    "excludeDisconnected": false
   }
 }
