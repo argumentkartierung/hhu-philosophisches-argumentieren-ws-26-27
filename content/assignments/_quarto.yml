@@ -13,4 +13,6 @@ format:
 render:
   - sitzung-01-assignment.qmd
   - sitzung-02-assignment.qmd
+  - sitzung-03-assignment.qmd
+  - sitzung-04-assignment.qmd
 

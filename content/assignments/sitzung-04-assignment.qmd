@@ -1,0 +1,101 @@
+---
+title: "Übungsblatt: Sitzung 4 (06.11.2026) - Argumente kritisieren"
+date: "2026-11-06"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  html: default
+  pdf: default 
+---
+
+## Rütsche zur Erforschung der CRISPR/Cas9-Technologie
+
+In der nächsten Sitzung benutzen wir den folgenden Textausschnitt als Grundlage für eine Argumentationsanalyse. Bitte bearbeiten Sie die unten formulierten Aufgaben bis kommenden Donnerstag (Frist: Do., 12.11., 23:59).
+
+
+Der Textausschnitt:
+
+::: {.line-numbers}
+
+Die Frage, ob es zulässig sein soll, die gezielte Veränderung des menschlichen Erbguts („Gene Editing“) mittels CRISPR/Cas9-Technologie an Embryonen zu erforschen, ist im Grunde falsch gestellt. Die Frage müsste lauten, ob für ein staatliches Verbot solcher Forschung gute Gründe vorliegen. In einem liberalen Rechtsstaat sind nicht die Freiheiten der Bürgerinnen und Bürger, sondern Einschränkungen ihrer Freiheiten rechtfertigungsbedürftig. Zu diesen Freiheiten gehört die Forschungsfreiheit. [...]
+
+Forschungsverbote sind [...] empfindliche Freiheitseingriffe. Sie sind nur dann hinnehmbar, wenn sie zum Schutz höherwertiger Güter oder Interessen unerlässlich sind. Ein hohes Gut, das die Forschungsfreiheit zurückdrängen kann, ist die Menschenwürde. Vorliegend stellt sich die Frage, ob mit der Erforschung der CRISPR/Cas9-Technologie an menschlichen Embryonen, die aus fortpflanzungsmedizinischen Verfahren stammen und nicht mehr für die Herbeiführung einer Schwangerschaft verwendet werden können, die Menschenwürde verletzt wird. [...] Nehmen wir als Ausgangslage für die nachfolgende Argumentation an, dass bereits dem frühen Embryo Würde im Sinne eines Eigenwertes zukommt [...] und dass die Würde des Embryos negiert wird, wenn dieser zu Forschungszwecken geopfert, mithin vollständig zu fremden Zwecken instrumentalisiert wird.
+
+Die Würde früher Embryonen darf [...] nicht absolut gesetzt und generell der Forschungsfreiheit übergeordnet werden. Zwar sollte auch menschliches Leben in den allerersten Stadien in Respektierung seiner Würde nicht für geringfügige Zwecke genutzt werden. Wenn aber ein Forschungsprojekt notwendig ist, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden, muss die Würde als rein objektiver Wert ohne Bezug zur Verletzbarkeit eines individuellen Lebewesens zurücktreten. [...]
+
+Demzufolge ist zu fragen, ob mit der Erforschung der CRISPR/Cas9-Technologie an menschlichen Embryonen wissenschaftlich und gesellschaftlich bedeutende Forschungsziele verfolgt werden und, wenn ja, ob diese Ziele nicht auch auf andere Weise, beispielsweise mittels Forschung an tierischen Organismen, erreicht werden können. [...]
+
+Entscheidend ist [...] wofür das technologische Wissen letztlich gut ist. Hat die erforschte Technologie das Potenzial, einzelnen Menschen oder der Gesellschaft einen relevanten Nutzen zu bringen?
+
+Die CRISPR/Cas9-Technologie könnte dereinst an menschlichen Embryonen angewendet werden, um zumindest einfache, monogenetische Veranlagungen zu schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern. [...]
+
+Geht man davon aus, dass die Erforschung der CRISPR/Cas9-Technologie an menschlichen Embryonen nicht nur einen Beitrag zur Weiterentwicklung der Biowissenschaften leisten kann, sondern auf längere Sicht auch mit der Hoffnung auf einen therapeutischen Nutzen verbunden ist, muss solche Forschung prinzipiell zulässig sein. Ob ein konkretes Forschungsprojekt tatsächlich die Anforderungen an die wissenschaftliche Qualität erfüllt und hochrangige Ziele anstrebt, bedarf im Einzelfall einer unabhängigen Prüfung, zum Beispiel durch darauf spezialisierte Ethikkommissionen. Ein pauschales Verbot derartiger Forschungsprojekte lässt sich jedoch nicht rechtfertigen. [...]
+
+Man könnte an dieser Stelle einwenden, dass es gar nie zu einer klinischen Anwendung von CRISPR/Cas9 an der menschlichen Keimbahn kommen darf, da dies immer ein unverantwortliches Spiel mit dem Feuer wäre. Die mit einem realen Einsatz dieser Technologie am menschlichen Genom verbundenen Risiken für das betroffene Individuum und künftige Generationen seien weder in ihrer Wahrscheinlichkeit noch in ihrem Ausmaß vorhersehbar. Das Vorsichtsprinzip verbiete somit, den Ernstfall jemals zu versuchen. Wenn aber die Technologie gar nie zur Anwendung gelangen darf, ist deren Erforschung sinnlos. Diese Argumentation verkennt jedoch, dass Forschung gerade zum Ziel haben kann, die Risiken einer Technologie abschätzbar und beherrschbar zu machen. Ob und wie weit dies der Forschung gelingt, lässt sich nicht von vornherein sagen – auch in Bezug auf Keimbahninterventionen mittels CRISPR/Cas9 nicht. Es liegt im Wesen der Forschung, dass deren Resultate ungewiss sind. Es kann durchaus sein, dass die Erforschung von CRISPR/Cas9 an menschlichen Embryonen niemals zu klinisch verwertbaren Ergebnissen führen wird; es kann aber auch das Gegenteil der Fall sein. [...]
+
+Wenn der Mensch in irgendeiner Weise Einfluss auf das menschliche Erbgut nimmt, wird rasch vor einer schiefen Bahn hin zu einer eugenischen Praxis gewarnt. [...]
+
+Das Argument der schiefen Ebene unterstellt, dass sich gentechnologische Eingriffe im pränatalen Stadium über kurz oder lang nicht auf therapeutische Zwecke beschränken werden, sondern eine schleichende Ausweitung in Richtung leistungssteigernder Interventionen stattfinden wird. Solches genetisches „Enhancement“ an menschlichen Embryonen wäre unter den Gesichtspunkten der Freiheit und Gleichheit in der Tat problematisch. Allerdings haben es Gesellschaft und Staat – wie bei allen potenziell gefährlichen Technologien – in der Hand, Missbrauch konsequent zu verhindern und zu sanktionieren. Wenn es für ein Verbot gentechnologischer Verbesserungen der menschlichen Natur gute Gründe gibt, da ansonsten fundamentale Werte der Gesellschaft bedroht wären, wird es auch künftig keinen Konsens für eine Lockerung dieses Verbots geben. Es geht nicht an, unter Verweis auf die abstrakte Gefahr einer schiefen Ebene neue Technologien anstelle von differenzierten Regulierungen pauschal zu verbieten. [...]
+
+Gegen eine elterliche Einflussnahme auf das Erbgut der Nachkommen, mithin gegen eine sog. „liberale Eugenik“, ist vorgebracht worden, dass dadurch die Autonomie der künftigen Kinder untergraben werde. Kindern, die nicht aus der Zufälligkeit genetischer Kombination hervorgehen, sondern mit bestimmten Absichten von Menschenhand gemacht sind, werde das Recht auf eine offene Zukunft genommen. Wie es Jürgen Habermas formuliert hat, leide das mithilfe der Gentechnologie gezeugte Kind unter dem Bewusstsein, „die Autorschaft für das eigene Lebensschicksal mit einem anderen Autor teilen zu müssen“ (Habermas 2002, S. 137). Dem ist entgegenzuhalten, dass vorteilhafte natürliche Ressourcen wie eine gute Gesundheit ein Kind keineswegs auf eine bestimmte Identität festlegen. Die Überwindung genetischer Veranlagungen zu Krankheiten oder Behinderungen vermag vielmehr die Entfaltungsmöglichkeiten des werdenden Kindes zu steigern. Dass das Kind seine Gesundheit einem elterlich veranlassten gentechnischen Eingriff verdankt, ändert nichts an seiner Freiheit. Denn wir verdanken Vieles unseren Eltern, die für unser Wohl gesorgt und unsere Entwicklung gefördert haben, und können dennoch – oder gerade deswegen – ein selbstbestimmtes Leben führen [@rutsche_pro_2017].
+
+:::
+
+## 1. Aufgabe: Textarbeit (unbepunktet)
+
+Lesen Sie als Vorbereitung für die kommende Sitzung den oberen Textabschnitt und annotieren Sie im Text Argumentationsanzeiger und argumentativ relevante Textbestandteile. Machen Sie sich die Makrostruktur der Argumentation über eine einfache Argumentkarte klar. Notieren Sie sich Verständnisfragen und entsprechende Hypothesen.
+
+*Hinweise:* 
+
++ Ihre Annotationen und Notizen sollen *nicht* abgegeben werden.
+
+## 2. Aufgabe: Rekonstruktion (0-2 Punkte)
+
+Beantworten Sie die Fragen der Moodleaufgabe (<https://moodle.phil.hhu.de/mod/quiz/view.php?id=124319>) zur folgenden vorläufigen und unvollständigen Rekonstruktion des Hauptarguments, das Hörster in etwa in den Zeilen 6--28 der PDF-Version ausführt:
+
+```argdown
+(1) Nur durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen
+    kann die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen
+    angewendet werden, um zumindest einfache, monogenetische Veranlagungen zu
+    schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern.
+(2) ...
+-- aus 1,2 mit ?? --
+(3) Die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen ist
+    notwendig, um Antworten auf wissenschaftlich und gesellschaftlich
+    wichtige Fragestellungen zu finden.
+(4) ...
+-- aus 3,4 mit ?? --
+(5) Der Schutz der Menschenwürde wiegt (im Kontext der CRISPR/Cas9-Erforschung)
+    nicht höher als die Forschungsfreiheit.
+(6) ... gilt nur dann, wenn ....
+-- aus 5,6 mit ?? --
+(7) Also: ...
+```
+
+1. Die Begründungsstruktur der skizzierten vorläufigen Rekonstruktion des Hauptarguments lässt sich so beschreiben: Die Zwischenkonklusionen (3) und (5) folgen jeweils aus voneinander unabhängigen Prämissen. Dann soll die Konklusion (7) aus diesen beiden Zwischenkonklusionen folgen. <!-- falsch -->
+2. Ergänzt man als Prämisse (4) den Satz *„Wenn die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig ist, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden, dann wiegt der Schutz der Menschenwürde (im Kontext der CRISPR/Cas9-Erforschung) nicht höher als die Forschungsfreiheit.“*, folgt die Zwischenkonklusion (5) aus den Prämissen (3) und (4) mittels Modus Ponens. <!-- richtig -->
+3. Das Wort 'nur' in Prämisse (1) signalisiert eine notwendige Bedingung. Ergänzt man als zweite Prämisse den entsprechenden Bedingungssatz *„Nur wenn durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen angewendet werden kann, um zumindest einfache, monogenetische Veranlagungen zu schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern, dann ist die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden.“* folgt die Zwischenkonklusion (3) aus den Prämissen (1) und (2) mittels Modus Ponens. <!-- falsch -->
+4. Das skizzierte Hauptargument soll begründen, dass die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen prinzipiell zulässig ist. Die Konklusion könnte man damit zum Beispiel so formulieren: *„Alle Forschungsprojekte zur Erforschung der CRISPR/Cas9-Technologie an menschlichen Embryonen sind zulässig.“* <!-- falsch -->
+5. Prämisse 6 formuliert eine notwendige Bedingung, die nach dem 'wenn' ausformuliert werden kann. Der Schluss auf die Konklusion kann dann so weiter rekonstruiert werden: Die Zwischenkonklusion (5) formuliert, dass die notwendige Bedingung nicht erfüllt ist. Formalisiert man (6) mit `s → r` folgt die Konklusion (7) mit Modus Tollens, wenn die Konklusion mit `¬s` und die Zwischenkonklusion (5) mit `¬r` formalisiert wird. <!-- richtig -->
+
+
+## 3. Aufgabe: Widersprüche (0-1 Punkte)
+
+Das Leib-Seele-Problem der Geistesphilosophie beschäftigt sich mit der Frage, wie geistige Zustände, wie Gedanken und Gefühle, mit physischen Zuständen des Körpers, insbesondere des Gehirns, zusammenhängen. Das Leib-Seele-Problem kann dabei durch die Spannung zwischen den folgenden drei Aussagen beschrieben werden:
+
+1. Es gibt mentale Vorgänge, die physische Vorgänge verursachen.
+2. Mentale Vorgänge sind keine physischen Vorgänge.
+3. Physische Vorgänge werden nur durch physische Vorgänge verursacht.
+
+Präzisieren Sie die Rede von "Spannung"! Welche der folgenden Aussagen treffen auf die drei Aussagen 1-3 zu? (Die Beantwortung soll wieder über Moodle erfolgen: <https://moodle.phil.hhu.de/mod/quiz/view.php?id=124319>)
+
+1. Die Aussagen 1-3 stehen in einem konträren Widerspruch zueinander. <!-- richtig -->
+2. Die Aussagen 1-3 stehen in einem kontradiktorischen Widerspruch zueinander. <!-- falsch -->
+3. Aus der dritten Aussage folgt die Falschheit der ersten Aussage. <!-- falsch -->
+4. Die Aussagen 1-3 können nicht alle gleichzeitig wahr sein. <!-- richtig -->
+5. Aus der ersten Aussage folgt die zweite Aussage. <!-- falsch -->

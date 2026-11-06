@@ -47,8 +47,14 @@ website:
 
 
 
-        - text: "Sitzung 4"
+        - section: "Sitzung 4"
           href: content/modules/sitzung-04.qmd
+          contents:
+            - text: "Mitschrift"
+              href: content/notes/sitzung-04-notes.qmd
+            - text: "Übungsblatt"
+              href: content/assignments/sitzung-04-assignment.qmd
+
 
 
 

@@ -300,11 +300,6 @@ Argumente sind schlüssig genau dann, wenn gilt: Die Prämissen des Argument sin
 ## Schlussschemata und Schlussmuster
 
 ```argdown
-===
-argdown:
-  webComponent:
-    withoutHeader: true
-===
 <Kontra-Argument des Theodizee Problems>: Weil es Übel gibt, existiert Gott nicht. 
 
 (1) Wenn es Übel in der Welt gibt, dann gibt es keinen allmächtigen und 

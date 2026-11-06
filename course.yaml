@@ -129,20 +129,20 @@ modules:
     # status: draft
     # visibility: hidden
     artifacts:
-      - id: folien-sitzung-02
+      - id: folien-sitzung-03
         type: slides
         output_formats: [revealjs, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: assignment-02
+      - id: assignment-03
         type: assignment
         output_formats: [website, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
   - id: sitzung-04
     type: lecture
     title: "Sitzung 4"
@@ -163,24 +163,24 @@ modules:
       - id: folien-sitzung-04
         type: slides
         output_formats: [revealjs, pdf]
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
       - id: notes-04
         type: notes
         output_formats: [website, pdf]
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
       - id: assignment-04
         type: assignment
         output_formats: [website, pdf]
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
   - id: sitzung-05
     type: lecture
     title: "Sitzung 5"
