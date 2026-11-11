@@ -19,57 +19,67 @@ Welche der untenstehenden Sätze sind bezüglich der notwendigen und hinreichend
 
 > *"Nur wenn der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement führt, sind Keimbahntherapien moralisch zulässig."*
 
+Form des Ausgangssatz: Nur wenn q, dann p. 
+
+Was wir schon wissen (Folien der 3 Sitzung): Sätze der Form `Nur wenn q, dann p.` sind bedeutungsgleich mit Sätzen der Form `Wenn p, dann q.` 
+
+Bemerkungen:
+
++ Inwiefern drück der Satz `Wenn p, dann q.` immer noch aus, dass `q` eine notwendige Bedingung für `p` ist? 
+  + *Antwort:* Die Subjunktion zusammen mit der Verneinung des Konsequenz (=Nichterfüllung der notwendige Bedingung), darf man auf der Verneinung von `p` schließen (Modus Tollens). 
++ *Achtung:* `Nur wenn q, dann p.` ist *nicht* äquivalent mit `Wenn q, dann p.`
+
+Was im Ausgangssatz damit ausgedrückt wird ist, dass `q` notwendig für `p` ist mit der folgenden **Zuordnungsliste**
+
+
++ `p`: Keimbahntherapien sind moralisch zulässig.
++ `q`: Der Einsatz von Keimbahntherapien führt nicht zur Akzeptanz von Enhancement.
+
+Was wir schon wissen (Folien der 3 Sitzung): Sätze der Form `Nur wenn q, dann p.` sind bedeutungsgleich mit Sätzen der Form `Wenn p, dann q.` 
+
+
+Lösungsrezept für die folgenden Antwortmöglichkeiten:
+
+1. Form des Satz mit `p` und `q` klar machen (entsprechend der obigen Zuordnungsliste).
+2. Klar machen, was in Sätzen der identifizierten Form die hinreichende und was die notwendige Bedingung ist.
+3. Überprüfen, ob das Ergebnis von Schritt zwei bzgl. der Frage, was notwendig und was hinreichend ist, das gleiche ausdrückt wie der Ausgangssatz. 
+
+Die Antwortmöglichkeiten:
+
 1. Wenn Keimbahntherapien moralisch zulässig sind, dann führt der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement.
+  + Form: `Wenn p, dann q.`
+  + `q` notwendig für `p`
+  + Stimmt überein.
+  + Also richtig.
 2. Wenn der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement führt, sind Keimbahntherapien moralisch zulässig.
+  + Form: `Wenn q, dann p.`
+  + `p` notwendig für `q`.
+  + Stimmt nicht überein.
+  + Also falsch.
 3. Dass der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement führt, ist hinreichend für die moralische Zulässigkeit von Keimbahntherapien.
+  + Form: `Dass q, ist hinreichend für p.`
+  + Das gleiche wie `Wenn q, dann p.` Damit `p` notwendig für `q`.
+  + Stimmt nicht überein.
+  + Also falsch.
 4. Nur dann führt der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement, wenn Keimbahntherapien moralisch zulässig sind.
+  + Form: `Nur dann q, wenn p.`
+  + `p` notwendig für `q`.
+  + Stimmt nicht überein.
+  + Also falsch
 5. Die moralische Zulässigkeit von Keimbahntherapien ist notwendig dafür, dass der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement führt.
+  + Form: `p ist notwendig dafür, dass q.`
+  + `p` notwendig für `q`.
+  + Stimmt nicht überein.
+  + Also falsch
 6. Keimbahntherapien sind nur dann moralisch zulässig, wenn der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement führt.
+  + Form: `p nur dann, wenn q.`
+  + `q` notwendig für `p`.
+  + Stimmt überein.
+  + Also richtig.
 7. Ohne dass der Einsatz von Keimbahntherapien nicht zur Akzeptanz von Enhancement führt, sind Keimbahntherapien nicht moralisch zulässig.
+  + Form: `Ohne dass q, auch nicht p.`
+  + `q` notwendig für `p`.
+  + Stimmt überein.
+  + Also richtig.
 
-# Bisheriger Stand unserer Hörster Analyse
 
-Bisheriger Stand: [Mitschrift Sitzung 2](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/notes/sitzung-02-notes.html)
-
-**Verständnisfrage:** Wie ist die Entkräftung des Kontra-Arguments (`<Theodizee Problem>`)zu verstehen? Gegen was richtet sich die Entkräftung?
-
-# Bisheriger Stand unserer Merkel Analyse
-
-Bisheriger Stand aus den [Folien zu Sitzung 1](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/slides/sitzung-01-slides.html#/title-slide):
-
-Der (annotierte) Text: [Folie 11](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/slides/sitzung-01-slides.html#/merkel-zum-recht-auf-leben-des-embryos-annotation-der-begr%C3%BCndungsbeziehungen)
-
-## Unsere einfache Argumentkarte
-
-```argdown-map
-===
-webComponent:
-  withoutHeader: true
-===
-
-[Tötungsverbot]: Das Tötungsverbot gilt für den Embryo. #pro
-   <+ <Argument vom Recht auf Leben>: Das Tötungsverbot gilt für den Embryo, **weil** dem Embryo aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden soll. #pro
-    <+ [Menschenwürde des Embryos] #pro
-
-[Menschenwürde des Embryos]: Dem Embryo soll aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden. #pro
-      <+ <Speziesargument>: Dem Embryo soll aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden, **weil** er biologisch der Spezies Homo sapiens angehört. #pro
-      <+ <Identitätsargument>: Dem Embryo soll aus moralischen Gründen Menschenwürde und ein eigenes Recht auf Leben zugeschrieben werden, **weil** beim Embryo in der entscheidenden Hinsicht eine Identität mit dem geborenen Menschen besteht, der später daraus entstehen kann. #pro
-
-<Einwand des naturalistischen Fehlschlusses>: Das Speziesargument ist nicht haltbar, **weil** es unmöglich ist Normen direkt aus einem Faktum abzuleiten. #con
-  -> <Speziesargument>
-
-<Einwand gegen das Identitätsargument>: Das Identitätsargument ist problematisch, **weil** die einzige relevante Identitätshinsicht (die des Genoms) als Grundlage einer Schutznorm nicht geeignet ist. #con 
-  -> <Identitätsargument>
-
-```
-
-*Frage:* Wie sind die Einwände zu verstehen? Konkreter:
-
-1. Wie genau funktioniert der `<Einwand des naturalistischen Fehlschlusses>`? Was genau wird damit begründet? Eine Aussage über das Argument oder eine Aussage des Arguments? 
-2. Ist der `<Einwand des naturalistischen Fehlschlusses>` berechtigt? 
-3. Wie genau ist der `<Einwand gegen das Identitätsargument>` zu verstehen? Was genau wird damit gezeigt und welche weiteren Annahmen gehen in die Überlegungen ein?
-4. Ist der `<Einwand gegen das Identitätsargument>` berechtigt? 
-
-*Bisheriger Stand:* Formulierung der Hauptgedanken der Einwände anhand der im Text vorgefundenen Formulierungen 
-
-Können wir auf Grundlage des bisherigen Stands die Verständnisfragen beantworten? Wenn ja, wie?

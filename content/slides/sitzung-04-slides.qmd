@@ -210,93 +210,6 @@ dot:
     + Argument `E*` mit einer Konklusion, die einer Prämisse `P*` von `E` widerspricht. 
     + Argument `E*` mit einer Konklusion, die der Konklusion `K*` von `E` widerspricht.
 
-## Besprechung unserer bisherigen einfachen Argumentkarten
-
-🤔 Was heißt das für unsere bisherigen Argumentkarten?
-
-👉 Siehe [Mitschrift zur heutigen Sitzung](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/notes/sitzung-04-notes.html).
-
-# 3. Widersprüche
-
-## Widersprüchliche Sätze
-
-::: {.callout-note}
-## Widersprüchliche Sätze
-Zwei Sätze stehen im Widerspruch zueinander, wenn sie nicht beide zugleich wahr sein können.
-:::
-
-*Alternative Formulierungen*: 
-
-+ Zwei Sätze stehen im Widerspruch zueinander, wenn aus der Wahrheit des einen die Falschheit des anderen (deduktiv gültig) folgt.
-+ Zwei Sätze stehen im Widerspruch zueinander, wenn sie sich gegenseitig ausschließen.
-
-## Widersprüchliche Sätze
-
-::: {.callout-note}
-## Widersprüchliche Sätze (Verallgemeinerung)
-Sätze stehen im Widerspruch zueinander, wenn sie nicht alle zugleich wahr sein können.
-:::
-
-## Widersprüchliche Sätze: Einfaches Beispiel
-
-Beispiel:
-
-1. *"Es regnet gerade."*
-2. *"Es ist nicht Fall, dass es gerade regnet"*
-
-+ Einfachster Fall: Ein Satz *'p'* steht im Widerspruch zu seiner Negation *'Es ist nicht der Fall, dass p.'*.
-+ Hier gilt nicht nur, dass sie nicht zugleich wahr sein können, sondern auch, dass sie nicht zugleich falsch sein können.
-
-## Kontradiktorische Widersprüche
-
-Beispiel:
-
-1. *"Es regnet gerade."*
-2. *"Es ist nicht Fall, dass es gerade regnet"*
-
-
-::: {.callout-note}
-## Kontradiktorischer Widerspruch
-Zwei Sätze stehen in einem kontradiktorischen Widerspruch zueinander, wenn sie weder zugleich wahr noch zugleich falsch sein können. 
-:::
-
-## Widersprüchliche Sätze: Weiteres Beispiel
-
-Beispiel:
-
-1. *"Der Apfel ist vollständig rot."*
-2. *"Der Apfel ist vollständig grün."*
-
-Stehen diese beiden Sätze in einem kontradiktorischen Widerspruch zueinander?
-
-+ Können beide zugleich wahr sein?
-+ Können beide zugleich falsch sein?
-
-## Konträre Widersprüche
-
-Beispiel:
-
-1. *"Der Apfel ist vollständig rot."*
-2. *"Der Apfel ist vollständig grün."*
-
-::: {.callout-note}
-## Konträrer Widerspruch
-Zwei Sätze stehen in einem konträren Widerspruch zueinander, wenn sie nicht zugleich wahr jedoch zugleich falsch sein können. 
-:::
-
-<!--
-Das machen wir erst wenn wir die vertieften Argumentkarten behandeln.
-
-## Rekonstruktion von konträren Widersprüchen als Argumente
-
-```argdown
-(1) Der Apfel ist vollständig rot.
-(2) Gegenstände, die vollständig rot sind,
-	  sind nicht vollständig grün.
--- folgt deduktiv gültig aus 1,2 --
-(3) Also: Der Apfel ist nicht vollständig grün.
-```
--->
 
 # Abschluss
 
@@ -306,9 +219,7 @@ Das machen wir erst wenn wir die vertieften Argumentkarten behandeln.
 ## Die wichtigsten Punkte der heutigen Sitzung:
 1. **Implizite Prämissen & Rekonstruktion von Argumenten:** Argumente sollen als gültige Argumente rekonstruiert werden (nach Möglichkeit deduktiv gültig, andernfalls induktiv stark). Dafür müssen häufig implizite Prämissen ergänzt und vorgefundene Sätze umformuliert werden.
 2. **Systematische Evaluation von einzelnen Argumenten:** Argumente werden anhand ihrer Rekonstruktion bewertet. Kritik wird damit i.d.R. darauf hinauslaufen, die Prämissen oder die Konklusion zu kritisieren.
-3. **Widersprüche:** Aussagen stehen in einem Widerspruch zueinander, wenn sie nicht zugleich wahr sein können. Dabei wird zwischen kontradiktorischen und konträren Widersprüchen unterschieden.
 :::
-
 
 
 ## Ende
