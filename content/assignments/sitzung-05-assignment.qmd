@@ -1,0 +1,116 @@
+---
+title: "Übungsblatt: Sitzung 5 (13.11.2026) - Vertiefte Argumentkarten"
+date: "2026-11-13"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  html: default
+  pdf: default 
+---
+
+Beantworten Sie die folgenden Aufgaben auf Moodle (<https://moodle.phil.hhu.de/mod/quiz/view.php?id=124450>) bis zum 19.11.26, 23:59 Uhr.
+
+::: {.callout-tip}
+Für manche der Aufgaben mag es helfen, sich die Argumentkarten aufzumalen!
+:::
+
+
+## 1. Aufgabe: Widersprüche (1 Punkte)
+
+Das Leib-Seele-Problem der Geistesphilosophie beschäftigt sich mit der Frage, wie geistige Zustände, wie Gedanken und Gefühle, mit physischen Zuständen des Körpers, insbesondere des Gehirns, zusammenhängen. Das Leib-Seele-Problem kann dabei durch die Spannung zwischen den folgenden drei Aussagen beschrieben werden:
+
+1. Es gibt mentale Vorgänge, die physische Vorgänge verursachen.
+2. Mentale Vorgänge sind keine physischen Vorgänge.
+3. Physische Vorgänge werden nur durch physische Vorgänge verursacht.
+
+Präzisieren Sie die Rede von "Spannung"! Welche der folgenden Aussagen treffen auf die drei Aussagen 1-3 zu? 
+
+1. Die Aussagen 1-3 stehen in einem konträren Widerspruch zueinander. <!-- richtig -->
+2. Die Aussagen 1-3 stehen in einem kontradiktorischen Widerspruch zueinander. <!-- falsch -->
+3. Aus der dritten Aussage folgt die Falschheit der ersten Aussage. <!-- falsch -->
+4. Die Aussagen 1-3 können nicht alle gleichzeitig wahr sein. <!-- richtig -->
+5. Aus der ersten Aussage folgt die zweite Aussage. <!-- falsch -->
+
+## 2. Aufgabe: Kritik über konträre Widersprüche (2 Punkte)
+
+Gegeben seien zwei rekonstruierte Argumente `<A1>` und `<A2>`. Die Konklusion von `<A2>` steht im konträren Widerspruch zu einer Prämisse von `<A1>`. In welcher Beziehung stehen die beiden Argumente und wie können diese Beziehungen über vertiefte Argumentkarten visualisiert werden? Was trifft zu?
+
+1. Argument `<A2>` kann als Kritik an `<A1>` verstanden werden, da die Konklusion von `<A2>` begründet, dass eine der Prämissen von `<A1>` falsch ist. <!-- richtig -->
+2. In der entsprechenden Argumentkarte besteht gemäß der eingeführten Definitionen eine Angriffsbeziehung zwischen `<A2>` und `<A1>`. <!-- falsch -->
+3. Sei `p` die Prämisse von `<A1>`, die im konträren Widerspruch zur Konklusion von `<A2>` steht. Man kann den konträren Widerspruch zwischen `p` und der Konklusion von `<A2>` durch ein weiteres Argument `<A3>` explizit machen, das die Konklusion von `<A2>` als Prämisse und die Negation von `p` als Konklusion enthält. Dann bestünde von `<A2>` zu `<A3>` eine Stützungsbeziehung und von `<A3>` zu `<A1>` eine Angriffsbeziehung. <!-- richtig -->
+
+## 3. Aufgabe: Vertiefte Argumentkarten lesen (2 Punkte)
+
+Welche Informationen kann man der folgenden vertieften Argumentkarte entnehmen? Was trifft zu?
+
+```argdown-map
+===
+webComponent:
+  withoutHeader: true
+===
+[T1]
+  <- <A1>
+    <- <A4>
+  <+ <A2>
+    <+ <A3>
+      <+ <A5>
+      <+ <A6>
+```
+
+1. Die Konklusionen von `<A1>` und `<A2>` stehen in einem kontradiktorischen Widerspruch zueinander. <!-- richtig -->
+2. Die Konklusionen von `<A3>` und `<A4>` stehen nicht in einem kontradiktorischen Widerspruch zueinander. <!-- richtig -->
+3. Die Konklusionen von `<A5>` und `<A6>` sind bedeutungsgleich. <!-- falsch -->
+4. Fügt man der Argumentkarte die Konklusion von `<A5>` als Aussagenkasten hinzu, kann man der entstehenden Argumentkarte ablesen, ob die stützenden Argumentbeziehungen von `<A5>` und `<A6>` zu `<A3>` auf dieselbe Prämisse in `<A3>` abzielen. <!-- richtig -->
+
+## 4. Aufgabe: Vertiefte Argumentkarten (2 Punkte)
+
+Gegeben sei eine vertiefte Argumentkarte bestehend aus zwei deduktiv gültigen Argumenten
+`<A1>`, `<A2>`. Die Argumente besitzen schematisch die folgende Struktur:
+
+```argdown
+<A1>
+
+(1) p 
+(2) q 
+-- aus 1,2 --
+(3) Also: r 
+(4) s
+-- aus 3,4 --
+(5) Also: t 
+
+
+<A2>
+
+(1) p
+(2) ¬r
+-- aus 1,2 --
+(3) Also: ¬t
+```
+
+Was trifft zu?
+
+1. `<A1>` greift `<A2>` an. <!--falsch -->
+2. `<A1>` stützt `<A2>` und `<A2>` stützt `<A1>`. <!--falsch-->
+3. Man kann `<A1>` in zwei Teilargumente mit jeweils einer Konklusion teilen. Dann besteht zwischen ihnen eine stützende Beziehung. <!--richtig-->
+4. Wenn man den Satz t als These der Karte hinzufügt, greift `<A2>` diese These an und `<A1>` stützt sie. <!--richtig-->
+5. Wenn man den Satz p als These der Karte hinzufügt, stützen beide Argumente die These. <!--falsch-->
+6. Wenn man den Satz p als These der Karte hinzufügt, werden beide Argumente durch diese These gestützt. <!--richtig-->
+7. Wenn man den Satz r als These der Karte hinzufügt, wird `<A1>` durch diese These gestützt und `<A2>` durch sie angegriffen. <!--falsch-->
+8. Man kann `<A1>` in zwei Teilargumente mit jeweils einer Konklusion aufteilen. Dann greift eines von ihnen `<A2>` an. <!--richtig-->
+
+
+::: {.callout-tip}
+Die schematischen Buchstaben sind ähnlich zu lesen wie in Formalisierungen der Aussagenlogik: 
+
++ Jedes Vorkommnis eines Buchstabens steht für eine Aussage, und gleiche Buchstaben stehen für dieselbe Aussage.
++ `¬p` steht für die Negation der Aussage `p`.
+:::
+
+::: {.callout-caution}
+Beachten Sie, dass Zwischenkonklusionen eines Arguments keine Prämissen sind.
+::: 

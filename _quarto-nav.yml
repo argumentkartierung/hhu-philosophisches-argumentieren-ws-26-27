@@ -59,8 +59,14 @@ website:
 
 
 
-        - text: "Sitzung 5"
+        - section: "Sitzung 5"
           href: content/modules/sitzung-05.qmd
+          contents:
+            - text: "Mitschrift"
+              href: content/notes/sitzung-05-notes.qmd
+            - text: "Übungsblatt"
+              href: content/assignments/sitzung-05-assignment.qmd
+
 
 
 

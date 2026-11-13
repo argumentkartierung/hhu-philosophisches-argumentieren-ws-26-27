@@ -196,7 +196,7 @@ webComponent:
 Einfache Argumentkarten visualisieren Begründungsbeziehungen zwischen Argumenten und Aussagen. Sie bestehen aus zwei Arten von Knoten
 
 1. **Aussagekästen:** Weiß hinterlegte Kästen, die Aussagen repräsentieren.
-2. **Argumentkästen:** Farblich hinterlegte Kästen, die Argumente (Einwänden, Entkräftungen, etc.) repräsentieren.
+2. **Argumentkästen:** Farblich hinterlegte Kästen, die Argumente (Einwände, Entkräftungen, etc.) repräsentieren.
 
 und zwei Arten von Kanten
 

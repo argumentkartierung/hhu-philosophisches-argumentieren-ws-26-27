@@ -200,24 +200,24 @@ modules:
       - id: folien-sitzung-05
         type: slides
         output_formats: [revealjs, pdf]
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
       - id: notes-05
         type: notes
         output_formats: [website, pdf]
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
       - id: assignment-05
         type: assignment
         output_formats: [website, pdf]
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
   - id: sitzung-06
     type: lecture
     title: "Sitzung 6"

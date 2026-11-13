@@ -34,7 +34,6 @@ mit der Ausgangsformulierung sein oder zumindest den für die Gültigkeit des Sc
 
 1. Nachbesprechung des Übungszettels
 2. Argumente kritisieren
-3. Widersprüche
 
 # 1. Nachbesprechung des Übungszettels
 
@@ -203,7 +202,7 @@ dot:
 
 1. **Standpunkt:** Formulierung eines Standpunktes als zu begründende Aussage.
 2. **Begründung:** Begründung des Standpunktes (als Prämissen in einem Argument `A` mit der zu begründenden Aussage als Konklusion).
-3. **Einwand `E`:** Kritik am Argument (entweder an den Prämissen oder der Konklusion).
+3. **Einwand `E`:** Kritik am Argument `A`(entweder an den Prämissen oder der Konklusion).
     + Argument `E` mit einer Konklusion, die einer Prämisse `P` von `A` widerspricht. 
     + Argument `E` mit einer Konklusion, die der Konklusion `K` von `A` widerspricht.
 4. **Entkräftung `E*`:** Kritik am Einwand (auch: Gegeneinwand oder Verteidigung). 

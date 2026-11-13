@@ -29,6 +29,22 @@ Zentrale Fragen:
 
 
 
+
+
+
+
+
+## {{< fa display >}} Folien
+
+ [Folien im Vollbildmodus](../slides/sitzung-05-slides.html){target="_blank"}   | [Folien als PDF](../slides/sitzung-05-slides.pdf){target="_blank"} 
+
+
+```{=html}
+<iframe class="slide-deck" src="../slides/sitzung-05-slides.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+```
+
+
+
  
 
 
@@ -42,6 +58,38 @@ Zentrale Fragen:
 
 TODO: Add content.
 -->
+
+
+
+## {{< fa folder-open >}} Materialien
+
+
+
+
+
+
+
+- **Folien**: [{{< fa link >}}](../slides/sitzung-05-slides.html) | [{{< fa file-pdf >}}](../slides/sitzung-05-slides.pdf)
+
+
+
+
+
+
+
+
+- **Mitschrift**: [{{< fa link >}}](../notes/sitzung-05-notes.html) | [{{< fa file-pdf >}}](../notes/sitzung-05-notes.pdf)
+
+
+
+
+
+
+
+
+- **Übungsblatt**: [{{< fa link >}}](../assignments/sitzung-05-assignment.html) | [{{< fa file-pdf >}}](../assignments/sitzung-05-assignment.pdf)
+
+
 
 
 

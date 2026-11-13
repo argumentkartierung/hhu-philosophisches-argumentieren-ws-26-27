@@ -1,0 +1,507 @@
+---
+title: "Sitzung 5: Vertiefte Argumentkarten"
+date: "2026-11-13"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  revealjs:
+    theme: [default, ../../assets/styles/slides.scss]
+    slide-number: true
+    preview-links: auto
+---
+
+## Wiederholung der letzten Sitzung
+
+::: {.callout-note}
+## Die wichtigsten Punkte der letzten Sitzung:
+1. **Implizite Prämissen & Rekonstruktion von Argumenten:** Argumente sollen als gültige Argumente rekonstruiert werden (nach Möglichkeit deduktiv gültig, andernfalls induktiv stark). Dafür müssen häufig implizite Prämissen ergänzt und vorgefundene Sätze umformuliert werden.
+2. **Systematische Evaluation von einzelnen Argumenten:** Argumente werden anhand ihrer Rekonstruktion bewertet. Kritik wird damit i.d.R. darauf hinauslaufen, die Prämissen oder die Konklusion zu kritisieren.
+:::
+
+
+## Einwände und Entkräftungen als Argumente
+
+1. **Standpunkt:** Formulierung eines Standpunktes als zu begründende Aussage.
+2. **Begründung:** Begründung des Standpunktes (als Prämissen in einem Argument `A` mit der zu begründenden Aussage als Konklusion).
+3. **Einwand `E`:** Kritik am Argument `A`(entweder an den Prämissen oder der Konklusion).
+    + Argument `E` mit einer Konklusion, die einer Prämisse `P` von `A` widerspricht. 
+    + Argument `E` mit einer Konklusion, die der Konklusion `K` von `A` widerspricht.
+4. **Entkräftung `E*`:** Kritik am Einwand (auch: Gegeneinwand oder Verteidigung). 
+    + Argument `E*` mit einer Konklusion, die einer Prämisse `P*` von `E` widerspricht. 
+    + Argument `E*` mit einer Konklusion, die der Konklusion `K*` von `E` widerspricht.
+
+
+## Programm für die heutige Sitzung
+
+1. Widersprüche
+2. Besprechung unserer bisherigen einfachen Argumentkarten
+3. Vertiefte Argumentkarten
+4. Besprechung des Rütsche Textes (Übungszettel)
+
+# 1. Widersprüche
+
+## Widersprüchliche Sätze
+
+::: {.callout-note}
+## Widersprüchliche Sätze
+Zwei Sätze stehen im Widerspruch zueinander, wenn sie nicht beide zugleich wahr sein können.
+:::
+
+*Alternative Formulierungen*: 
+
++ Zwei Sätze stehen im Widerspruch zueinander, wenn aus der Wahrheit des einen die Falschheit des anderen (deduktiv gültig) folgt.
++ Zwei Sätze stehen im Widerspruch zueinander, wenn sie sich gegenseitig ausschließen.
+
+## Widersprüchliche Sätze
+
+::: {.callout-note}
+## Widersprüchliche Sätze (Verallgemeinerung)
+Sätze stehen im Widerspruch zueinander, wenn sie nicht alle zugleich wahr sein können.
+:::
+
+## Widersprüchliche Sätze: Einfaches Beispiel
+
+Beispiel:
+
+1. *"Es regnet gerade."*
+2. *"Es ist nicht Fall, dass es gerade regnet"*
+
++ Einfachster Fall: Ein Satz *'p'* steht im Widerspruch zu seiner Negation *'Es ist nicht der Fall, dass p.'*.
++ Hier gilt nicht nur, dass sie nicht zugleich wahr sein können, sondern auch, dass sie nicht zugleich falsch sein können.
+
+## Kontradiktorische Widersprüche
+
+Beispiel:
+
+1. *"Es regnet gerade."*
+2. *"Es ist nicht Fall, dass es gerade regnet"*
+
+
+::: {.callout-note}
+## Kontradiktorischer Widerspruch
+Zwei Sätze stehen in einem kontradiktorischen Widerspruch zueinander, wenn sie weder zugleich wahr noch zugleich falsch sein können. 
+:::
+
+## Widersprüchliche Sätze: Weiteres Beispiel
+
+Beispiel:
+
+1. *"Der Apfel ist vollständig rot."*
+2. *"Der Apfel ist vollständig grün."*
+
+Stehen diese beiden Sätze in einem kontradiktorischen Widerspruch zueinander?
+
++ Können beide zugleich wahr sein?
++ Können beide zugleich falsch sein?
+
+## Konträre Widersprüche
+
+Beispiel:
+
+1. *"Der Apfel ist vollständig rot."*
+2. *"Der Apfel ist vollständig grün."*
+
+::: {.callout-note}
+## Konträrer Widerspruch
+Zwei Sätze stehen in einem konträren Widerspruch zueinander, wenn sie nicht zugleich wahr jedoch zugleich falsch sein können. 
+:::
+
+
+# 2. Besprechung unserer bisherigen einfachen Argumentkarten
+
+🤔 Was heißt das alles für unsere bisherigen Argumentkarten?
+
+👉 Siehe [Mitschrift zur heutigen Sitzung](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/notes/sitzung-05-notes.html).
+
+# 3. Vertiefte Argumentkarten
+
+## Einfache Argumentkarten
+
+::: {.callout-note}
+## Definition: Was sind einfache Argumentkarten? 
+Einfache Argumentkarten visualisieren Begründungsbeziehungen zwischen Argumenten und Aussagen. Sie bestehen aus zwei Arten von Knoten
+
+1. **Aussagekästen:** Weiß hinterlegte Kästen, die Aussagen repräsentieren.
+2. **Argumentkästen:** Farblich hinterlegte Kästen, die Argumente (Einwände, Entkräftungen, etc.) repräsentieren.
+
+und zwei Arten von Kanten
+
+1. **Grüne Pfeile** repräsentieren intendierte Begründungen bzw. Stützungen.
+2. **Rote Pfeile** repräsentieren intendierte Einwände, Entkräftungen bzw. "Angriffe".
+::: 
+
+👉 In einfachen Argumentkarten beruhen die Argumentbeziehungen (Stützung und Angriff) auf den im Text identifizierten intendierten Begründungsbeziehungen, *ohne dass* man die Argumente bereits in ihrer Prämissen-Konklusion Struktur rekonstruiert hat.
+
+
+## Vertiefte Argumentkarten
+
+::: {.callout-note}
+## Was unterscheidet vertiefte Argumentkarten von einfachen? 
+In vertieften Argumentkarten beruhen die Argumentbeziehungen (Stützung und Angriff) auf semantischen Relationen zwischen Aussagen der rekonstruierten Argumente. 
+:::
+
+👉 Für vertiefte Argumentkarten müssen die identifzierten Argumente rekonstruiert werden.
+
+## Definition der Argumentbeziehungen in vertieften Argumentkarten: Von Argumenten zu Aussagen
+
+
+::: {.list-table tbl-colwidths="[30,30,40]"}
+- - Argumentbeziehung
+  - Laxe Beschreibung
+  - Präzise Definition
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    [T1]: Aussage
+      <+ <A1>: Stützendes Argument
+    ```
+  - Begründung der Aussage/These
+  - ??
+
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    [T1]: Aussage
+      <- <A1>: Angreifendes Argument
+    ```
+  - Einwand gegen die Aussage/These
+  - ??
+:::
+
+## Definition der Argumentbeziehungen in vertieften Argumentkarten: Von Argumenten zu Aussagen
+
+
+::: {.list-table tbl-colwidths="[30,30,40]"}
+- - Argumentbeziehung
+  - Laxe Beschreibung
+  - Präzise Definition
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    [T1]: Aussage
+      <+ <A1>: Stützendes Argument
+    ```
+  - Begründung der Aussage/These
+  - Konklusion von `<A1>` ist bedeutungsgleich mit der Aussage/These `[T1]`
+
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    [T1]: Aussage
+      <- <A1>: Angreifendes Argument
+    ```
+  - Einwand gegen die Aussage/These
+  - Konklusion von `<A1>` steht im kontradiktorischen Widerspruch zur Aussage/These `[T1]`
+:::
+
+## Definition der Argumentbeziehungen in vertieften Argumentkarten: Von Argumenten zu Argumenten
+
+::: {.list-table tbl-colwidths="[30,30,40]"}
+- - Argumentbeziehung
+  - Laxe Beschreibung
+  - Präzise Definition
+
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Argument
+      <- <A2>: Angreifendes Argument
+    ```
+  - Kritik an Prämisse von `<A1>`
+  - ??
+
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Argument
+      <+ <A2>: Stützendes Argument
+    ```
+  - Begründung einer Prämisse von `<A1>`
+  - ??
+:::
+
+## Definition der Argumentbeziehungen in vertieften Argumentkarten: Von Argumenten zu Argumenten
+
+::: {.list-table tbl-colwidths="[30,30,40]"}
+- - Argumentbeziehung
+  - Laxe Beschreibung
+  - Präzise Definition
+
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Argument
+      <- <A2>: Angreifendes Argument
+    ```
+  - Kritik an Prämisse von `<A1>`
+  - Konklusion von `<A2>` steht im kontradiktorischen Widerspruch zu einer Prämisse von `<A1>`
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Argument
+      <+ <A2>: Stützendes Argument
+    ```
+  - Begründung einer Prämisse von `<A1>`
+  - Konklusion von `<A2>` ist bedeutungsgleich mit einer der Prämissen von `<A1>`
+:::
+
+## Darstellungsvarianten von sich stützenden Argumenten
+
+::: {.list-table tbl-colwidths="[50,50]"}
+- - Argumentrekonstruktionen
+  - Argumentkarte
+- - ```argdown
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Komplexes Argument mit Zwischenkonklusion
+
+    (1) p
+    (2) q
+    -- aus 1,2 --
+    (3) r
+    (4) s
+    -- aus 3, 4 --
+    (5) t
+    ```
+  - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Komplexes Argument mit Zwischenkonklusion
+    ```
+- - ```argdown
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1 Teil 1>: Erster Teil von A1
+
+    (1) p
+    (2) q
+    -- aus 1,2 --
+    (3) r
+    
+    
+    <A1 Teil 2>: Zweiter Teil von A1.
+    
+    (1) r
+    (2) s
+    -- aus 1, 2 --
+    (3) t
+    ```
+  - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1 Teil 1>: Erster Teil von A1
+      <+ <A1 Teil 2>: Zweiter Teil von A1.
+    ```
+:::
+
+
+## Definition der Argumentbeziehungen in vertieften Argumentkarten: Von Aussagen zu Argumenten
+
+::: {.list-table tbl-colwidths="[30,30,40]"}
+- - Argumentbeziehung
+  - Laxe Beschreibung
+  - Präzise Definition
+
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Argument
+      <+ [T1]: Stützendes Aussage/These
+    ```
+  - `[T1]` "stützt" `<A1>` 
+  - ???
+
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Argument
+      <- [T1]: Angreifende Aussage/These
+    ```
+  - `[T1]` "greift" `<A1>` an 
+  - ???
+:::
+
+## Definition der Argumentbeziehungen in vertieften Argumentkarten: Von Aussagen zu Argumenten
+
+::: {.list-table tbl-colwidths="[30,30,40]"}
+- - Argumentbeziehung
+  - Laxe Beschreibung
+  - Präzise Definition
+
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Argument
+      <+ [T1]: Stützendes Aussage/These
+    ```
+  - `[T1]` "stützt" `<A1>` 
+  - `[T1]` ist bedeutungsgleich mit einer der Prämissen von `<A1>`
+
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Argument
+      <- [T1]: Angreifende Aussage/These
+    ```
+  - `[T1]` "greift" `<A1>` an 
+  - `[T1]` steht im kontradiktorischen Widerspruch zu einer Prämisse von `<A1>`
+:::
+
+## "Unterdrückte" Pfeile in vertieften Argumentkarten
+
+Redundante Angriffs- und Stützungspfeile werden in vertieften Argumentkarten nicht immer dargestellt, selbst wenn die entsprechenden Argumentbeziehungen (gemäß der eingeführten Beziehungen) bestehen. 
+
+Ein Beispiel:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+```argdown-map
+===
+webComponent:
+  withoutHeader: true
+===
+<A1>
+  <- [T1]
+    <+ <A2>
+```
+:::
+
+
+::: {.column width="50%"}
+
+In einer vertieften Argumentkarte gibt es hier auch eine Angriffsbeziehung von `<A2>` zu `<A1>`. Da sich diese Beziehung aus den bereits dargestellten Beziehungen einfach erschließt, wird der entsprechende Pfeil nicht extra gezeichnet.
+
+:::
+
+::::
+
+
+
+## Motivation der Definitionen der Argumentbeziehungen in  vertieften Argumentkarten
+
+::: {.callout-note}
+## Wozu diese Definitionen?
+1. Die eingeführten Definitionen legen die Bedeutung der Argriffs- und Stützungsbeziehungen in vertieften Argumentkarten präzise fest. Damit transportieren Argumentkarten auch präzise Informationen über das (logische) Verhältnis von Argumenten und deren Aussagen.
+2. Sie entscheiden zu einem großen Teil darüber, welche Informationen in der Argumentkarte sichtbar gemacht werden, indem Sie festlegen, welche Aussagen in den Rekonstruktionen der Argumente als Aussagekasten in der Argumentkarte dargestellt werden.
+:::
+
+👉 Vertiefte Argumentkarten sehen nicht anders aus als einfache Argumentkarten. Sie enthalten allerdings genauere Informationen darüber, inwiefern bestimmte Begründungsbeziehungen bestehen.
+
+Die in einer vertieften Argumentkarte kodierten Informationen kann man daraus ableiten, zwischen welchen Kästen, welche Argumentbeziehungen bestehen und welche **nicht** bestehen. 
+
+## Motivation der Definitionen der Argumentbeziehungen in  vertieften Argumentkarten: Beispiel geteilter Prämissen
+
+*Beispiel:* Gegeben zwei rekonstruierte Argumente mit einer gemeinsamen Prämisse. Sie können diese Information in der Argumentkarte sichtbar machen, indem Sie die gemeinsame Prämisse als Aussagekasten der Karte hinzufügen.
+
+```argdown-map
+<A1>: Argument 1
+  <+ [T1]: Gemeinsame Prämisse
+
+<A2>: Argument 2
+  <+ [T1]
+```
+
+## Beispiel: Kritik an Konklusionen von Argumenten
+
+```argdown-map
+<A1>: Argument
+  +> [T1]: Konklusion von A1
+
+<A2>: Argument mit Kritik an Konklusion von A1
+  -> [T1]
+```
+
+
+
+
+<!--
+Als Übungsaufgabe:
+
+## Kritik durch konträre Widersprüche
+
+## Rekonstruktion von konträren Widersprüchen als Argumente
+
+```argdown
+(1) Der Apfel ist vollständig rot.
+(2) Gegenstände, die vollständig rot sind,
+	  sind nicht vollständig grün.
+-- folgt deduktiv gültig aus 1,2 --
+(3) Also: Der Apfel ist nicht vollständig grün.
+```
+-->
+
+# 4. Besprechung des Rütsche Textes (Übungszettel)
+
+👉 Siehe [Mitschrift zur heutigen Sitzung](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/notes/sitzung-05-notes.html).
+
+# Abschluss
+
+## Rekonstruktion von Argumenten
+
+Bei der Rekonstruktion von Argumenten werden Argumente in ihrer Prämissen-Konklusion-Struktur analysiert. Dadurch werden einfache Argumentkarten in vertiefte Argumentkarten überführt.
+
+**Mehrwert:**
+
++ Identifizierung impliziter Prämissen.
++ Klärung der argumentativen Beziehungen zwischen Argumenten.
+
+**Klärung von Verständnis-/Analysefragen:** Inwiefern werden dadurch Verständnisfragen geklärt?
+
+Die in den einfachen Argumentkarten dargestellten Argumentbeziehungen können als vermutete Argumentbeziehungen verstanden werden (Interpretationshypothesen), die durch die Rekonstruktion überprüft werden.
+
+👉 Die in Ihrer eingangs erstellten einfachen Argumentkarte dargestellten Argumentbeziehungen können sich durch die Rekonstruktion der Argumente verändern!
+
+## Zusammenfassung
+
+::: {.callout-note}
+## Die wichtigsten Punkte der heutigen Sitzung:
+1. **Widersprüche:** Aussagen stehen in einem Widerspruch zueinander, wenn sie nicht zugleich wahr sein können. Dabei wird zwischen kontradiktorischen und konträren Widersprüchen unterschieden.
+2. **Vertiefte Argumentkarten:** Im Gegensatz zu einfachen Argumentkarten basieren die Argumentbeziehungen (Stützung und Angriff) in vertieften Argumentkarten auf semantischen Beziehungen (Bedeutungsgleichheit und kontradiktorischer Widerspruch) zwischen den Aussagen der Argumente.
+:::
+
+
+
+## Ende
+
+::: {.r-stack style="font-size: 2em; margin-top: 3em;"}
+🙏 Danke!
+:::
