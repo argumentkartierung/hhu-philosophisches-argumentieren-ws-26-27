@@ -204,3 +204,11 @@ $callout-color-important: $hhu-darkblue;  // HHU Dunkelblau
   background: white;
   border-bottom-left-radius: 10px;
 }
+
+// Adapting the vertical alignment for table cells in reveal slides
+// The issue is vertical alignment. Reveal’s reset stylesheet applies vertical-align: baseline to table cells. 
+// Consequently, the text’s first line aligns near the bottom of the tall Argdown diagram in other cols.
+.reveal td {
+  vertical-align: middle;
+  // vertical-align: top;
+}
