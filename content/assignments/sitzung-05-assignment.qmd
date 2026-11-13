@@ -38,9 +38,9 @@ Präzisieren Sie die Rede von "Spannung"! Welche der folgenden Aussagen treffen 
 
 ## 2. Aufgabe: Kritik über konträre Widersprüche (2 Punkte)
 
-Gegeben seien zwei rekonstruierte Argumente `<A1>` und `<A2>`. Die Konklusion von `<A2>` steht im konträren Widerspruch zu einer Prämisse von `<A1>`. In welcher Beziehung stehen die beiden Argumente und wie können diese Beziehungen über vertiefte Argumentkarten visualisiert werden? Was trifft zu?
+Gegeben seien zwei rekonstruierte Argumente `<A1>` und `<A2>`. Die Konklusion von `<A2>` steht im konträren Widerspruch zu einer Prämisse von `<A1>`. In welcher Beziehung stehen die beiden Argumente, und wie lassen sich diese Beziehungen mithilfe vertiefter Argumentkarten visualisieren? Was trifft zu?
 
-1. Argument `<A2>` kann als Kritik an `<A1>` verstanden werden, da die Konklusion von `<A2>` begründet, dass eine der Prämissen von `<A1>` falsch ist. <!-- richtig -->
+1. Argument `<A2>` kann als Kritik an `<A1>` verstanden werden, da die Begründung der Konklusion von `<A2>` (über die Prämissen von `<A2>`) gleichermaßen begründet, dass eine der Prämissen von `<A1>` falsch ist. <!-- richtig -->
 2. In der entsprechenden Argumentkarte besteht gemäß der eingeführten Definitionen eine Angriffsbeziehung zwischen `<A2>` und `<A1>`. <!-- falsch -->
 3. Sei `p` die Prämisse von `<A1>`, die im konträren Widerspruch zur Konklusion von `<A2>` steht. Man kann den konträren Widerspruch zwischen `p` und der Konklusion von `<A2>` durch ein weiteres Argument `<A3>` explizit machen, das die Konklusion von `<A2>` als Prämisse und die Negation von `p` als Konklusion enthält. Dann bestünde von `<A2>` zu `<A3>` eine Stützungsbeziehung und von `<A3>` zu `<A1>` eine Angriffsbeziehung. <!-- richtig -->
 

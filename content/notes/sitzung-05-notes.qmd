@@ -19,6 +19,14 @@ Bisheriger Stand: [Mitschrift Sitzung 2](https://argumentkartierung.de/hhu-philo
 
 **Verständnisfrage:** Wie ist die Entkräftung des Kontra-Arguments (`<Theodizee Problem>`) zu verstehen? Gegen was richtet sich die Entkräftung?
 
+*Fundierte Hypothese:* Die Entkräftung `<Argument von der Brückenthese>` zielt darauf ab zu zeigen, dass die Existenz eines allmächtigen und allgütigen Gottes doch mit der Existenz von Übeln verträglich ist. Die entsprechende Unverträglichkeitsbehauptung ist in der Ziwschenkonklusion des Kontra-Arguments (`<Theodizee Problem>`) formuliert. 
+
+Damit ist zumindest geklärt, auf genau was die Kritik abzielt. 
+
+Der nächste Schritte wäre die Entkräftung zu rekonstruieren.
+
+*Anschlussfrage:* Besteht dann ein grüner Pfeil gemäß der eingeführten Definitionen für vertiefte Argumentkarten?
+
 # Bisheriger Stand unserer Merkel Analyse
 
 Bisheriger Stand aus den [Folien zu Sitzung 1](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/slides/sitzung-01-slides.html#/title-slide):
@@ -55,40 +63,12 @@ Der (annotierte) Text: [Folie 11](https://argumentkartierung.de/hhu-philosophisc
 
 Können wir auf Grundlage des bisherigen Stands die Verständnisfragen beantworten? Wenn ja, wie?
 
-## Einfache Argumentkarte zum Rütsche Text
-
-## Rekonstruktion des Hauptarguments
-
-```argdown
-(1) Nur durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen
-    kann die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen
-    angewendet werden, um zumindest einfache, monogenetische Veranlagungen zu
-    schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern.
-(2) ...
--- aus 1,2 mit ?? --
-(3) Die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen ist
-    notwendig, um Antworten auf wissenschaftlich und gesellschaftlich
-    wichtige Fragestellungen zu finden.
-(4) ...
--- aus 3,4 mit ?? --
-(5) Der Schutz der Menschenwürde wiegt (im Kontext der CRISPR/Cas9-Erforschung)
-    nicht höher als die Forschungsfreiheit.
-(6) ... gilt nur dann, wenn ....
--- aus 5,6 mit ?? --
-(7) Also: ...
-```
-
-Die Antwortoptionen aus Übungsblatt 4, Aufgabe 2:
-
-*Antwortoption:* Die Begründungsstruktur der skizzierten vorläufigen Rekonstruktion des Hauptarguments lässt sich so beschreiben: Die Zwischenkonklusionen (3) und (5) folgen jeweils aus voneinander unabhängigen Prämissen. Dann soll die Konklusion (7) aus diesen beiden Zwischenkonklusionen folgen.
-
-*Antwortoption:* Ergänzt man als Prämisse (4) den Satz *„Wenn die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig ist, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden, dann wiegt der Schutz der Menschenwürde (im Kontext der CRISPR/Cas9-Erforschung) nicht höher als die Forschungsfreiheit.“*, folgt die Zwischenkonklusion (5) aus den Prämissen (3) und (4) mittels Modus Ponens.
-
-*Antwortoption:* Das Wort 'nur' in Prämisse (1) signalisiert eine notwendige Bedingung. Ergänzt man als zweite Prämisse den entsprechenden Bedingungssatz *„Nur wenn durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen angewendet werden kann, um zumindest einfache, monogenetische Veranlagungen zu schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern, dann ist die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden.“* folgt die Zwischenkonklusion (3) aus den Prämissen (1) und (2) mittels Modus Ponens.
-
-*Antwortoption:* Das skizzierte Hauptargument soll begründen, dass die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen prinzipiell zulässig ist. Die Konklusion könnte man damit zum Beispiel so formulieren: *„Alle Forschungsprojekte zur Erforschung der CRISPR/Cas9-Technologie an menschlichen Embryonen sind zulässig.“* 
-
-
-*Antwortoption:* Prämisse 6 formuliert eine notwendige Bedingung, die nach dem 'wenn' ausformuliert werden kann. Der Schluss auf die Konklusion kann dann so weiter rekonstruiert werden: Die Zwischenkonklusion (5) formuliert, dass die notwendige Bedingung nicht erfüllt ist. Formalisiert man (6) mit `s → r` folgt die Konklusion (7) mit Modus Tollens, wenn die Konklusion mit `¬s` und die Zwischenkonklusion (5) mit `¬r` formalisiert wird. 
+1. Wie genau funktioniert der `<Einwand des naturalistischen Fehlschlusses>`? Was genau wird damit begründet? Eine Aussage über das Argument oder eine Aussage des Arguments?
+  + Gemäß der bisher formulierten Beschreibung geht der Angriff auf die Begründungsbeziehung.
+2. Ist der `<Einwand des naturalistischen Fehlschlusses>` berechtigt? 
+  + Wenn wir das `<Speziesargument>` als deduktiv gültiges Argument rekonstruieren, ist der Einwand in dieser Form hinfällig. Allein die Beschreibung liefert uns auch keinen Hinweis, auf genau welche der zu ergänzenden Prämissen der Einwand abzielt.
+3. Wie genau ist der `<Einwand gegen das Identitätsargument>` zu verstehen? Was genau wird damit gezeigt und welche weiteren Annahmen gehen in die Überlegungen ein?
+  + Die Formulierung "Das Identitätsargument ist problematisch" ist nicht informativ, weil sie uns keinen Hinweise gibt, auf genau was die Kritik am `<Identitätsargument>` (im `<Identitätsargument>`) abzielt. Der Weil-Teil lässt vermuten, dass es gegen den schon im Weil-Teil der Beschreibung des `<Identitätsargument>`s geht. Genauer werden wir das erst durch eine Rekonstruktion der Argumente verstehen können.
+4. Ist der `<Einwand gegen das Identitätsargument>` berechtigt? 
 
 
