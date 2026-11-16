@@ -319,7 +319,7 @@ In vertieften Argumentkarten beruhen die Argumentbeziehungen (Stützung und Angr
       withoutHeader: true
     ===
     <A1 Teil 1>: Erster Teil von A1
-      <+ <A1 Teil 2>: Zweiter Teil von A1.
+      +> <A1 Teil 2>: Zweiter Teil von A1.
     ```
 :::
 
