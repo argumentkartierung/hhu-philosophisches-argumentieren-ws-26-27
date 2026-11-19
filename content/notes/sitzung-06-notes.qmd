@@ -1,0 +1,116 @@
+---
+title: "Mitschrift: Sitzung 6 (20.11.2026) - Rekonstruktion von Argumenten"
+date: "2026-11-20"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  html: default
+  pdf: default 
+---
+
+# Aufgaben zu vertieften Argumentkarten
+
+## 3. Aufgabe: Vertiefte Argumentkarten lesen (2 Punkte)
+
+Welche Informationen kann man der folgenden vertieften Argumentkarte entnehmen? Was trifft zu?
+
+```argdown-map
+===
+webComponent:
+  withoutHeader: true
+===
+[T1]
+  <- <A1>
+    <- <A4>
+  <+ <A2>
+    <+ <A3>
+      <+ <A5>
+      <+ <A6>
+```
+
+1. Die Konklusionen von `<A1>` und `<A2>` stehen in einem kontradiktorischen Widerspruch zueinander.
+2. Die Konklusionen von `<A3>` und `<A4>` stehen nicht in einem kontradiktorischen Widerspruch zueinander.
+3. Die Konklusionen von `<A5>` und `<A6>` sind bedeutungsgleich.
+4. Fügt man der Argumentkarte die Konklusion von `<A5>` als Aussagenkasten hinzu, kann man der entstehenden Argumentkarte ablesen, ob die stützenden Argumentbeziehungen von `<A5>` und `<A6>` zu `<A3>` auf dieselbe Prämisse in `<A3>` abzielen.
+
+## 4. Aufgabe: Vertiefte Argumentkarten (2 Punkte)
+
+Gegeben sei eine vertiefte Argumentkarte bestehend aus zwei deduktiv gültigen Argumenten
+`<A1>`, `<A2>`. Die Argumente besitzen schematisch die folgende Struktur:
+
+```argdown
+<A1>
+
+(1) p 
+(2) q 
+-- aus 1,2 --
+(3) Also: r 
+(4) s
+-- aus 3,4 --
+(5) Also: t 
+
+
+<A2>
+
+(1) p
+(2) ¬r
+-- aus 1,2 --
+(3) Also: ¬t
+```
+
+Was trifft zu?
+
+1. `<A1>` greift `<A2>` an.
+2. `<A1>` stützt `<A2>` und `<A2>` stützt `<A1>`.
+3. Man kann `<A1>` in zwei Teilargumente mit jeweils einer Konklusion teilen. Dann besteht zwischen ihnen eine stützende Beziehung.
+4. Wenn man den Satz t der Karte als Aussagenkasten hinzufügt, greift `<A2>` diesen Aussagenkasten an und `<A1>` stützt sie.
+5. Wenn man den Satz p der Karte als Aussagenkasten hinzufügt, stützen beide Argumente diesen Aussagenkasten.
+6. Wenn man den Satz p der Karte als Aussagenkasten hinzufügt, werden beide Argumente durch den Aussagenkasten gestützt.
+7. Wenn man den Satz r der Karte als Aussagenkasten hinzufügt, wird `<A1>` durch diesen Aussagekasten gestützt und `<A2>` durch ihn angegriffen.
+8. Man kann `<A1>` in zwei Teilargumente mit jeweils einer Konklusion aufteilen. Dann greift eines von ihnen `<A2>` an.
+
+
+# Analyse des Rütsche Textes
+
+## Einfache Argumentkarte zum Rütsche Text
+
+## Rekonstruktion des Hauptarguments
+
+```argdown
+(1) Nur durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen
+    kann die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen
+    angewendet werden, um zumindest einfache, monogenetische Veranlagungen zu
+    schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern.
+(2) ...
+-- aus 1,2 mit ?? --
+(3) Die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen ist
+    notwendig, um Antworten auf wissenschaftlich und gesellschaftlich
+    wichtige Fragestellungen zu finden.
+(4) ...
+-- aus 3,4 mit ?? --
+(5) Der Schutz der Menschenwürde wiegt (im Kontext der CRISPR/Cas9-Erforschung)
+    nicht höher als die Forschungsfreiheit.
+(6) ... gilt nur dann, wenn ....
+-- aus 5,6 mit ?? --
+(7) Also: ...
+```
+
+Die Antwortoptionen aus Übungsblatt 4, Aufgabe 2:
+
+*Antwortoption:* Die Begründungsstruktur der skizzierten vorläufigen Rekonstruktion des Hauptarguments lässt sich so beschreiben: Die Zwischenkonklusionen (3) und (5) folgen jeweils aus voneinander unabhängigen Prämissen. Dann soll die Konklusion (7) aus diesen beiden Zwischenkonklusionen folgen.
+
+*Antwortoption:* Ergänzt man als Prämisse (4) den Satz *„Wenn die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig ist, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden, dann wiegt der Schutz der Menschenwürde (im Kontext der CRISPR/Cas9-Erforschung) nicht höher als die Forschungsfreiheit.“*, folgt die Zwischenkonklusion (5) aus den Prämissen (3) und (4) mittels Modus Ponens.
+
+*Antwortoption:* Das Wort 'nur' in Prämisse (1) signalisiert eine notwendige Bedingung. Ergänzt man als zweite Prämisse den entsprechenden Bedingungssatz *„Nur wenn durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen angewendet werden kann, um zumindest einfache, monogenetische Veranlagungen zu schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern, dann ist die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden.“* folgt die Zwischenkonklusion (3) aus den Prämissen (1) und (2) mittels Modus Ponens.
+
+*Antwortoption:* Das skizzierte Hauptargument soll begründen, dass die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen prinzipiell zulässig ist. Die Konklusion könnte man damit zum Beispiel so formulieren: *„Alle Forschungsprojekte zur Erforschung der CRISPR/Cas9-Technologie an menschlichen Embryonen sind zulässig.“* 
+
+
+*Antwortoption:* Prämisse 6 formuliert eine notwendige Bedingung, die nach dem 'wenn' ausformuliert werden kann. Der Schluss auf die Konklusion kann dann so weiter rekonstruiert werden: Die Zwischenkonklusion (5) formuliert, dass die notwendige Bedingung nicht erfüllt ist. Formalisiert man (6) mit `s → r` folgt die Konklusion (7) mit Modus Tollens, wenn die Konklusion mit `¬s` und die Zwischenkonklusion (5) mit `¬r` formalisiert wird. 
+
+

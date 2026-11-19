@@ -1,0 +1,87 @@
+---
+title: "Sitzung 6: Rekonstruktion von Argumenten"
+date: "2026-11-20"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  revealjs:
+    theme: [default, ../../assets/styles/slides.scss]
+    slide-number: true
+    preview-links: auto
+---
+
+## Programm für die heutige Sitzung
+
+1. Wiederholung und Zusammenfassung
+  + Einfache vs. vertiefte Argumentkarten
+  + Implizite Prämissen
+2. Besprechung des Aufgaben des 5. Übungsblattes zu vertieften Argumentkarten
+3. Besprechung und Kartierung des Rütsche Textes (Übungszettel)
+4. Neue Satzformen und Schlussmuster
+
+# 1. Wiederholung & Zusammenfassung
+
+## Widersprüche und vertiefte Argumentkarten
+
+::: {.callout-note}
+## Die wichtigsten Punkte der letzten Sitzung:
+1. **Widersprüche:** Aussagen stehen in einem Widerspruch zueinander, wenn sie nicht zugleich wahr sein können. Dabei wird zwischen kontradiktorischen und konträren Widersprüchen unterschieden.
+2. **Vertiefte Argumentkarten:** Im Gegensatz zu einfachen Argumentkarten basieren die Argumentbeziehungen (Stützung und Angriff) in vertieften Argumentkarten auf semantischen Beziehungen (Bedeutungsgleichheit und kontradiktorischer Widerspruch) zwischen den Aussagen der Argumente.
+:::
+
+## Implizite Prämissen
+
+:::{.callout-note}
+## Implizite Prämissen
+Implizite Prämissen eines Arguments sind Prämissen eines Arguments, die nicht explizit in der Formulierung des Arguments auftauchen und daher aus dem Text und Kontext erschlossen werden müssen.
+:::
+
+Es gibt verschiedene Gründe, warum Argumente implizite Prämissen enthalten können: 
+
+1. Argumentierende erwähnen bestimmte Prämissen nicht, weil sie denken, dass sie allgemein bekannt oder akzeptiert sind (also Teil des geteilten Hintergrundwissens sind).
+2. Argumentierende erwähnen bestimmte Prämissen nicht, weil sie problematische Prämissen verschleiern wollen.
+3. Argumentierende sind sich nicht bewusst, dass sie bestimmte weitere Prämissen benötigen, um die Gültigkeit ihres Arguments zu gewährleisten.
+
+
+## Ergänzung impliziter Prämissen
+
+1. Implizite Prämissen sollten so ergänzt werden, dass sie
+  + das Argument logisch gültig machen (*rekonstruktiver Deduktivismus*)
+  + möglichst plausibel sind und
+  + dem:der Proponent:in des Arguments unterstellt werden können bzw. dem gemeinten Sinn des Arguments entsprechen.
+
+
+👉 Es gibt unter Umständen mehrere Möglichkeiten, implizite Prämissen zu ergänzen.
+
+👉 Implizite Prämissen sollten in der Standarddarstellung von Argumenten ergänzt werden, um die Gültigkeit des Arguments zu gewährleisten. Das betrifft auch Prämissen, die wir im Kontext der Veranstaltung nur ergänzen müssen, damit das Argument *aussagenlogisch gültig* ist.
+
+## Rekonstruktion von Argumenten
+
+Bei der Rekonstruktion von Argumenten werden Argumente in ihrer Prämissen-Konklusion-Struktur analysiert. Dadurch werden einfache Argumentkarten in vertiefte Argumentkarten überführt.
+
+**Mehrwert:**
+
++ Identifizierung impliziter Prämissen.
++ Klärung der argumentativen Beziehungen zwischen Argumenten.
+
+**Klärung von Verständnis-/Analysefragen:** Inwiefern werden dadurch Verständnisfragen geklärt?
+
+Die in den einfachen Argumentkarten dargestellten Argumentbeziehungen können als vermutete Argumentbeziehungen verstanden werden (Interpretationshypothesen), die durch die Rekonstruktion überprüft werden.
+
+👉 Die in Ihrer eingangs erstellten einfachen Argumentkarte dargestellten Argumentbeziehungen können sich durch die Rekonstruktion der Argumente verändern!
+
+# 2. Besprechung des Aufgaben des 5. Übungsblattes zu vertieften Argumentkarten
+
+👉 Siehe [Mitschrift zur heutigen Sitzung](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/notes/sitzung-06-notes.html).
+
+# 3. Besprechung des Rütsche Textes (Übungszettel)
+
+👉 Siehe [Mitschrift zur heutigen Sitzung](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/notes/sitzung-06-notes.html).
+
+# 4. Neue Satzformen und Schlussmuster
+

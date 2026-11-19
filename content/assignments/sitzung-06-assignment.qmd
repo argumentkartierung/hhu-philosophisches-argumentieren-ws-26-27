@@ -1,0 +1,29 @@
+---
+title: "Übungsblatt: Sitzung 6 (20.11.2026) - Rekonstruktion von Argumenten"
+date: "2026-11-20"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  html: default
+  pdf: default 
+---
+
+## Aufgabenstellung (4 Punkte/ 2 Punkte je Rekonstruktion)
+
+Rekonstruieren die in der einfachen Argumentkarte identifizierten Argumente X und Y als deduktive gültige Argumente in der erweiterten Standarddarstellung.
+
+
+::: {.callout-important}
+Bitte laden Sie Ihre Lösung des Übungsblatts als PDF-Dokument bis spätestens **26.11.2026, 23:59 Uhr** auf [Moodle](https://moodle.phil.hhu.de/mod/assign/view.php?id=124538) hoch. Geben Sie bitte keine handschriftlichen Lösungen ab. 
+
++ Denken Sie bei Rekonstruktion in der erweiterten Standarddarstellung daran, dass Sie neben der Formulierung der Argumente in Listendarstellung auch die logisch-semantische Form der Sätze, die Zuordnungsliste und die Schlussregeln angeben müssen!
++ Für die Formalisierungen sollten Sie die in der Veranstaltung eingeführten Symbole verwenden.
++ Neben den in der Übung eingeführten Schlussmustern dürfen Sie auch andere Ihnen bekannte Schlussmuster verwenden.
++ *Bepunktung:* Ist die Argumentrekonstruktion unvollständig (siehe erste Spiegelstrich), erhalten Sie keine Punkte. Sie erhalten die volle Punktzahl, wenn sowohl die Formalisierung der Sätze als auch die Anwendung der Schlussmuster keine Fehler enthält und wenn Sie darüber hinaus die Prämissen, die Konklusion und ggf. die Zwischenkonklusionen korrekt identifizieren. Fehler in einem dieser Bereiche führen ggf. zu Punktabzug.
++ *Varianten der Listendarstellung:* Ihre Argumentrekonstruktion sollte in der Listendarstellung klar die Prämissen, die Zwischenkonklusionen und die Konklusion ausweisen. Darüber hinaus gibt es keine festen Regeln, wie die Listendarstellung genau aussehen muss. Insbesondere muss Ihre Argumentrekonstruktion nicht so formatiert werden, wie in den Beispielen auf den Folien gezeigt. Wichtig ist, dass alles dargestellt wird, was für die erweiterte Standarddarstellung relevant ist. Sie können bspw. die Formalisierung der Sätze außerhalb der Listendarstellung angeben. Eine Variante finden Sie auf den [Folien der Sitzung 3, Folien 14](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/slides/sitzung-03-slides.html#/erweiterte-standarddarstellung-von-argumenten---beispiel-variante).
+:::
