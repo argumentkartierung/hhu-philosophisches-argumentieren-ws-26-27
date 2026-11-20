@@ -13,6 +13,7 @@ format:
 In dieser Sitzung führen wir die Methode der Argumentrekonstruktion ein. 
 
 Zentrale Fragen:
+
 + Sollten Argumente als deduktiv gültige Argumente rekonstruiert werden?
 + Was sind implizite Prämissen und welche Rolle spielen sie?
 + Was ist die erweiterte Standarddarstellung von Argumenten?
@@ -25,6 +26,22 @@ Zentrale Fragen:
 
 - TODO: Add learning objectives
 -->
+
+
+
+
+
+
+
+
+## {{< fa display >}} Folien
+
+ [Folien im Vollbildmodus](../slides/sitzung-06-slides.html){target="_blank"}   | [Folien als PDF](../slides/sitzung-06-slides.pdf){target="_blank"} 
+
+
+```{=html}
+<iframe class="slide-deck" src="../slides/sitzung-06-slides.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+```
 
 
 
@@ -41,6 +58,38 @@ Zentrale Fragen:
 
 TODO: Add content.
 -->
+
+
+
+## {{< fa folder-open >}} Materialien
+
+
+
+
+
+
+
+- **Folien**: [{{< fa link >}}](../slides/sitzung-06-slides.html) | [{{< fa file-pdf >}}](../slides/sitzung-06-slides.pdf)
+
+
+
+
+
+
+
+
+- **Mitschrift**: [{{< fa link >}}](../notes/sitzung-06-notes.html) | [{{< fa file-pdf >}}](../notes/sitzung-06-notes.pdf)
+
+
+
+
+
+
+
+
+- **Übungsblatt**: [{{< fa link >}}](../assignments/sitzung-06-assignment.html) | [{{< fa file-pdf >}}](../assignments/sitzung-06-assignment.pdf)
+
+
 
 
 

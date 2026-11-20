@@ -33,6 +33,12 @@ artifacts:
     type: syllabus
     file: "content/syllabus.qmd"
     overwrite: never
+  - id: handout-schlussmuster-definitionen
+    type: handout
+    title: "Wichtige Definitionen & Schlussmuster"
+    file: "content/handout-schlussmuster-definitionen.qmd"
+    overwrite: never
+    output_formats: [website, pdf]
 
 modules:
   - id: sitzung-01
@@ -227,6 +233,7 @@ modules:
       In dieser Sitzung führen wir die Methode der Argumentrekonstruktion ein. 
 
       Zentrale Fragen:
+
       + Sollten Argumente als deduktiv gültige Argumente rekonstruiert werden?
       + Was sind implizite Prämissen und welche Rolle spielen sie?
       + Was ist die erweiterte Standarddarstellung von Argumenten?
@@ -236,24 +243,24 @@ modules:
       - id: folien-sitzung-06
         type: slides
         output_formats: [revealjs, pdf]
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
       - id: notes-06
         type: notes
         output_formats: [website, pdf]
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
       - id: assignment-06
         type: assignment
         output_formats: [website, pdf]
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
   - id: sitzung-07
     type: lecture
     title: "Sitzung 7"

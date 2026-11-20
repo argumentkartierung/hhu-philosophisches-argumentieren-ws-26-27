@@ -1,0 +1,276 @@
+---
+title: "Handout: Wichtige Definitionen & Schlussmuster"
+
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  html: default
+  pdf: 
+    include-in-header:
+      - text: |
+          \makeatletter
+          \def\argdown@rowrule{\noalign{\ifnum0=`}\fi
+            \futurenonspacelet\@tempa\argdown@rowrulecheck}
+          \def\argdown@rowrulecheck{%
+            \ifx\@tempa\midrule\else\ifx\@tempa\end\else
+              \vskip\aboverulesep
+              \hrule height\lightrulewidth
+              \vskip\belowrulesep
+            \fi\fi
+            \ifnum0=`{\fi}}
+          \apptocmd{\LT@tabularcr}{\argdown@rowrule}
+            {}{\PackageError{argdown-row-rules}{Could not patch longtable}{}}
+          \makeatother
+---
+
+## Wichtige Definitionen & Erläuterungen
+
++ **Deduktiv gültige Argumente**: Ein Argument ist genau dann deduktiv gültig, wenn gilt: Sind die Prämissen wahr, kann die Konklusion nicht falsch sein.
++ **Schlüssige Argumente** (stichhaltige Argumente): Ein Argument schlüssig genau dann, wenn es deduktiv gültig ist und seine Prämissen wahr sind.
++ **Gültige Schlüsse der Aussagenlogik**: Gültigkeit ergibt sich durch die Bedeutung der aussagenlogischen Satzoperatoren (*Wenn..., dann...*, *nicht*, *oder* und *und*).
++ Sätze der Form *"Wenn p, dann q."* (Subjunktionen) drücken notwendige und hinreichende Bedingungen aus.
+	+ p ist hinreichend für q und q ist notwendig für p.
+
+
+## Satzoperatoren der Aussagenlogik
+
+| Satzoperator | Satzform (schematisch) | Aussagenlogische Formel |
+|--------------|------------------------|-------------------------|
+| Subjunktion (materiales Konditional) | `'Wenn p, dann q.'`| '$p\rightarrow q$' oder '$p\supset q$'
+| Bisubjunktion (Bikonditional) | `'p genau dann, wenn q.'` |  '$p\leftrightarrow q$' oder '$p\equiv q$' |
+| Disjunktion (Adjunktion) | `'p oder q.'` | '$p\vee q$' |
+| Konjunktion | `'p und q.'`| '$p\wedge q$' oder '$p.q$' oder '$p\&q$'|
+| Negation | `'Es ist nicht der Fall, dass p.'` | '$\neg p$' oder auch '$\sim p$'|
+
+## Definition der Argumentbeziehungen in vertieften Argumentkarten
+
+::: {.list-table tbl-colwidths="[30,30,40]"}
+- - Argumentbeziehung
+  - Laxe Beschreibung
+  - Präzise Definition
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    [T1]: Aussage
+      <+ <A1>: Stützendes Argument
+    ```
+  - Begründung der Aussage/These
+  - Konklusion von `<A1>` ist bedeutungsgleich mit der Aussage/These `[T1]`
+
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    [T1]: Aussage
+      <- <A1>: Angreifendes Argument
+    ```
+  - Einwand gegen die Aussage/These
+  - Konklusion von `<A1>` steht im kontradiktorischen Widerspruch zur Aussage/These `[T1]`
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Argument
+      <- <A2>: Angreifendes Argument
+    ```
+  - Kritik an Prämisse von `<A1>`
+  - Konklusion von `<A2>` steht im kontradiktorischen Widerspruch zu einer Prämisse von `<A1>`
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Argument
+      <+ <A2>: Stützendes Argument
+    ```
+  - Begründung einer Prämisse von `<A1>`
+  - Konklusion von `<A2>` ist bedeutungsgleich mit einer der Prämissen von `<A1>`
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Argument
+      <+ [T1]: Stützendes Aussage/These
+    ```
+  - `[T1]` "stützt" `<A1>` 
+  - `[T1]` ist bedeutungsgleich mit einer der Prämissen von `<A1>`
+
+- - ```argdown-map
+    ===
+    webComponent:
+      withoutHeader: true
+    ===
+    <A1>: Argument
+      <- [T1]: Angreifende Aussage/These
+    ```
+  - `[T1]` "greift" `<A1>` an 
+  - `[T1]` steht im kontradiktorischen Widerspruch zu einer Prämisse von `<A1>`
+
+:::
+
+
+## Schlussmuster
+
+
+### Modus Ponens
+
+```argdown
+<Argumentschema Modus Ponens>
+
+(1) Wenn p, dann q.
+    // p → q
+(2) p.
+-- mit Modus Ponens aus 1,2 --
+(3) *Also*: q.
+```
+
+### Modus Tollens
+
+```argdown
+<Argumentschema Modus Tollens>
+
+(1) Wenn p, dann q.
+    // p → q
+(2) Es ist nicht der Fall, dass q.
+    // ¬q
+-- mit Modus Tollens aus 1,2 --
+(3) *Also*: Es ist nicht der Fall, dass p.
+    // ¬p
+```
+
+### Transitivität (Kettenregel)
+
+```argdown
+<Argumentschema Transitivität>
+
+(1) Wenn p, dann q.
+    // p → q
+(2) Wenn q, dann r.
+    // q → r
+-- aus 1,2 mit Transitivität --
+(3) *Also*: Wenn p, dann r.
+    // p → r
+```
+
+### Kontraposition
+
+```argdown
+<Argumentschema Kontraposition>
+
+(1) Wenn p, dann q.
+    // p → q
+-- aus 1 mit Kontraposition--
+(2) *Also*: Wenn q falsch ist, dann ist p falsch.
+    // ¬q → ¬p
+```
+
+### Konjunktionseinführung
+
+```argdown
+<Argumentschema Konjunktionseinführung>
+
+(1) p.
+(2) q.
+-- mit Konjunktionseinführung aus 1,2 --
+(3) *Also*: p und q.
+    // p ∧ q
+```
+
+### Konjunktionsbeseitigung
+
+```argdown
+<Argumentschema Konjunktionsbeseitigung>
+
+(1) p und q.
+    // p ∧ q
+-- mit Konjunktionsbeseitigung aus 1 --
+(3) *Also*: p.
+```
+
+### Disjunktionseinführung
+
+```argdown
+<Argumentschema Disjunktionseinführung>
+
+(1) p.
+-- mit Disjunktionseinführung aus 1,2 --
+(3) *Also*: p oder q.
+    // p ∨ q
+```
+
+
+### Disjunktiver Syllogismus / Adjunktiver Syllogismus
+
+```argdown
+<Argumentschema Disjunktiver Syllogismus>
+
+(1) p oder q.
+  // p ∨ q
+(2) nicht p.
+  // ¬p
+-- aus 1,2 mit disj. Syll. --
+(3) *Also*: q.
+```
+
+### Kontravalenz
+
+```argdown
+<Argumentschema Kontravalenz>
+
+(1) Entweder p oder q.
+  // (p ∨ q) ∧ ¬(p ∧ q)
+(2) p.
+-- aus 1,2 mit Kontravalenz--
+(3) *Also*: q ist falsch.
+  // ¬q
+
+```
+
+### De Morgan'sche Regeln
+
+Die folgenden Schlussmuster nutzen die folgenden Äquivalenzen aus:
+
++ Konjunktionen der Form `¬(p∧q)` sind äquivalent zu Disjunktionen der Form `¬p∨¬q`.
++ Disjunktionen der Form `¬(p∨q)` sind äquivalent zu Konjunktionen der Form `¬p∧¬q`.
+
+```argdown
+(1) Es ist nicht der Fall, dass p und q.
+  // ¬(p∧q)
+-- mit De Morgan'scher Regel aus 1 --
+(2) *Also*: Es ist nicht der Fall, dass p oder es ist nicht der Fall, dass q.
+  // ¬p∨¬q
+```
+
+```argdown
+(1) Es ist nicht der Fall, dass p oder es ist nicht der Fall, dass q.
+  // ¬p∨¬q
+-- mit De Morgan'scher Regel aus 1 --
+(2) *Also*: Es ist nicht der Fall, dass p und q.
+  // ¬(p∧q)
+```
+
+```argdown
+(1) Es ist nicht der Fall, dass p oder q.
+  // ¬(p∨q)
+-- mit De Morgan'scher Regel aus 1 --
+(2) *Also*: Es ist nicht der Fall, dass p und es ist nicht der Fall, dass q.
+  // ¬p∧¬q
+```
+
+```argdown
+(1) Es ist nicht der Fall, dass p und es ist nicht der Fall, dass q.
+  // ¬p∧¬q
+-- mit De Morgan'scher Regel aus 1 --
+(2) *Also*: Es ist nicht der Fall, dass p oder q.
+  // ¬(p∨q)
+```

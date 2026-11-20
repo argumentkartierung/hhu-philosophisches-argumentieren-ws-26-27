@@ -149,7 +149,6 @@ In vertieften Argumentkarten beruhen die Argumentbeziehungen (Stützung und Angr
 
 ## Definition der Argumentbeziehungen in vertieften Argumentkarten: Von Argumenten zu Aussagen
 
-
 ::: {.list-table tbl-colwidths="[30,30,40]"}
 - - Argumentbeziehung
   - Laxe Beschreibung

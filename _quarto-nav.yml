@@ -71,8 +71,14 @@ website:
 
 
 
-        - text: "Sitzung 6"
+        - section: "Sitzung 6"
           href: content/modules/sitzung-06.qmd
+          contents:
+            - text: "Mitschrift"
+              href: content/notes/sitzung-06-notes.qmd
+            - text: "Übungsblatt"
+              href: content/assignments/sitzung-06-assignment.qmd
+
 
 
 
@@ -131,4 +137,8 @@ website:
 
 
 
+        - text: "---"
+
+        - text: "Wichtige Definitionen \u0026 Schlussmuster"
+          href: content/handout-schlussmuster-definitionen.qmd
 
