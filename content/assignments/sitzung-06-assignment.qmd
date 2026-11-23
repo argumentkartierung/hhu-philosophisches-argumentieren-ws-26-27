@@ -13,17 +13,82 @@ format:
   pdf: default 
 ---
 
-## Aufgabenstellung (4 Punkte/ 2 Punkte je Rekonstruktion)
+Die Abgabe dieses Übungsblatts ist freiwillig und kann über Moodle (<https://moodle.phil.hhu.de/mod/quiz/view.php?id=124567>) bis zum 26.11.2026, 23:59 Uhr erfolgen. Die erreichten Punkte zählen als Zusatzpunkte.
 
-Rekonstruieren die in der einfachen Argumentkarte identifizierten Argumente X und Y als deduktive gültige Argumente in der erweiterten Standarddarstellung.
+::: {.callout-tip}
+In den folgenden Aufgaben geht es lediglich um die Anwendung der im Kurs definierten Argumentbeziehungen für vertiefte Argumentkarten. Legen Sie sich entsprechend zur Beantwortung der Aufgaben die entsprechenden Definitionen bereit. Die Aufgaben können allein unter Berücksichtigung der Definitionen gelöst werden!
+::: 
 
+# Aufgabe 1 (2 Zusatzpunkte)
 
-::: {.callout-important}
-Bitte laden Sie Ihre Lösung des Übungsblatts als PDF-Dokument bis spätestens **26.11.2026, 23:59 Uhr** auf [Moodle](https://moodle.phil.hhu.de/mod/assign/view.php?id=124538) hoch. Geben Sie bitte keine handschriftlichen Lösungen ab. 
+Gegeben sei eine Argumentkarte mit den Argumenten `<A1>`, `<A2>` und `<A3>` sowie dem Aussagekasten `[T1]`. `<A1>` besitzt als Prämissen die Sätze `p` und `q` und als Konklusion den Satz `r`. `<A2>` besitzt als Prämissen die Sätze `s` und `t` und als Konklusion den Satz `u`. `<A3>` besitzt als Prämissen die Sätze `v` und `w` und als Konklusion den Satz `m`. 
 
-+ Denken Sie bei Rekonstruktion in der erweiterten Standarddarstellung daran, dass Sie neben der Formulierung der Argumente in Listendarstellung auch die logisch-semantische Form der Sätze, die Zuordnungsliste und die Schlussregeln angeben müssen!
-+ Für die Formalisierungen sollten Sie die in der Veranstaltung eingeführten Symbole verwenden.
-+ Neben den in der Übung eingeführten Schlussmustern dürfen Sie auch andere Ihnen bekannte Schlussmuster verwenden.
-+ *Bepunktung:* Ist die Argumentrekonstruktion unvollständig (siehe erste Spiegelstrich), erhalten Sie keine Punkte. Sie erhalten die volle Punktzahl, wenn sowohl die Formalisierung der Sätze als auch die Anwendung der Schlussmuster keine Fehler enthält und wenn Sie darüber hinaus die Prämissen, die Konklusion und ggf. die Zwischenkonklusionen korrekt identifizieren. Fehler in einem dieser Bereiche führen ggf. zu Punktabzug.
-+ *Varianten der Listendarstellung:* Ihre Argumentrekonstruktion sollte in der Listendarstellung klar die Prämissen, die Zwischenkonklusionen und die Konklusion ausweisen. Darüber hinaus gibt es keine festen Regeln, wie die Listendarstellung genau aussehen muss. Insbesondere muss Ihre Argumentrekonstruktion nicht so formatiert werden, wie in den Beispielen auf den Folien gezeigt. Wichtig ist, dass alles dargestellt wird, was für die erweiterte Standarddarstellung relevant ist. Sie können bspw. die Formalisierung der Sätze außerhalb der Listendarstellung angeben. Eine Variante finden Sie auf den [Folien der Sitzung 3, Folien 14](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/slides/sitzung-03-slides.html#/erweiterte-standarddarstellung-von-argumenten---beispiel-variante).
+Zwischen den genannten Sätzen bestehen folgende Beziehungen: 
+
++ `r` ist gleichbedeutend mit `m`, 
++ `t` ist gleichbedeutend mit `w`, 
++ der Satz des Thesenkastens `[T1]` ist gleichbedeutend mit der Konklusion von `<A3>` und 
++ `u` widerspricht `p` kontradiktorisch.
+
+Welche der folgenden Argumentbeziehungen treffen zu?
+
+1. `<A1>` stützt `<A3>`.
+2. `<A3>` stützt `[T1]`.
+3. `<A1>` greift `[T1]` an.
+4. `<A2>` greift `<A1>` an.
+5. `<A2>` stützt `[T1]`.
+6. `<A1>` greift `<A3>` an.
+7. `<A2>` stützt `<A3>`.
+
+# Aufgabe 2 (2 Zusatzpunkte)
+
+Welche Informationen kann man der folgenden vertieften Argumentkarte entnehmen? Was trifft zu?
+
+```argdown-map
+===
+webComponent:
+  withoutHeader: true
+===
+
+<A1>
+  +> <A2>
+    +> [T1]
+  +> <A3>
+    +> [T2]
+    <- <A4>
+```
+
+1. Einer der Prämissen von `<A2>`  ist bedeutungsgleich mit einer der Prämissen von `<A3>`. <!-- ja -->
+2. Fügt man der Argumentkarte die Konklusion von `<A1>` als Aussagekasten hinzu, besteht von diesem Aussagekasten eine Stützungsbeziehung zu `<A2>` und eine zu `<A3>`. <!-- ja -->
+3. Die Konklusion von `<A4>` steht in einem kontradiktorischen Widerspruch zu Prämisse von `<A1>`. <!-- nein -->
+4. Die Konklusionen von `<A2>` und `<A3>` sind nicht bedeutungsgleich. <!-- ja -->
+5. Die Konklusion von `<A2>` ist bedeutungsgleich mit einer der Prämissen von `<A3>`. <!-- nein -->
+
+# Aufgabe 3 (2 Zusatzpunkte)
+
+Die folgende vertiefte Argumentkarte enthält Fehler. Ausgehend von den vorhandenen Pfeilen fehlen einige Pfeile. Welche? 
+
+:::{.callout-important}
+Ignorieren Sie für diese Aufgaben die Hinweise zu redundanten Pfeilen, die nicht dargestellt werden ([Folie 23, Sitzung 5](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/slides/sitzung-05-slides.html#/unterdr%C3%BCckte-pfeile-in-vertieften-argumentkarten)). D.h., bearbeiten Sie diese Aufgabe unter der Anforderung, dass alle Argumentbeziehungen, die man sich aus den vorhandenen Pfeilen erschließen kann, in einer korrekten Argumentkarte auch dargestellt werden müssen.
 :::
+
+```argdown-map
+===
+webComponent:
+  withoutHeader: true
+===
+
+<A3>
+  -> [T2]
+    +> <A2>
+  -> <A1>
+    +> [T3]
+    +> [T1]
+      <- <A2>
+```
+
+1. Es fehlt ein roter Angriffspfeil von `[T2]` zu `<A1>`. <!-- nein -->
+2. Es fehlt ein grüner Stützungspfeil von `<A3>` zu `<A2>`. <!-- nein -->
+3. Es fehlt ein grüner Stützungspfeil von `[T1]` zu `[T3]`. <!-- ja -->
+4. Es fehlt ein grüner Stützungspfeil von `[T3]` zu `[T1]`. <!-- ja -->
+5. Es fehlt eine roter Angriffspfeil von `<A2>` zu `[T3]`. <!-- ja -->

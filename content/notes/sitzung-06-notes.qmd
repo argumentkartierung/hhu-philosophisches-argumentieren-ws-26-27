@@ -13,25 +13,79 @@ format:
   pdf: default 
 ---
 
-# Aufgaben zu vertieften Argumentkarten
+# Musterlösung zu den Aufgaben zu vertieften Argumentkarten (Übungsblatt zur 5. Sitzung)
 
 ## 2. Aufgabe: Kritik über konträre Widersprüche (2 Punkte)
 
 Gegeben seien zwei rekonstruierte Argumente `<A1>` und `<A2>`. Die Konklusion von `<A2>` steht im konträren Widerspruch zu einer Prämisse von `<A1>`. In welcher Beziehung stehen die beiden Argumente, und wie lassen sich diese Beziehungen mithilfe vertiefter Argumentkarten visualisieren? Was trifft zu?
 
 1. Argument `<A2>` kann als Kritik an `<A1>` verstanden werden, da die Begründung der Konklusion von `<A2>` (über die Prämissen von `<A2>`) gleichermaßen begründet, dass eine der Prämissen von `<A1>` falsch ist.
+    + *Richtig:* Die Prämissen von `<A2>` begründen die Konklusion des Arguments. Da diese Konklusion im konträren Widerspruch zu einer Prämisse von `<A1>` steht, folgt aus dieser Konklusion die Falschheit dieser Prämisse. Damit begründen die Prämissen von `<A2>`, dass eine der Prämissen von `<A1>` falsch ist.
 2. In der entsprechenden Argumentkarte besteht gemäß den eingeführten Definitionen eine Angriffsbeziehung zwischen `<A2>` und `<A1>`.
+    + *Falsch:* Gemäß der eingeführten Definitionen bestünde diese Angriffsbeziehung nur dann, wenn die Konklusion von `<A2>` in einem *kontradiktorischen* Widerspruch zu einer Prämisse von `<A1>` stünde. Da hier nur ein konträrer Widerspruch vorliegt, trifft dies nicht zu. 
 3. Sei `p` die Prämisse von `<A1>`, die im konträren Widerspruch zur Konklusion von `<A2>` steht. Man kann den konträren Widerspruch zwischen `p` und der Konklusion von `<A2>` durch ein weiteres Argument `<A3>` explizit machen, das die Konklusion von `<A2>` als Prämisse und die Negation von `p` als Konklusion enthält. Dann bestünde von `<A2>` zu `<A3>` eine Stützungsbeziehung und von `<A3>` zu `<A1>` eine Angriffsbeziehung.
+    + *Richtig:* Das hinzugefügte Argument `<A3>` besitzt einen zu `p` kontradiktorischen Widerspruch (die Negation von `p`) als Konklusion, wodurch es eine Angriffsbeziehung von `<A3>` zu `<A1>` gibt.
+
+Schematisch: Sei `q`die Prämisse von `<A2>`, die im konträren Widerspruch zu `p` steht.
+
+```argdown
+<A1>
+
+  (1) ...
+  (2) p
+  ----
+  (3) ...
+
+<A2>
+
+  (1) ...
+  (2) ...
+  ----
+  (3) q 
+
+<A3>
+  
+  (1) q
+  ----
+  (2) non-p
+```
+
+Die entstehende Argumentkarte:
+
+```argdown-map
+<A1>
+
+(1) ...
+(2) p
+----
+(3) ...
+
+<A2>
+  +> <A3> 
+
+(1) ...
+(2) ...
+----
+(3) q 
+
+<A3>
+  -> <A1>
+  
+(1) q
+----
+(2) non-p
+```
+
+
+::: {.callout-important}
+Das zeigt, dass auch Einwände bzw. Kritik, die auf konträren Widersprüchen beruhen, in vertieften Argumentkarten dargestellt werden können, obwohl die definierte Angriffsbeziehung nur kontradiktorische Widersprüche berücksichtigt. Wie in der dritten Antwortmöglichkeit beschrieben, kann man dies erreichen, indem man ein weiteres Argument der Karte hinzufügt. 
+:::
 
 ## 3. Aufgabe: Vertiefte Argumentkarten lesen (2 Punkte)
 
 Welche Informationen kann man der folgenden vertieften Argumentkarte entnehmen? Was trifft zu?
 
 ```argdown-map
-===
-webComponent:
-  withoutHeader: true
-===
 [T1]
   <- <A1>
     <- <A4>
@@ -42,9 +96,14 @@ webComponent:
 ```
 
 1. Die Konklusionen von `<A1>` und `<A2>` stehen in einem kontradiktorischen Widerspruch zueinander.
+    + *Richtig:* Gemäß den Definitionen und abgebildeten Argumentbeziehungen besitzt `<A1>` eine Konklusion, die im kontradiktorischen Widerspruch zur Aussage `[T1]` steht, die wiederum bedeutungsgleich mit der Konklusion von `<A2>` ist. Damit müssen die Konklusionen von `<A1>` und `<A2>` im kontradiktorischen Widerspruch zueinander stehen.
 2. Die Konklusionen von `<A3>` und `<A4>` stehen nicht in einem kontradiktorischen Widerspruch zueinander.
+    + *Richtig:* Stünden die Konklusionen von `<A3>` und `<A4>` im kontradiktorischen Widerspruch zueinander, müsste es weitere Argumentbeziehungen geben, die diesen Widerspruch abbilden: Es bestünde dann eine Angriffsbeziehung von `<A4>` zu `<A2>` und ein Stützungsbeziehung von `<A3>` zu `<A1>`. Da solche Beziehungen nicht abgebildet sind, stehen die Konklusionen von `<A3>` und `<A4>` nicht im kontradiktorischen Widerspruch zueinander.
 3. Die Konklusionen von `<A5>` und `<A6>` sind bedeutungsgleich.
-4. Fügt man der Argumentkarte die Konklusion von `<A5>` als Aussagenkasten hinzu, kann man der entstehenden Argumentkarte ablesen, ob die stützenden Argumentbeziehungen von `<A5>` und `<A6>` zu `<A3>` auf dieselbe Prämisse in `<A3>` abzielen.
+    + *Falsch:* Aufgrund der dargestellten Argumentbeziehungen wissen wir nur, das es jeweils für `<A5>` und `<A6>` eine Prämisse in `<A3>` gibt, die mit der Konklusion bedeutungsgleich ist. Wir wissen jedoch nicht, ob es die gleiche Prämisse in `<A3>` ist.
+4. Fügt man der Argumentkarte die Konklusion von `<A5>` als Aussagekasten hinzu, kann man der entstehenden Argumentkarte ablesen, ob die stützenden Argumentbeziehungen von `<A5>` und `<A6>` zu `<A3>` auf dieselbe Prämisse in `<A3>` abzielen.
+    + *Richtig:* Durch das Hinzufügen der Konklusion von `<A5>` als Aussagekasten wird sichtbar, ob die Stützungsbeziehungen von `<A5>` und `<A6>` auf dieselbe Prämisse in `<A3>` abzielen.
+
 
 ## 4. Aufgabe: Vertiefte Argumentkarten (2 Punkte)
 
@@ -73,52 +132,34 @@ Gegeben sei eine vertiefte Argumentkarte bestehend aus zwei deduktiv gültigen A
 
 Was trifft zu?
 
-1. `<A1>` greift `<A2>` an.
-2. `<A1>` stützt `<A2>` und `<A2>` stützt `<A1>`.
-3. Man kann `<A1>` in zwei Teilargumente mit jeweils einer Konklusion teilen. Dann besteht zwischen ihnen eine stützende Beziehung.
-4. Wenn man den Satz t der Karte als Aussagenkasten hinzufügt, greift `<A2>` diesen Aussagenkasten an und `<A1>` stützt sie.
-5. Wenn man den Satz p der Karte als Aussagenkasten hinzufügt, stützen beide Argumente diesen Aussagenkasten.
-6. Wenn man den Satz p der Karte als Aussagenkasten hinzufügt, werden beide Argumente durch den Aussagenkasten gestützt.
-7. Wenn man den Satz r der Karte als Aussagenkasten hinzufügt, wird `<A1>` durch diesen Aussagekasten gestützt und `<A2>` durch ihn angegriffen.
-8. Man kann `<A1>` in zwei Teilargumente mit jeweils einer Konklusion aufteilen. Dann greift eines von ihnen `<A2>` an.
-
-
-# Analyse des Rütsche Textes
-
-## Einfache Argumentkarte zum Rütsche Text
-
-## Rekonstruktion des Hauptarguments
-
-```argdown
-(1) Nur durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen
-    kann die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen
-    angewendet werden, um zumindest einfache, monogenetische Veranlagungen zu
-    schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern.
-(2) ...
--- aus 1,2 mit ?? --
-(3) Die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen ist
-    notwendig, um Antworten auf wissenschaftlich und gesellschaftlich
-    wichtige Fragestellungen zu finden.
-(4) ...
--- aus 3,4 mit ?? --
-(5) Der Schutz der Menschenwürde wiegt (im Kontext der CRISPR/Cas9-Erforschung)
-    nicht höher als die Forschungsfreiheit.
-(6) ... gilt nur dann, wenn ....
--- aus 5,6 mit ?? --
-(7) Also: ...
-```
-
-Die Antwortoptionen aus Übungsblatt 4, Aufgabe 2:
-
-*Antwortoption:* Die Begründungsstruktur der skizzierten vorläufigen Rekonstruktion des Hauptarguments lässt sich so beschreiben: Die Zwischenkonklusionen (3) und (5) folgen jeweils aus voneinander unabhängigen Prämissen. Dann soll die Konklusion (7) aus diesen beiden Zwischenkonklusionen folgen.
-
-*Antwortoption:* Ergänzt man als Prämisse (4) den Satz *„Wenn die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig ist, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden, dann wiegt der Schutz der Menschenwürde (im Kontext der CRISPR/Cas9-Erforschung) nicht höher als die Forschungsfreiheit.“*, folgt die Zwischenkonklusion (5) aus den Prämissen (3) und (4) mittels Modus Ponens.
-
-*Antwortoption:* Das Wort 'nur' in Prämisse (1) signalisiert eine notwendige Bedingung. Ergänzt man als zweite Prämisse den entsprechenden Bedingungssatz *„Nur wenn durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen angewendet werden kann, um zumindest einfache, monogenetische Veranlagungen zu schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern, dann ist die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden.“* folgt die Zwischenkonklusion (3) aus den Prämissen (1) und (2) mittels Modus Ponens.
-
-*Antwortoption:* Das skizzierte Hauptargument soll begründen, dass die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen prinzipiell zulässig ist. Die Konklusion könnte man damit zum Beispiel so formulieren: *„Alle Forschungsprojekte zur Erforschung der CRISPR/Cas9-Technologie an menschlichen Embryonen sind zulässig.“* 
-
-
-*Antwortoption:* Prämisse 6 formuliert eine notwendige Bedingung, die nach dem 'wenn' ausformuliert werden kann. Der Schluss auf die Konklusion kann dann so weiter rekonstruiert werden: Die Zwischenkonklusion (5) formuliert, dass die notwendige Bedingung nicht erfüllt ist. Formalisiert man (6) mit `s → r` folgt die Konklusion (7) mit Modus Tollens, wenn die Konklusion mit `¬s` und die Zwischenkonklusion (5) mit `¬r` formalisiert wird. 
-
+::: {.list-table tbl-colwidths="[30,40,30]"}
+- - Antwortoption
+  - Lösung
+  - Argumentkarte
+- - `<A1>` greift `<A2>` an.
+  - Das ist *falsch*. Dafür müsste in `<A2>` eine Prämisse auftauchen, die der Konklusion von `<A1>` kontradiktorisch widerspricht.
+  - 
+- - `<A1>` stützt `<A2>` und `<A2>` stützt `<A1>`.
+  -  Das ist *falsch*. Weder ist die Konklusion  von `<A1>` bedeutungsgleich mit einer der Prämissen von `<A2>`, noch ist die Konklusion von `<A2>` bedeutungsgleich mit einer der Prämissen von `<A1>`.
+  -
+- - Man kann `<A1>` in zwei Teilargumente mit jeweils einer Konklusion teilen. Dann besteht zwischen ihnen eine stützende Beziehung.
+  - Das ist *richtig*. 👉 Man hat damit bei Argumenten mit Zwischenkonklusionen mehrere Möglichkeiten, sie in einer Argumentkarte darzustellen. 
+  - ![](./images/argumentkarten-lesen-02-c){width=40%}
+- - Wenn man den Satz `t` der Karte als Aussagekasten hinzufügt, greift `<A2>` diesen Aussagekasten an und `<A1>` stützt ihn.
+  - Das ist *richtig*.
+  - ![](./images/argumentkarten-lesen-02-d){width=100%}
+- - Wenn man den Satz `p` der Karte als Aussagekasten hinzufügt, stützen beide Argumente diesen Aussagekasten.
+  - Das ist *falsch.*
+  - ![](./images/argumentkarten-lesen-02-ef){width=100%}
+- - Wenn man den Satz `p` der Karte als Aussagekasten hinzufügt, werden beide Argumente durch den Aussagekasten gestützt.
+  - Das ist *richtig.*
+  - ![](./images/argumentkarten-lesen-02-ef){width=100%}
+- - Wenn man den Satz `r` der Karte als Aussagekasten hinzufügt, wird `<A1>` durch diesen Aussagekasten gestützt und `<A2>` durch ihn angegriffen.
+  - Das ist *falsch.* Wenn man den Satz `r` als These der Karte hinzufügt, wird `<A2>` von ihm angegriffen. Die andere Beziehung gilt nicht. 👉 Satz `r` tritt zwar als Zwischenkonklusion auf, ist aber keine Prämisse. Möchte man in der Karte explizit machen, dass die Zwischenkonklusion von `<A1>` einer der Prämissen von `<A2>`
+widerspricht, kann man `<A1>` in zwei Teilargumente aufteilen (siehe Abbildung).
+  - ![](./images/argumentkarten-lesen-02-g){width=100%}
+- - Man kann `<A1>` in zwei Teilargumente mit jeweils einer Konklusion aufteilen. Dann greift eines von ihnen `<A2>` an.
+  - Das ist *richtig.*
+  - ![](./images/argumentkarten-lesen-02-h){width=100%}
+:::
 
