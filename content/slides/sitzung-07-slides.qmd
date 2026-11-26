@@ -1,0 +1,39 @@
+---
+title: "Sitzung 7: Erstellung von Argumentkarten mit Argdown"
+date: "2026-11-27"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  revealjs:
+    theme: [default, ../../assets/styles/slides.scss]
+    slide-number: true
+    preview-links: auto
+---
+
+## Outline
+
+TODO: Replace with section overview.
+
+## Section
+
+TODO: Add slide content.
+
+## Summary
+
+TODO: Summarise key points.
+
+## Gegenüberstellung einfacher und vertiefter Argumentkarten
+
+Einfache Argumentkarten:
+
++ Visualisieren ihr vortheoretisches Verständnis der Argumentationsstruktur eines Textes/einer Diskussion. Also Ihr Verständnis darüber, welche Argumenten und Thesen es gibt und wie sich diese Elemente argumentativ aufeinander beziehen.
++ 
+
+
+
+Einfache und vertiefte Argumentkarten sehen gleich aus!

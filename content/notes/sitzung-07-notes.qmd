@@ -1,0 +1,54 @@
+---
+title: "Mitschrift: Sitzung 7 (27.11.2026) - Erstellung von Argumentkarten mit Argdown"
+date: "2026-11-27"
+author: "Sebastian Cacean"
+organization: "Heinrich-Heine-Universität Düsseldorf"
+institute: "Institut für Philosophie"
+email: "sebastian.cacean@hhu.de"
+course: "Übung Philosophisches Argumentieren"
+term: "WS 26/27"
+lang: "de"
+format:
+  html: default
+  pdf: default 
+---
+
+# Analyse des Rütsche Textes
+
+## Einfache Argumentkarte zum Rütsche Text
+
+## Rekonstruktion des Hauptarguments
+
+```argdown
+(1) Nur durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen
+    kann die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen
+    angewendet werden, um zumindest einfache, monogenetische Veranlagungen zu
+    schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern.
+(2) ...
+-- aus 1,2 mit ?? --
+(3) Die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen ist
+    notwendig, um Antworten auf wissenschaftlich und gesellschaftlich
+    wichtige Fragestellungen zu finden.
+(4) ...
+-- aus 3,4 mit ?? --
+(5) Der Schutz der Menschenwürde wiegt (im Kontext der CRISPR/Cas9-Erforschung)
+    nicht höher als die Forschungsfreiheit.
+(6) ... gilt nur dann, wenn ....
+-- aus 5,6 mit ?? --
+(7) Also: ...
+```
+
+Die Antwortoptionen aus Übungsblatt 4, Aufgabe 2:
+
+*Antwortoption:* Die Begründungsstruktur der skizzierten vorläufigen Rekonstruktion des Hauptarguments lässt sich so beschreiben: Die Zwischenkonklusionen (3) und (5) folgen jeweils aus voneinander unabhängigen Prämissen. Dann soll die Konklusion (7) aus diesen beiden Zwischenkonklusionen folgen.
+
+*Antwortoption:* Ergänzt man als Prämisse (4) den Satz *„Wenn die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig ist, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden, dann wiegt der Schutz der Menschenwürde (im Kontext der CRISPR/Cas9-Erforschung) nicht höher als die Forschungsfreiheit.“*, folgt die Zwischenkonklusion (5) aus den Prämissen (3) und (4) mittels Modus Ponens.
+
+*Antwortoption:* Das Wort 'nur' in Prämisse (1) signalisiert eine notwendige Bedingung. Ergänzt man als zweite Prämisse den entsprechenden Bedingungssatz *„Nur wenn durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen angewendet werden kann, um zumindest einfache, monogenetische Veranlagungen zu schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern, dann ist die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden.“* folgt die Zwischenkonklusion (3) aus den Prämissen (1) und (2) mittels Modus Ponens.
+
+*Antwortoption:* Das skizzierte Hauptargument soll begründen, dass die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen prinzipiell zulässig ist. Die Konklusion könnte man damit zum Beispiel so formulieren: *„Alle Forschungsprojekte zur Erforschung der CRISPR/Cas9-Technologie an menschlichen Embryonen sind zulässig.“* 
+
+
+*Antwortoption:* Prämisse 6 formuliert eine notwendige Bedingung, die nach dem 'wenn' ausformuliert werden kann. Der Schluss auf die Konklusion kann dann so weiter rekonstruiert werden: Die Zwischenkonklusion (5) formuliert, dass die notwendige Bedingung nicht erfüllt ist. Formalisiert man (6) mit `s → r` folgt die Konklusion (7) mit Modus Tollens, wenn die Konklusion mit `¬s` und die Zwischenkonklusion (5) mit `¬r` formalisiert wird. 
+
+

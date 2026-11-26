@@ -1,6 +1,6 @@
 ---
 title: "Sitzung 7 (27.11.2026)"
-subtitle: "Erstellung von Argumentkarten mit Argdown" 
+subtitle: "Rekonstruktionsprinzipien" 
 date: "2026-11-27"
 status: "published"
 lang: "de"
@@ -10,12 +10,13 @@ format:
 
 ## {{< fa circle-info >}} Überblick
 
-Es gibt verschiedene Möglichkeiten Argumentkarten zu erstellen. [Argdown](https://argdown.org/) ist eine einfache Syntax um Argumentkarten (samt Argumentrekonstruktionen) zu erstellen. In dieser Sitzung machen wir uns mit Argdown vertraut.
+In dieser Sitzung führen wir zentrale Rekonstruktionsprinzipien ein.
 
 Zentrale Fragen:
 
-+ Wie kann man mit Argdown einfache und vertiefte Argumentkarten erstellen?
-+ Wie kann man VS Code verwenden, um Argdown-basierte Argumentkarten zu erstellen?
++ Welche Rolle spielt Interpretation bei der Rekonstruktion von Argumenten?
++ Gibt es eindeutig richtige und eindeutig falsche Argumentrekonstruktionen?
++ Welche Prinzipien sind hilfreich und sinnvoll für die Rekonstruktion von Argumenten?
 
 
 

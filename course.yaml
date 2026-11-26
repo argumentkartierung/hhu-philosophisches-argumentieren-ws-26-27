@@ -265,14 +265,15 @@ modules:
     type: lecture
     title: "Sitzung 7"
     date: 2026-11-27
-    subtitle: "Erstellung von Argumentkarten mit Argdown"
+    subtitle: "Rekonstruktionsprinzipien"
     description: |
-      Es gibt verschiedene Möglichkeiten Argumentkarten zu erstellen. [Argdown](https://argdown.org/) ist eine einfache Syntax um Argumentkarten (samt Argumentrekonstruktionen) zu erstellen. In dieser Sitzung machen wir uns mit Argdown vertraut.
+      In dieser Sitzung führen wir zentrale Rekonstruktionsprinzipien ein.
 
       Zentrale Fragen:
-      
-      + Wie kann man mit Argdown einfache und vertiefte Argumentkarten erstellen?
-      + Wie kann man VS Code verwenden, um Argdown-basierte Argumentkarten zu erstellen?
+
+      + Welche Rolle spielt Interpretation bei der Rekonstruktion von Argumenten?
+      + Gibt es eindeutig richtige und eindeutig falsche Argumentrekonstruktionen?
+      + Welche Prinzipien sind hilfreich und sinnvoll für die Rekonstruktion von Argumenten? 
     # status: draft
     # visibility: hidden
     artifacts:
@@ -297,19 +298,26 @@ modules:
         # status: draft
         visibility: hidden
         overwrite: never
+      - id: solution-07
+        type: notes
+        output_formats: [website, pdf]
+        enabled: false
+        # status: draft
+        # visibility: hidden
+        # overwrite: never
+
   - id: sitzung-08
     type: lecture
     title: "Sitzung 8"
     date: 2026-12-04
-    subtitle: "Rekonstruktionsprinzipien"
+    subtitle: "Erstellung von Argumentkarten mit Argdown"
     description: |
-      In dieser Sitzung führen wir zentrale Rekonstruktionsprinzipien ein.
+      Es gibt verschiedene Möglichkeiten Argumentkarten zu erstellen. [Argdown](https://argdown.org/) ist eine einfache Syntax um Argumentkarten (samt Argumentrekonstruktionen) zu erstellen. In dieser Sitzung machen wir uns mit Argdown vertraut.
 
       Zentrale Fragen:
-
-      + Welche Rolle spielt Interpretation bei der Rekonstruktion von Argumenten?
-      + Gibt es eindeutig richtige und eindeutig falsche Argumentrekonstruktionen?
-      + Welche Prinzipien sind hilfreich und sinnvoll für die Rekonstruktion von Argumenten? 
+      
+      + Wie kann man mit Argdown einfache und vertiefte Argumentkarten erstellen?
+      + Wie kann man VS Code verwenden, um Argdown-basierte Argumentkarten zu erstellen?
     # status: draft
     # visibility: hidden
     artifacts:
