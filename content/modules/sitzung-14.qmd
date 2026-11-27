@@ -1,5 +1,5 @@
 ---
-title: "Sitzung 14 (29.01.2027)"
+title: "Sitzung 14 (online) (29.01.2027)"
 subtitle: "TBD" 
 date: "2027-01-29"
 status: "published"
@@ -11,6 +11,10 @@ format:
 ## {{< fa circle-info >}} Überblick
 
 Zu diesem Zeitpunkt steht noch nicht fest, was wir in dieser Sitzung konkret machen.
+
+::: {.callout-important}
+Diese Sitzung findet als reine Onlinesitzung statt.
+:::
 
 
 

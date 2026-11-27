@@ -1,6 +1,6 @@
 ---
 title: "Sitzung 9 (11.12.2026)"
-subtitle: "Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1" 
+subtitle: "Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1 (online)" 
 date: "2026-12-11"
 status: "published"
 lang: "de"
@@ -17,6 +17,10 @@ Zentrale Fragen:
 + Kann man immer den Modus Ponens verwenden? 
 + Wie können Argumente mit Hilfe von allgemeinen Prinzipien rekonstruiert werden?
 + Was ist die allquantifizierte Subjunktion und was unterscheidet sie von der Subjunktion der Aussagenlogik?
+
+::: {.callout-info}
+Diese Sitzung findet als reine Onlinesitzung statt.
+:::
 
 
 

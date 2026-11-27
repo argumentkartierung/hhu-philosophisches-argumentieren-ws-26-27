@@ -83,8 +83,14 @@ website:
 
 
 
-        - text: "Sitzung 7"
+        - section: "Sitzung 7"
           href: content/modules/sitzung-07.qmd
+          contents:
+            - text: "Mitschrift"
+              href: content/notes/sitzung-07-notes.qmd
+            - text: "Übungsblatt"
+              href: content/assignments/sitzung-07-assignment.qmd
+
 
 
 
@@ -125,7 +131,7 @@ website:
 
 
 
-        - text: "Sitzung 14"
+        - text: "Sitzung 14 (online)"
           href: content/modules/sitzung-14.qmd
 
 

@@ -282,21 +282,21 @@ modules:
         output_formats: [revealjs, pdf]
         # enabled: false
         # status: draft
-        visibility: hidden
+        # visibility: hidden
         overwrite: never
       - id: notes-07
         type: notes
         output_formats: [website, pdf]
         # enabled: false
         # status: draft
-        visibility: hidden
+        # visibility: hidden
         overwrite: never
       - id: assignment-07
         type: assignment
         output_formats: [website, pdf]
         # enabled: false
         # status: draft
-        visibility: hidden
+        # visibility: hidden
         overwrite: never
       - id: solution-07
         type: notes
@@ -346,7 +346,7 @@ modules:
     type: lecture
     title: "Sitzung 9"
     date: 2026-12-11
-    subtitle: "Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1"
+    subtitle: "Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1 (online)"
     description: |
       In dieser Sitzung führen wir die prädikatenlogische Formalisierung von Sätzen ein und besprechen, für welche Fälle sie sinnvoll und notwendig ist.
 
@@ -355,6 +355,10 @@ modules:
       + Kann man immer den Modus Ponens verwenden? 
       + Wie können Argumente mit Hilfe von allgemeinen Prinzipien rekonstruiert werden?
       + Was ist die allquantifizierte Subjunktion und was unterscheidet sie von der Subjunktion der Aussagenlogik?
+
+      ::: {.callout-important}
+      Diese Sitzung findet als reine Onlinesitzung statt.
+      :::
     # status: draft
     # visibility: hidden
     artifacts:
@@ -524,9 +528,13 @@ modules:
     type: lecture
     title: "Sitzung 14"
     date: 2027-01-29
-    subtitle: "TBD"
+    subtitle: "TBD  (online)"
     description: |
       Zu diesem Zeitpunkt steht noch nicht fest, was wir in dieser Sitzung konkret machen.
+
+      ::: {.callout-important}
+      Diese Sitzung findet als reine Onlinesitzung statt.
+      :::
     # status: draft
     # visibility: hidden
     artifacts:

@@ -17,6 +17,8 @@ format:
 
 ## Einfache Argumentkarte zum Rütsche Text
 
+
+
 ## Rekonstruktion des Hauptarguments
 
 ```argdown

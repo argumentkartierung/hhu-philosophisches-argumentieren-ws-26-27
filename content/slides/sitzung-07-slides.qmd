@@ -93,6 +93,10 @@ Die Rekonstruktion sollte möglichst dem ursprünglichen Argument entsprechen: W
 
 Der genannten Prinzipien sind **gegenläufige Prinzipien**, d.h. sie können im konkreten Einzelfall im Widerstreit zueinander und müssen dann gegeneinander abgewogen werden.
 
+## Ablauf einer Argumentationsanalyse (bisheriger Stand)
+
+![](../../assets/images/hermeneutical_loop_04_b.jpg)
+
 ## Hermeneutische Schleife: Der Rekonstruktionsprozess
 
 ![Rekonstruktionsprozess](../../assets/images/hermeneutical_loop_03.png)
@@ -101,12 +105,20 @@ Der genannten Prinzipien sind **gegenläufige Prinzipien**, d.h. sie können im 
 
 Einfache und vertiefte Argumentkarten sehen gleich aus!
 
-Einfache Argumentkarten:
+**Einfache Argumentkarten:**
 
-+ Visualisieren ihr vortheoretisches Verständnis der Argumentationsstruktur eines Textes/einer Diskussion. Also Ihr Verständnis darüber, welche Argumenten und Thesen es gibt und wie sich diese Elemente argumentativ aufeinander beziehen.
-+ 
++ Visualisieren ihr vortheoretisches und voranalytisches Verständnis der Argumentationsstruktur eines Textes/einer Diskussion -- also Ihr Verständnis darüber, welche Argumente und Thesen es gibt und wie sich diese Elemente argumentativ aufeinander beziehen.
++ Die Stützungs- and Angriffsbeziehungen haben hier keine präzise Bedeutung.
 
-Vertiefte Argumentkarten:
+## Gegenüberstellung einfacher und vertiefter Argumentkarten
+
+**Vertiefte Argumentkarten:**
+
++ In vertieften Argumentkarten sind alle Argumente in ihrer Prämissen-Konklusion-Struktur rekonstruiert. 
++ Die Argumentbeziehungen sind präzise definiert und basieren auf semantischen Relationen zwischen den Sätzen von Argumenten.
+    + Entsprechend kann man der Karte präsize Informationen ablesen. 
++ Sie haben einen gewissen Spielraum bei der Entscheidung genau welche Informationen in der Karte kodiert werden (übe die Entscheidung darüber, welche Sätze als Aussagekasten visualisiert werden und ob komplexe Argumente mit ZK-en in Teilargumente zerlegt werden).
+    + Die Übungsaufgaben zum Argumentkartelesen enthalten Beispiele dafür, wie man diesen Spielraum nutzen kann.
 
 # 2. Besprechung des Rütsche Textes
 
