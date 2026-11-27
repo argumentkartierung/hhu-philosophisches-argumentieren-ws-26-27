@@ -84,11 +84,15 @@
     ]
   },
   {
-    "objectID": "content/assignments/sitzung-07-assignment.html#aufgabenstellung-4-punkte-2-punkte-je-rekonstruktion",
-    "href": "content/assignments/sitzung-07-assignment.html#aufgabenstellung-4-punkte-2-punkte-je-rekonstruktion",
-    "title": "Übungsblatt: Sitzung 7 (27.11.2026) - Erstellung von Argumentkarten mit Argdown",
-    "section": "Aufgabenstellung (4 Punkte/ 2 Punkte je Rekonstruktion)",
-    "text": "Aufgabenstellung (4 Punkte/ 2 Punkte je Rekonstruktion)\nRekonstruieren die in der einfachen Argumentkarte identifizierten Argumente X und Y als deduktive gültige Argumente in der erweiterten Standarddarstellung.\n\n\n\n\n\n\nWichtig\n\n\n\nBitte laden Sie Ihre Lösung des Übungsblatts als PDF-Dokument bis spätestens 26.11.2026, 23:59 Uhr auf Moodle hoch. Geben Sie bitte keine handschriftlichen Lösungen ab.\n\nDenken Sie bei Rekonstruktion in der erweiterten Standarddarstellung daran, dass Sie neben der Formulierung der Argumente in Listendarstellung auch die logisch-semantische Form der Sätze, die Zuordnungsliste und die Schlussregeln angeben müssen!\nFür die Formalisierungen sollten Sie die in der Veranstaltung eingeführten Symbole verwenden.\nNeben den in der Übung eingeführten Schlussmustern dürfen Sie auch andere Ihnen bekannte Schlussmuster verwenden.\nBepunktung: Ist die Argumentrekonstruktion unvollständig (siehe erste Spiegelstrich), erhalten Sie keine Punkte. Sie erhalten die volle Punktzahl, wenn sowohl die Formalisierung der Sätze als auch die Anwendung der Schlussmuster keine Fehler enthält und wenn Sie darüber hinaus die Prämissen, die Konklusion und ggf. die Zwischenkonklusionen korrekt identifizieren. Fehler in einem dieser Bereiche führen ggf. zu Punktabzug.\nVarianten der Listendarstellung: Ihre Argumentrekonstruktion sollte in der Listendarstellung klar die Prämissen, die Zwischenkonklusionen und die Konklusion ausweisen. Darüber hinaus gibt es keine festen Regeln, wie die Listendarstellung genau aussehen muss. Insbesondere muss Ihre Argumentrekonstruktion nicht so formatiert werden, wie in den Beispielen auf den Folien gezeigt. Wichtig ist, dass alles dargestellt wird, was für die erweiterte Standarddarstellung relevant ist. Sie können bspw. die Formalisierung der Sätze außerhalb der Listendarstellung angeben. Eine Variante finden Sie auf den Folien der Sitzung 3, Folien 14."
+    "objectID": "content/assignments/sitzung-07-assignment.html",
+    "href": "content/assignments/sitzung-07-assignment.html",
+    "title": "Übungsblatt: Sitzung 7 (27.11.2026) - Rekonstruktionsprinzipien",
+    "section": "",
+    "text": "Aufgabenstellung (4 Punkte/ 2 Punkte je Rekonstruktion)\nRekonstruieren die in der einfachen Argumentkarte identifizierten Argumente X und Y als deduktive gültige Argumente in der erweiterten Standarddarstellung.\n\n\n\n\n\n\nWichtig\n\n\n\nBitte laden Sie Ihre Lösung des Übungsblatts als PDF-Dokument bis spätestens 03.12.2026, 23:59 Uhr auf Moodle hoch. Geben Sie bitte keine handschriftlichen Lösungen ab.\n\nDenken Sie bei Rekonstruktion in der erweiterten Standarddarstellung daran, dass Sie neben der Formulierung der Argumente in Listendarstellung auch die logisch-semantische Form der Sätze, die Zuordnungsliste und die Schlussregeln angeben müssen!\n\nFür die Formalisierungen sollten Sie die in der Veranstaltung eingeführten Symbole verwenden.\nNeben den in der Übung eingeführten Schlussmustern dürfen Sie auch andere Ihnen bekannte Schlussmuster verwenden.\n\nBepunktung: Ist die Argumentrekonstruktion unvollständig (siehe erste Spiegelstrich), erhalten Sie keine Punkte. Sie erhalten die volle Punktzahl, wenn sowohl die Formalisierung der Sätze als auch die Anwendung der Schlussmuster keine Fehler enthält und wenn Sie darüber hinaus die Prämissen, die Konklusion und ggf. die Zwischenkonklusionen korrekt identifizieren. Fehler in einem dieser Bereiche führen ggf. zu Punktabzug.\nVarianten der Listendarstellung: Ihre Argumentrekonstruktion sollte in der Listendarstellung klar die Prämissen, die Zwischenkonklusionen und die Konklusion ausweisen. Darüber hinaus gibt es keine festen Regeln, wie die Listendarstellung genau aussehen muss. Insbesondere muss Ihre Argumentrekonstruktion nicht so formatiert werden, wie in den Beispielen auf den Folien gezeigt. Wichtig ist, dass alles dargestellt wird, was für die erweiterte Standarddarstellung relevant ist. Sie können bspw. die Formalisierung der Sätze außerhalb der Listendarstellung angeben. Eine Variante finden Sie auf Folien 14 der 3. Sitzung.",
+    "crumbs": [
+      "Sitzung 7",
+      "Übungsblatt"
+    ]
   },
   {
     "objectID": "content/assignments/sitzung-05-assignment.html",
@@ -227,7 +231,7 @@
     "href": "content/slides/sitzung-06-slides.html#programm-für-die-heutige-sitzung",
     "title": "Sitzung 6: Rekonstruktion von Argumenten",
     "section": "Programm für die heutige Sitzung",
-    "text": "Programm für die heutige Sitzung\n\nWiederholung und Zusammenfassung\n\nEinfache und vertiefte Argumentkarten\nImplizite Prämissen\n\nBesprechung des Aufgaben des 5. Übungsblattes zu vertieften Argumentkarten\nBesprechung und Kartierung des Rütsche Textes (Übungszettel)\nNeue Satzformen und Schlussmuster"
+    "text": "Programm für die heutige Sitzung\n\nWiederholung und Zusammenfassung\n\nEinfache und vertiefte Argumentkarten\nImplizite Prämissen\n\nBesprechung des Aufgaben des 5. Übungsblattes zu vertieften Argumentkarten\nBesprechung und Kartierung des Rütsche Textes (⚠️:Verschoben auf Sitzung 7)\nNeue Satzformen und Schlussmuster (⚠️:Verschoben auf Sitzung 7)"
   },
   {
     "objectID": "content/slides/sitzung-06-slides.html#widersprüche-und-vertiefte-argumentkarten",
@@ -256,111 +260,6 @@
     "title": "Sitzung 6: Rekonstruktion von Argumenten",
     "section": "Rekonstruktion von Argumenten",
     "text": "Rekonstruktion von Argumenten\nBei der Rekonstruktion von Argumenten werden Argumente in ihrer Prämissen-Konklusion-Struktur analysiert. Dadurch werden einfache Argumentkarten in vertiefte Argumentkarten überführt.\nMehrwert:\n\nIdentifizierung impliziter Prämissen.\nKlärung der argumentativen Beziehungen zwischen Argumenten.\n\nKlärung von Verständnis-/Analysefragen: Inwiefern werden dadurch Verständnisfragen geklärt?\nDie in den einfachen Argumentkarten dargestellten Argumentbeziehungen können als vermutete Argumentbeziehungen verstanden werden (Interpretationshypothesen), die durch die Rekonstruktion überprüft werden.\n👉 Die in Ihrer eingangs erstellten einfachen Argumentkarte dargestellten Argumentbeziehungen können sich durch die Rekonstruktion der Argumente verändern!"
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#konjunktion",
-    "href": "content/slides/sitzung-06-slides.html#konjunktion",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Konjunktion",
-    "text": "Konjunktion\nIn Konjunktionen (Form p und q) werden zwei Aussagen durch den Satzoperator „und“ verbunden. Typischeweise werden in Konjunktionen\n\nzwei Gegenständen, Ereignissen oder den Mitgliedern zweier Gruppen eine Eigenschaft, Tätigkeit oder Beziehung zugesprochen wird,\neinem Gegenstand, Ereignis oder den Mitgliedern einer Gruppe zwei Eigenschaften,Tätigkeiten oder Beziehungen zugesprochen werden."
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#konjunktion-beispiele-für-1",
-    "href": "content/slides/sitzung-06-slides.html#konjunktion-beispiele-für-1",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Konjunktion: Beispiele für (1)",
-    "text": "Konjunktion: Beispiele für (1)\n\nUte und Hans sind nett.\nDer Erste Weltkrieg und der Zweite Weltkrieg gingen von Europa aus.\nDie Deutschen und Franzosen sind Europäer.\nUte und Hans sind in Bernadette verliebt.\nBrandenburg und Thüringen grenzen an Sachsen.\nDie meisten Italiener und Franzosen glauben an Gott."
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#konjunktion-beispiele-für-2",
-    "href": "content/slides/sitzung-06-slides.html#konjunktion-beispiele-für-2",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Konjunktion: Beispiele für (2)",
-    "text": "Konjunktion: Beispiele für (2)\n\nUte ist nett und lieb.\nDer Zweite Weltkrieg dauerte sechs Jahre und kostete etwa 55 Millionen Menschenleben.\nHans geht spazieren und genießt das warme Wetter.\nAngela liebt Fred und Bert."
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#konjunktion-mehrdeutigkeiten",
-    "href": "content/slides/sitzung-06-slides.html#konjunktion-mehrdeutigkeiten",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Konjunktion: Mehrdeutigkeiten",
-    "text": "Konjunktion: Mehrdeutigkeiten\nManche Sätze sind für sich genommen mehrdeutig. So lassen sich aus dem Satz „Pia und Andrea heiraten im Mai“ zwei unterschiedliche Aussagen herauslesen:\n\nPia heiratet im Mai und Andrea heiratet im Mai. (Konjunktion)\nPia und Andrea heiraten im Mai miteinander. (keine Konjunktion, sondern eine Aussage mit einem zusammengesetzten Subjekt)"
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#konjunktion-formulierungsvarianten",
-    "href": "content/slides/sitzung-06-slides.html#konjunktion-formulierungsvarianten",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Konjunktion: Formulierungsvarianten",
-    "text": "Konjunktion: Formulierungsvarianten\n\nWeitere logische Ausdrücke mit der Funktion, Sachverhalte konjunktiv aneinanderzureihen: sowie, sowohl – als auch, zudem, ferner, zum einen – zum anderen, einerseits – andererseits, während, außerdem, ebenfalls\n\nUte sowie Hans sind nett.\nSowohl der Erste Weltkrieg als auch der Zweite Weltkrieg gingen von Europa aus.\n\nMit der Konjunktion werden auch viele Bindewörter formalisiert, die einen Gegensatz zweier Sachverhalte andeuten: aber, jedoch, trotzdem, dennoch, obwohl, obgleich, obschon, obzwar, wenngleich, wiewohl, nichtsdestoweniger\n\nDer Gast war schon sehr betrunken, trotzdem gab ihm der Wirt alkoholische Getränke.\nOlaf kommt zur Hochzeit von Ahmed und Hans, obwohl er ziemlich eifersüchtig ist."
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#konjunktion-formulierungsvarianten-1",
-    "href": "content/slides/sitzung-06-slides.html#konjunktion-formulierungsvarianten-1",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Konjunktion: Formulierungsvarianten",
-    "text": "Konjunktion: Formulierungsvarianten\n\nAuch explikative Relativsätze werden mit der Konjunktion formalisiert. Diese Nebensätze enthalten eine zusätzliche Information über einen namentlich genannten Gegenstand:\n\nKain erschlug seinen Bruder Abel, den er hasste.\n\nRestriktive Relativsätze spezifizieren ein namentlich nicht genanntes Satzglied des Hauptsatzes; die Information des restriktiven Relativsatzes ist für das Verständnis des Hauptsatzes erforderlich. Haupt- und Nebensatz drücken gemeinsam nur eine Einzelaussage aus:\n\nDie USA suchten lange nach dem Mann, der die Anschläge auf das World Trade Center geplant hatte.\nDie Firma, für die Herbert arbeitet, bezahlt schlecht."
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#schlussmuster-konjunktionseinführung",
-    "href": "content/slides/sitzung-06-slides.html#schlussmuster-konjunktionseinführung",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Schlussmuster: Konjunktionseinführung",
-    "text": "Schlussmuster: Konjunktionseinführung\n&lt;Argumentschema Konjunktionseinführung&gt;\n\n(1) p.\n(2) q.\n-- mit Konjunktionseinführung aus 1,2 --\n(3) *Also*: p und q.\n\n\n\n\n\nArgument Map\n\n\nn0\n\n\nArgumentschema Konjunktionseinführung"
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#schlussmuster-konjunktionsbeseitigung",
-    "href": "content/slides/sitzung-06-slides.html#schlussmuster-konjunktionsbeseitigung",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Schlussmuster: Konjunktionsbeseitigung",
-    "text": "Schlussmuster: Konjunktionsbeseitigung\n&lt;Argumentschema Konjunktionsbeseitigung&gt;\n\n(1) p und q.\n-- mit Konjunktionsbeseitigung aus 1 --\n(3) *Also*: p.\n\n\n\n\nArgument Map\n\n\nn0\n\n\nArgumentschema Konjunktionsbeseitigung"
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#disjunktion",
-    "href": "content/slides/sitzung-06-slides.html#disjunktion",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Disjunktion",
-    "text": "Disjunktion\nIn Disjunktionen (Form p oder q) werden zwei Aussagen durch den Satzoperator „oder“ verbunden. Teilweise steht der logische Ausdruck „oder“\n\nzwischen den Bezeichnungen zweier Gegenstände, Ereignisse oder Gruppen, teilweise\nzwischen den Bezeichnungen zweier Eigenschaften, Tätigkeiten oder Beziehungen.\n\nBeispiele für (1):\n\nUte oder Hans ist nett.\nDer Erste Weltkrieg oder der Zweite Weltkrieg ging von Europa aus.\nUte oder Hans ist in Bernadette verliebt.\n\nBeispiele für (2):\n\nUte ist nett oder lieb.\nDer Zweite Weltkrieg dauerte sechs Jahre oder kostete etwa 55 Millionen Menschenleben.\nHans geht spazieren oder genießt das warme Wetter."
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#disjunktion-formulierungsvarianten",
-    "href": "content/slides/sitzung-06-slides.html#disjunktion-formulierungsvarianten",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Disjunktion: Formulierungsvarianten",
-    "text": "Disjunktion: Formulierungsvarianten\nIm Deutschen gibt es nur wenige Alternativen zum Wort „oder“: beziehungsweise, sonst, andernfalls, alternativ\nBeispiele:\n\nBrandenburg beziehungsweise Thüringen grenzt an Sachsen.\nOlaf gibt mir das Geld, sonst wird er was erleben.\nJudith reist am Donnerstag an, andernfalls kommt sie am Freitag Vormittag."
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#ein--und-ausschließendes-oder",
-    "href": "content/slides/sitzung-06-slides.html#ein--und-ausschließendes-oder",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Ein- und ausschließendes „oder“",
-    "text": "Ein- und ausschließendes „oder“\n\n\n\n\n\n\nEinschließendes „oder“ (Adjunktion)\n\n\nDrückt aus, dass von zwei oder mehreren Möglichkeiten mindestens eine als Tatsache zutrifft (auch beide oder alle Möglichkeiten können als Tatsache zutreffen).\n\n\n\n\n\n\n\n\n\nAusschließendes „oder“ (Kontravalenz)\n\n\nDrückt aus, dass von zwei oder mehreren Möglichkeiten jeweils nur eine als Tatsache zutrifft.\n\n\n\nDie Kontravalenz wird im Deutschen durch „entweder – oder“ ausgedrückt und kann als komplexe Aussagen formalisiert werden: \\((p\\vee q)\\wedge\\neg(p\\wedge q)\\) ( \\(p\\) oder \\(q\\) aber nicht beides zugleich)"
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#schlussmuster-disjunktionseinführung",
-    "href": "content/slides/sitzung-06-slides.html#schlussmuster-disjunktionseinführung",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Schlussmuster: Disjunktionseinführung",
-    "text": "Schlussmuster: Disjunktionseinführung\n&lt;Argumentschema Disjunktionseinführung&gt;\n\n(1) p.\n-- mit Disjunktionseinführung aus 1,2 --\n(3) *Also*: p oder q.\n\n\n\n\nArgument Map\n\n\nn0\n\n\nArgumentschema Disjunktionseinführung"
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#schlussmuster-disjunktiver-syllogismus-adjunktiver-syllogismus",
-    "href": "content/slides/sitzung-06-slides.html#schlussmuster-disjunktiver-syllogismus-adjunktiver-syllogismus",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Schlussmuster: Disjunktiver Syllogismus / Adjunktiver Syllogismus",
-    "text": "Schlussmuster: Disjunktiver Syllogismus / Adjunktiver Syllogismus\n&lt;Argumentschema Disjunktiver Syllogismus&gt;\n\n(1) p oder q.\n(2) nicht p.\n-- aus 1,2 mit disj. Syll. --\n(3) *Also*: q.\n\n\n\n\nArgument Map\n\n\nn0\n\n\nArgumentschema Disjunktiver Syllogismus"
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#schlussmuster-kontravalenz",
-    "href": "content/slides/sitzung-06-slides.html#schlussmuster-kontravalenz",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Schlussmuster: Kontravalenz",
-    "text": "Schlussmuster: Kontravalenz\n&lt;Argumentschema Kontravalenz&gt;\n\n(1) Entweder p oder q.\n(2) p.\n-- aus 1,2 mit Kontravalenz--\n(3) *Also*: q ist falsch.\n\n\n\n\nArgument Map\n\n\nn0\n\n\nArgumentschema Kontravalenz"
-  },
-  {
-    "objectID": "content/slides/sitzung-06-slides.html#klammerung-von-satzoperatoren",
-    "href": "content/slides/sitzung-06-slides.html#klammerung-von-satzoperatoren",
-    "title": "Sitzung 6: Rekonstruktion von Argumenten",
-    "section": "Klammerung von Satzoperatoren",
-    "text": "Klammerung von Satzoperatoren\nIn komplexen Sätzen mit mehreren Satzoperatoren müssen z.T. Klammern gesetzt werden, um Mehrdeutigkeiten zu vermeiden. Häufig geben die Kommata einen Hinweis darauf, wo die Klammern zu setzen sind:\n\nDer Attentäter würgt oder bedroht seine Opfer, und er raubt sie aus.\n\nLogisch-semantische Form: \\((p\\vee q)\\& r\\)\n\nDer Attentäter würgt seine Opfer, oder er bedroht sie und raubt sie aus.\n\nLogisch-semantischen Form: \\(p\\vee (q\\& r)\\)"
   },
   {
     "objectID": "content/slides/sitzung-06-slides.html#ende",
@@ -685,7 +584,7 @@
     "href": "content/syllabus.html#sitzungen",
     "title": "Lehrplan",
     "section": "Sitzungen",
-    "text": "Sitzungen\n\n\n\n#\nDatum\nSitzung\nTitel\n\n\n\n\n\n\nEinführung in die Analyse und Kartierung von Argumenten\n\n\n\n1\n16.10.2026\nSitzung 1\nKursüberblick & Einfache Argumentkarten\n\n\n2\n23.10.2026\nSitzung 2\nStruktur von Argumenten\n\n\n3\n30.10.2026\nSitzung 3\nFormal-logische Gültigkeit und aussagenlogische Formalisierung\n\n\n4\n06.11.2026\nSitzung 4\nArgumente kritisieren\n\n\n5\n13.11.2026\nSitzung 5\nVertiefte Argumentkarten\n\n\n\n\nArgumente rekonstruieren\n\n\n\n6\n20.11.2026\nSitzung 6\nRekonstruktion von Argumenten\n\n\n7\n27.11.2026\nSitzung 7\nErstellung von Argumentkarten mit Argdown\n\n\n8\n04.12.2026\nSitzung 8\nRekonstruktionsprinzipien\n\n\n\n\nTypische Schluss- und Argumentmuster der Philosophie\n\n\n\n9\n11.12.2026\nSitzung 9\nRekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1\n\n\n10\n18.12.2026\nSitzung 10\nRekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 2\n\n\n11\n08.01.2027\nSitzung 11\nAnnahmewiderlegung und Annahmebeseitigung\n\n\n12\n15.01.2027\nSitzung 12\nAnalogieargumente\n\n\n13\n22.01.2027\nSitzung 13\nNormative Argumente\n\n\n14\n29.01.2027\nSitzung 14\nTBD\n\n\n\n\nAbschluss\n\n\n\n15\n05.02.2027\nSitzung 15\nAbschlusssitzung",
+    "text": "Sitzungen\n\n\n\n#\nDatum\nSitzung\nTitel\n\n\n\n\n\n\nEinführung in die Analyse und Kartierung von Argumenten\n\n\n\n1\n16.10.2026\nSitzung 1\nKursüberblick & Einfache Argumentkarten\n\n\n2\n23.10.2026\nSitzung 2\nStruktur von Argumenten\n\n\n3\n30.10.2026\nSitzung 3\nFormal-logische Gültigkeit und aussagenlogische Formalisierung\n\n\n4\n06.11.2026\nSitzung 4\nArgumente kritisieren\n\n\n5\n13.11.2026\nSitzung 5\nVertiefte Argumentkarten\n\n\n\n\nArgumente rekonstruieren\n\n\n\n6\n20.11.2026\nSitzung 6\nRekonstruktion von Argumenten\n\n\n7\n27.11.2026\nSitzung 7\nRekonstruktionsprinzipien\n\n\n8\n04.12.2026\nSitzung 8\nErstellung von Argumentkarten mit Argdown\n\n\n\n\nTypische Schluss- und Argumentmuster der Philosophie\n\n\n\n9\n11.12.2026\nSitzung 9\nRekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1 (⚠️: online)\n\n\n10\n18.12.2026\nSitzung 10\nRekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 2\n\n\n11\n08.01.2027\nSitzung 11\nAnnahmewiderlegung und Annahmebeseitigung\n\n\n12\n15.01.2027\nSitzung 12\nAnalogieargumente\n\n\n13\n22.01.2027\nSitzung 13\nNormative Argumente\n\n\n14\n29.01.2027\nSitzung 14\nTBD (⚠️: online)\n\n\n\n\nAbschluss\n\n\n\n15\n05.02.2027\nSitzung 15\nAbschlusssitzung",
     "crumbs": [
       "Lehrplan"
     ]
@@ -693,21 +592,21 @@
   {
     "objectID": "content/modules/sitzung-14.html",
     "href": "content/modules/sitzung-14.html",
-    "title": "Sitzung 14 (29.01.2027)",
+    "title": "Sitzung 14 (online) (29.01.2027)",
     "section": "",
     "text": "TBD",
     "crumbs": [
-      "Sitzung 14"
+      "Sitzung 14 (online)"
     ]
   },
   {
     "objectID": "content/modules/sitzung-14.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120636972636c652d696e666f203e7d7d-überblick",
     "href": "content/modules/sitzung-14.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120636972636c652d696e666f203e7d7d-überblick",
-    "title": "Sitzung 14 (29.01.2027)",
+    "title": "Sitzung 14 (online) (29.01.2027)",
     "section": " Überblick",
-    "text": "Überblick\nZu diesem Zeitpunkt steht noch nicht fest, was wir in dieser Sitzung konkret machen.",
+    "text": "Überblick\nZu diesem Zeitpunkt steht noch nicht fest, was wir in dieser Sitzung konkret machen.\n\n\n\n\n\n\nWichtig\n\n\n\nDiese Sitzung findet als reine Onlinesitzung statt.",
     "crumbs": [
-      "Sitzung 14"
+      "Sitzung 14 (online)"
     ]
   },
   {
@@ -755,7 +654,7 @@
     "href": "content/modules/sitzung-08.html",
     "title": "Sitzung 8 (04.12.2026)",
     "section": "",
-    "text": "Rekonstruktionsprinzipien",
+    "text": "Erstellung von Argumentkarten mit Argdown",
     "crumbs": [
       "Sitzung 8"
     ]
@@ -765,7 +664,7 @@
     "href": "content/modules/sitzung-08.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120636972636c652d696e666f203e7d7d-überblick",
     "title": "Sitzung 8 (04.12.2026)",
     "section": " Überblick",
-    "text": "Überblick\nIn dieser Sitzung führen wir zentrale Rekonstruktionsprinzipien ein.\nZentrale Fragen:\n\nWelche Rolle spielt Interpretation bei der Rekonstruktion von Argumenten?\nGibt es eindeutig richtige und eindeutig falsche Argumentrekonstruktionen?\nWelche Prinzipien sind hilfreich und sinnvoll für die Rekonstruktion von Argumenten?",
+    "text": "Überblick\nEs gibt verschiedene Möglichkeiten Argumentkarten zu erstellen. Argdown ist eine einfache Syntax um Argumentkarten (samt Argumentrekonstruktionen) zu erstellen. In dieser Sitzung machen wir uns mit Argdown vertraut.\nZentrale Fragen:\n\nWie kann man mit Argdown einfache und vertiefte Argumentkarten erstellen?\nWie kann man VS Code verwenden, um Argdown-basierte Argumentkarten zu erstellen?",
     "crumbs": [
       "Sitzung 8"
     ]
@@ -1055,7 +954,7 @@
     "href": "content/modules/sitzung-07.html",
     "title": "Sitzung 7 (27.11.2026)",
     "section": "",
-    "text": "Erstellung von Argumentkarten mit Argdown",
+    "text": "Rekonstruktionsprinzipien",
     "crumbs": [
       "Sitzung 7"
     ]
@@ -1065,7 +964,27 @@
     "href": "content/modules/sitzung-07.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120636972636c652d696e666f203e7d7d-überblick",
     "title": "Sitzung 7 (27.11.2026)",
     "section": " Überblick",
-    "text": "Überblick\nEs gibt verschiedene Möglichkeiten Argumentkarten zu erstellen. Argdown ist eine einfache Syntax um Argumentkarten (samt Argumentrekonstruktionen) zu erstellen. In dieser Sitzung machen wir uns mit Argdown vertraut.\nZentrale Fragen:\n\nWie kann man mit Argdown einfache und vertiefte Argumentkarten erstellen?\nWie kann man VS Code verwenden, um Argdown-basierte Argumentkarten zu erstellen?",
+    "text": "Überblick\nIn dieser Sitzung führen wir zentrale Rekonstruktionsprinzipien ein.\nZentrale Fragen:\n\nWelche Rolle spielt Interpretation bei der Rekonstruktion von Argumenten?\nGibt es eindeutig richtige und eindeutig falsche Argumentrekonstruktionen?\nWelche Prinzipien sind hilfreich und sinnvoll für die Rekonstruktion von Argumenten?",
+    "crumbs": [
+      "Sitzung 7"
+    ]
+  },
+  {
+    "objectID": "content/modules/sitzung-07.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120646973706c6179203e7d7d-folien",
+    "href": "content/modules/sitzung-07.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120646973706c6179203e7d7d-folien",
+    "title": "Sitzung 7 (27.11.2026)",
+    "section": " Folien",
+    "text": "Folien\nFolien im Vollbildmodus | Folien als PDF",
+    "crumbs": [
+      "Sitzung 7"
+    ]
+  },
+  {
+    "objectID": "content/modules/sitzung-07.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120666f6c6465722d6f70656e203e7d7d-materialien",
+    "href": "content/modules/sitzung-07.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120666f6c6465722d6f70656e203e7d7d-materialien",
+    "title": "Sitzung 7 (27.11.2026)",
+    "section": " Materialien",
+    "text": "Materialien\n\nFolien:  | \nMitschrift:  | \nÜbungsblatt:  |",
     "crumbs": [
       "Sitzung 7"
     ]
@@ -1075,7 +994,7 @@
     "href": "content/modules/sitzung-09.html",
     "title": "Sitzung 9 (11.12.2026)",
     "section": "",
-    "text": "Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1",
+    "text": "Rekonstruktion von Argumenten mit allgemeinen Prinzipien, Teil 1 (online)",
     "crumbs": [
       "Sitzung 9"
     ]
@@ -1085,7 +1004,7 @@
     "href": "content/modules/sitzung-09.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120636972636c652d696e666f203e7d7d-überblick",
     "title": "Sitzung 9 (11.12.2026)",
     "section": " Überblick",
-    "text": "Überblick\nIn dieser Sitzung führen wir die prädikatenlogische Formalisierung von Sätzen ein und besprechen, für welche Fälle sie sinnvoll und notwendig ist.\nZentrale Fragen:\n\nKann man immer den Modus Ponens verwenden?\nWie können Argumente mit Hilfe von allgemeinen Prinzipien rekonstruiert werden?\nWas ist die allquantifizierte Subjunktion und was unterscheidet sie von der Subjunktion der Aussagenlogik?",
+    "text": "Überblick\nIn dieser Sitzung führen wir die prädikatenlogische Formalisierung von Sätzen ein und besprechen, für welche Fälle sie sinnvoll und notwendig ist.\nZentrale Fragen:\n\nKann man immer den Modus Ponens verwenden?\nWie können Argumente mit Hilfe von allgemeinen Prinzipien rekonstruiert werden?\nWas ist die allquantifizierte Subjunktion und was unterscheidet sie von der Subjunktion der Aussagenlogik?\n\n\nDiese Sitzung findet als reine Onlinesitzung statt.",
     "crumbs": [
       "Sitzung 9"
     ]
@@ -1767,25 +1686,200 @@
     "text": "Ende\n\n🙏 Danke!"
   },
   {
-    "objectID": "content/slides/sitzung-07-slides.html#outline",
-    "href": "content/slides/sitzung-07-slides.html#outline",
-    "title": "Sitzung 7: Erstellung von Argumentkarten mit Argdown",
-    "section": "Outline",
-    "text": "Outline\nTODO: Replace with section overview."
+    "objectID": "content/slides/sitzung-07-slides.html#programm-für-die-heutige-sitzung",
+    "href": "content/slides/sitzung-07-slides.html#programm-für-die-heutige-sitzung",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Programm für die heutige Sitzung",
+    "text": "Programm für die heutige Sitzung\n\nRekonstruktionsprinzipien\nBesprechung & Analyse des Rütsche Textes\nNeue Satzformen und Schlussmuster"
   },
   {
-    "objectID": "content/slides/sitzung-07-slides.html#section",
-    "href": "content/slides/sitzung-07-slides.html#section",
-    "title": "Sitzung 7: Erstellung von Argumentkarten mit Argdown",
-    "section": "Section",
-    "text": "Section\nTODO: Add slide content."
+    "objectID": "content/slides/sitzung-07-slides.html#argumentrekonstruktion-als-hermeneutische-methode",
+    "href": "content/slides/sitzung-07-slides.html#argumentrekonstruktion-als-hermeneutische-methode",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Argumentrekonstruktion als hermeneutische Methode",
+    "text": "Argumentrekonstruktion als hermeneutische Methode\nBei der Rekonstruktion eines Arguments werden in der Regel:\n\nimplizite Prämissen/Konklusionen ergänzt und\nexplizit genannte Sätze umformuliert.\n\nDie Rekonstruktion eines Arguments oder einer komplexen Argumentation ist eine Interpretation, sie ist in aller Regel\n\nunterbestimmt,\nvorläufig,\nunvollständig,\nund besitzt Alternativen."
   },
   {
-    "objectID": "content/slides/sitzung-07-slides.html#summary",
-    "href": "content/slides/sitzung-07-slides.html#summary",
-    "title": "Sitzung 7: Erstellung von Argumentkarten mit Argdown",
-    "section": "Summary",
-    "text": "Summary\nTODO: Summarise key points."
+    "objectID": "content/slides/sitzung-07-slides.html#leitprinzipien-der-argumentrekonstruktion",
+    "href": "content/slides/sitzung-07-slides.html#leitprinzipien-der-argumentrekonstruktion",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Leitprinzipien der Argumentrekonstruktion",
+    "text": "Leitprinzipien der Argumentrekonstruktion\n\nPrinzip der Klarheit: Die Sätze in der Rekonstruktion sollten möglichst explizit, präzise und klar sein.\nPrinzip der Akkuratheit (Textnähe): Die Rekonstruktion sollte möglichst dem ursprünglichen Argument entsprechen.\nPrinzip der epistemischen Stärke: Die Rekonstruktion sollte das Argument möglichst stark und plausibel machen."
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#leitprinzipien-der-argumentrekonstruktion-klarheit",
+    "href": "content/slides/sitzung-07-slides.html#leitprinzipien-der-argumentrekonstruktion-klarheit",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Leitprinzipien der Argumentrekonstruktion: Klarheit",
+    "text": "Leitprinzipien der Argumentrekonstruktion: Klarheit\nDie Sätze in der Rekonstruktion sollten möglichst explizit, präzise und klar sein.\n\nMehrdeutigkeiten/Äquivokationen vermeiden (bspw. Art der Normativität)\n\nJedes Vorkommnis eines Wortes innerhalb der Rekonstruktion sollte die gleiche Bedeutung besitzen.\n\nSchlagwortthesen ausformulieren: (Kommunismus, Pazifismus, Kapitalismus, Genderwahnsinn, Leitkultur, …)\n\nGenau welche These wird mit dem Ismus gemeint?\n\nBestimmte Artikel & vage Formulierungen näher bestimmen: Was genau wird gemeint?\n\nBsp. “Die gesellschaftlichen Rahmenbedingungen müssen verändert werden” Welche? Alle? Einige?\n\nIndexikalische Ausdrücke näher bestimmen: Was genau wird mit “diese”, “dort”, “jetzt” gemeint?"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#leitprinzipien-der-argumentrekonstruktion-klarheit-1",
+    "href": "content/slides/sitzung-07-slides.html#leitprinzipien-der-argumentrekonstruktion-klarheit-1",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Leitprinzipien der Argumentrekonstruktion: Klarheit",
+    "text": "Leitprinzipien der Argumentrekonstruktion: Klarheit\nDie Rekonstruktion sollte den argumentativen Kern des Arguments darstellen. D.h., oft können Sie die folgenden Bestandteile meist weglassen:\n\nSchilderungen philosophischer Probleme und Fragen\nrhetorische Phrasen (z. B.: „Es ist nun offensichtlich, …“, „Wie jeder erkennt, ….“)\nWiederholungen und Reformulierungen der Prämissen oder der Konklusion\nBegriffsklärungen und Definitionen\nBeispiele zur Erläuterung der Prämissen oder Konklusion"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#leitprinzipien-der-argumentrekonstruktion-epistemische-stärke",
+    "href": "content/slides/sitzung-07-slides.html#leitprinzipien-der-argumentrekonstruktion-epistemische-stärke",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Leitprinzipien der Argumentrekonstruktion: Epistemische Stärke",
+    "text": "Leitprinzipien der Argumentrekonstruktion: Epistemische Stärke\nDie Rekonstruktion sollte das Argument möglichst stark und plausibel machen.\nWollen wir bspw. ein bestimmtes von einer Person vertretenes Argument anhand einer Rekonstruktion evaluieren, sollte das Argument nicht allein aufgrund einer ungünstigen Interpretation schlecht abschneiden. D.h.:\n\nPlausibilität von Aussagen:\n\nErgänzte implizite Prämissen bzw. Konklusionen sollten möglichst plausibel sein.\nUmformulierte Sätze sollten möglichst nicht unplausibler sein als die ursprünglichen Sätze.\n\nGültigkeit der Rekonstruktion: Das Argument sollte möglichst deduktiv gültig sein.\nIrrelevante Prämissen vermeiden: Es sollten möglichst keine für die Gültigkeit des Arguments unnötigen Prämissen ergänzt werden.1\n\n\n\n\n\n\n\nHinweis\n\n\nIrrelevant meint hier: unnötig für die Gültigkeit des Arguments im Lichte der anderen Prämissen. D.h. eine Prämisse ist in diesem Sinne genau dann irrelevant, wenn die Konklusion aus den anderen Prämissen der Standarddarstellung bereits folgt.\n\n\n\nWelche Aussnahmen gibt es hier?"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#leitprinzipien-der-argumentrekonstruktion-akkuratheit-textnähe",
+    "href": "content/slides/sitzung-07-slides.html#leitprinzipien-der-argumentrekonstruktion-akkuratheit-textnähe",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Leitprinzipien der Argumentrekonstruktion: Akkuratheit (Textnähe)",
+    "text": "Leitprinzipien der Argumentrekonstruktion: Akkuratheit (Textnähe)\nDie Rekonstruktion sollte möglichst dem ursprünglichen Argument entsprechen: Wollen wir bspw. ein bestimmtes von einer Person vertretenes Argument anhand einer Rekonstruktion verstehen und evaluieren, sollte es sich nach der Rekonstruktion immer noch um das Argument dieser Person handeln. D.h.:\n\nUmformulierungen von Sätzen sollte nicht zu Sätzen führen, die eine andere Bedeutung haben.\nIm Text identifizierte Begründungsansprüche sollten möglichst als solche in der Rekonstruktion wiederzufinden sein.\nImplizite Prämissen sollten dieser Person auch unterstellt werden können bzw. dem gemeinten Sinn des Arguments entsprechen."
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#abwägung-epistemische-stärke-vs.-akkuratheit-vs.-klarheit",
+    "href": "content/slides/sitzung-07-slides.html#abwägung-epistemische-stärke-vs.-akkuratheit-vs.-klarheit",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Abwägung: Epistemische Stärke vs. Akkuratheit vs. Klarheit",
+    "text": "Abwägung: Epistemische Stärke vs. Akkuratheit vs. Klarheit\nDer genannten Prinzipien sind gegenläufige Prinzipien, d.h. sie können im konkreten Einzelfall im Widerstreit zueinander und müssen dann gegeneinander abgewogen werden."
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#ablauf-einer-argumentationsanalyse-bisheriger-stand",
+    "href": "content/slides/sitzung-07-slides.html#ablauf-einer-argumentationsanalyse-bisheriger-stand",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Ablauf einer Argumentationsanalyse (bisheriger Stand)",
+    "text": "Ablauf einer Argumentationsanalyse (bisheriger Stand)"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#hermeneutische-schleife-der-rekonstruktionsprozess",
+    "href": "content/slides/sitzung-07-slides.html#hermeneutische-schleife-der-rekonstruktionsprozess",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Hermeneutische Schleife: Der Rekonstruktionsprozess",
+    "text": "Hermeneutische Schleife: Der Rekonstruktionsprozess\n\nRekonstruktionsprozess"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#gegenüberstellung-einfacher-und-vertiefter-argumentkarten",
+    "href": "content/slides/sitzung-07-slides.html#gegenüberstellung-einfacher-und-vertiefter-argumentkarten",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Gegenüberstellung einfacher und vertiefter Argumentkarten",
+    "text": "Gegenüberstellung einfacher und vertiefter Argumentkarten\nEinfache und vertiefte Argumentkarten sehen gleich aus!\nEinfache Argumentkarten:\n\nVisualisieren ihr vortheoretisches und voranalytisches Verständnis der Argumentationsstruktur eines Textes/einer Diskussion – also Ihr Verständnis darüber, welche Argumente und Thesen es gibt und wie sich diese Elemente argumentativ aufeinander beziehen.\nDie Stützungs- and Angriffsbeziehungen haben hier keine präzise Bedeutung."
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#gegenüberstellung-einfacher-und-vertiefter-argumentkarten-1",
+    "href": "content/slides/sitzung-07-slides.html#gegenüberstellung-einfacher-und-vertiefter-argumentkarten-1",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Gegenüberstellung einfacher und vertiefter Argumentkarten",
+    "text": "Gegenüberstellung einfacher und vertiefter Argumentkarten\nVertiefte Argumentkarten:\n\nIn vertieften Argumentkarten sind alle Argumente in ihrer Prämissen-Konklusion-Struktur rekonstruiert.\nDie Argumentbeziehungen sind präzise definiert und basieren auf semantischen Relationen zwischen den Sätzen von Argumenten.\n\nEntsprechend kann man der Karte präsize Informationen ablesen.\n\nSie haben einen gewissen Spielraum bei der Entscheidung genau welche Informationen in der Karte kodiert werden (übe die Entscheidung darüber, welche Sätze als Aussagekasten visualisiert werden und ob komplexe Argumente mit ZK-en in Teilargumente zerlegt werden).\n\nDie Übungsaufgaben zum Argumentkartelesen enthalten Beispiele dafür, wie man diesen Spielraum nutzen kann."
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#konjunktion",
+    "href": "content/slides/sitzung-07-slides.html#konjunktion",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Konjunktion",
+    "text": "Konjunktion\nIn Konjunktionen (Form p und q) werden zwei Aussagen durch den Satzoperator „und“ verbunden. Typischeweise werden in Konjunktionen\n\nzwei Gegenständen, Ereignissen oder den Mitgliedern zweier Gruppen eine Eigenschaft, Tätigkeit oder Beziehung zugesprochen wird,\neinem Gegenstand, Ereignis oder den Mitgliedern einer Gruppe zwei Eigenschaften,Tätigkeiten oder Beziehungen zugesprochen werden."
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#konjunktion-beispiele-für-1",
+    "href": "content/slides/sitzung-07-slides.html#konjunktion-beispiele-für-1",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Konjunktion: Beispiele für (1)",
+    "text": "Konjunktion: Beispiele für (1)\n\nUte und Hans sind nett.\nDer Erste Weltkrieg und der Zweite Weltkrieg gingen von Europa aus.\nDie Deutschen und Franzosen sind Europäer.\nUte und Hans sind in Bernadette verliebt.\nBrandenburg und Thüringen grenzen an Sachsen.\nDie meisten Italiener und Franzosen glauben an Gott."
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#konjunktion-beispiele-für-2",
+    "href": "content/slides/sitzung-07-slides.html#konjunktion-beispiele-für-2",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Konjunktion: Beispiele für (2)",
+    "text": "Konjunktion: Beispiele für (2)\n\nUte ist nett und lieb.\nDer Zweite Weltkrieg dauerte sechs Jahre und kostete etwa 55 Millionen Menschenleben.\nHans geht spazieren und genießt das warme Wetter.\nAngela liebt Fred und Bert."
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#konjunktion-mehrdeutigkeiten",
+    "href": "content/slides/sitzung-07-slides.html#konjunktion-mehrdeutigkeiten",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Konjunktion: Mehrdeutigkeiten",
+    "text": "Konjunktion: Mehrdeutigkeiten\nManche Sätze sind für sich genommen mehrdeutig. So lassen sich aus dem Satz „Pia und Andrea heiraten im Mai“ zwei unterschiedliche Aussagen herauslesen:\n\nPia heiratet im Mai und Andrea heiratet im Mai. (Konjunktion)\nPia und Andrea heiraten im Mai miteinander. (keine Konjunktion, sondern eine Aussage mit einem zusammengesetzten Subjekt)"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#konjunktion-formulierungsvarianten",
+    "href": "content/slides/sitzung-07-slides.html#konjunktion-formulierungsvarianten",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Konjunktion: Formulierungsvarianten",
+    "text": "Konjunktion: Formulierungsvarianten\n\nWeitere logische Ausdrücke mit der Funktion, Sachverhalte konjunktiv aneinanderzureihen: sowie, sowohl – als auch, zudem, ferner, zum einen – zum anderen, einerseits – andererseits, während, außerdem, ebenfalls\n\nUte sowie Hans sind nett.\nSowohl der Erste Weltkrieg als auch der Zweite Weltkrieg gingen von Europa aus.\n\nMit der Konjunktion werden auch viele Bindewörter formalisiert, die einen Gegensatz zweier Sachverhalte andeuten: aber, jedoch, trotzdem, dennoch, obwohl, obgleich, obschon, obzwar, wenngleich, wiewohl, nichtsdestoweniger\n\nDer Gast war schon sehr betrunken, trotzdem gab ihm der Wirt alkoholische Getränke.\nOlaf kommt zur Hochzeit von Ahmed und Hans, obwohl er ziemlich eifersüchtig ist."
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#konjunktion-formulierungsvarianten-1",
+    "href": "content/slides/sitzung-07-slides.html#konjunktion-formulierungsvarianten-1",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Konjunktion: Formulierungsvarianten",
+    "text": "Konjunktion: Formulierungsvarianten\n\nAuch explikative Relativsätze werden mit der Konjunktion formalisiert. Diese Nebensätze enthalten eine zusätzliche Information über einen namentlich genannten Gegenstand:\n\nKain erschlug seinen Bruder Abel, den er hasste.\n\nRestriktive Relativsätze spezifizieren ein namentlich nicht genanntes Satzglied des Hauptsatzes; die Information des restriktiven Relativsatzes ist für das Verständnis des Hauptsatzes erforderlich. Haupt- und Nebensatz drücken gemeinsam nur eine Einzelaussage aus:\n\nDie USA suchten lange nach dem Mann, der die Anschläge auf das World Trade Center geplant hatte.\nDie Firma, für die Herbert arbeitet, bezahlt schlecht."
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#schlussmuster-konjunktionseinführung",
+    "href": "content/slides/sitzung-07-slides.html#schlussmuster-konjunktionseinführung",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Schlussmuster: Konjunktionseinführung",
+    "text": "Schlussmuster: Konjunktionseinführung\n&lt;Argumentschema Konjunktionseinführung&gt;\n\n(1) p.\n(2) q.\n-- mit Konjunktionseinführung aus 1,2 --\n(3) *Also*: p und q.\n\n\n\n\n\nArgument Map\n\n\nn0\n\n\nArgumentschema Konjunktionseinführung"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#schlussmuster-konjunktionsbeseitigung",
+    "href": "content/slides/sitzung-07-slides.html#schlussmuster-konjunktionsbeseitigung",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Schlussmuster: Konjunktionsbeseitigung",
+    "text": "Schlussmuster: Konjunktionsbeseitigung\n&lt;Argumentschema Konjunktionsbeseitigung&gt;\n\n(1) p und q.\n-- mit Konjunktionsbeseitigung aus 1 --\n(3) *Also*: p.\n\n\n\n\nArgument Map\n\n\nn0\n\n\nArgumentschema Konjunktionsbeseitigung"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#disjunktion",
+    "href": "content/slides/sitzung-07-slides.html#disjunktion",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Disjunktion",
+    "text": "Disjunktion\nIn Disjunktionen (Form p oder q) werden zwei Aussagen durch den Satzoperator „oder“ verbunden. Teilweise steht der logische Ausdruck „oder“\n\nzwischen den Bezeichnungen zweier Gegenstände, Ereignisse oder Gruppen, teilweise\nzwischen den Bezeichnungen zweier Eigenschaften, Tätigkeiten oder Beziehungen.\n\nBeispiele für (1):\n\nUte oder Hans ist nett.\nDer Erste Weltkrieg oder der Zweite Weltkrieg ging von Europa aus.\nUte oder Hans ist in Bernadette verliebt.\n\nBeispiele für (2):\n\nUte ist nett oder lieb.\nDer Zweite Weltkrieg dauerte sechs Jahre oder kostete etwa 55 Millionen Menschenleben.\nHans geht spazieren oder genießt das warme Wetter."
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#disjunktion-formulierungsvarianten",
+    "href": "content/slides/sitzung-07-slides.html#disjunktion-formulierungsvarianten",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Disjunktion: Formulierungsvarianten",
+    "text": "Disjunktion: Formulierungsvarianten\nIm Deutschen gibt es nur wenige Alternativen zum Wort „oder“: beziehungsweise, sonst, andernfalls, alternativ\nBeispiele:\n\nBrandenburg beziehungsweise Thüringen grenzt an Sachsen.\nOlaf gibt mir das Geld, sonst wird er was erleben.\nJudith reist am Donnerstag an, andernfalls kommt sie am Freitag Vormittag."
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#ein--und-ausschließendes-oder",
+    "href": "content/slides/sitzung-07-slides.html#ein--und-ausschließendes-oder",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Ein- und ausschließendes „oder“",
+    "text": "Ein- und ausschließendes „oder“\n\n\n\n\n\n\nEinschließendes „oder“ (Adjunktion)\n\n\nDrückt aus, dass von zwei oder mehreren Möglichkeiten mindestens eine als Tatsache zutrifft (auch beide oder alle Möglichkeiten können als Tatsache zutreffen).\n\n\n\n\n\n\n\n\n\nAusschließendes „oder“ (Kontravalenz)\n\n\nDrückt aus, dass von zwei oder mehreren Möglichkeiten jeweils nur eine als Tatsache zutrifft.\n\n\n\nDie Kontravalenz wird im Deutschen durch „entweder – oder“ ausgedrückt und kann als komplexe Aussagen formalisiert werden: \\((p\\vee q)\\wedge\\neg(p\\wedge q)\\) ( \\(p\\) oder \\(q\\) aber nicht beides zugleich)"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#schlussmuster-disjunktionseinführung",
+    "href": "content/slides/sitzung-07-slides.html#schlussmuster-disjunktionseinführung",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Schlussmuster: Disjunktionseinführung",
+    "text": "Schlussmuster: Disjunktionseinführung\n&lt;Argumentschema Disjunktionseinführung&gt;\n\n(1) p.\n-- mit Disjunktionseinführung aus 1,2 --\n(3) *Also*: p oder q.\n\n\n\n\nArgument Map\n\n\nn0\n\n\nArgumentschema Disjunktionseinführung"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#schlussmuster-disjunktiver-syllogismus-adjunktiver-syllogismus",
+    "href": "content/slides/sitzung-07-slides.html#schlussmuster-disjunktiver-syllogismus-adjunktiver-syllogismus",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Schlussmuster: Disjunktiver Syllogismus / Adjunktiver Syllogismus",
+    "text": "Schlussmuster: Disjunktiver Syllogismus / Adjunktiver Syllogismus\n&lt;Argumentschema Disjunktiver Syllogismus&gt;\n\n(1) p oder q.\n(2) nicht p.\n-- aus 1,2 mit disj. Syll. --\n(3) *Also*: q.\n\n\n\n\nArgument Map\n\n\nn0\n\n\nArgumentschema Disjunktiver Syllogismus"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#schlussmuster-kontravalenz",
+    "href": "content/slides/sitzung-07-slides.html#schlussmuster-kontravalenz",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Schlussmuster: Kontravalenz",
+    "text": "Schlussmuster: Kontravalenz\n&lt;Argumentschema Kontravalenz&gt;\n\n(1) Entweder p oder q.\n(2) p.\n-- aus 1,2 mit Kontravalenz--\n(3) *Also*: q ist falsch.\n\n\n\n\nArgument Map\n\n\nn0\n\n\nArgumentschema Kontravalenz"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#klammerung-von-satzoperatoren",
+    "href": "content/slides/sitzung-07-slides.html#klammerung-von-satzoperatoren",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Klammerung von Satzoperatoren",
+    "text": "Klammerung von Satzoperatoren\nIn komplexen Sätzen mit mehreren Satzoperatoren müssen z.T. Klammern gesetzt werden, um Mehrdeutigkeiten zu vermeiden. Häufig geben die Kommata einen Hinweis darauf, wo die Klammern zu setzen sind:\n\nDer Attentäter würgt oder bedroht seine Opfer, und er raubt sie aus.\n\nLogisch-semantische Form: \\((p\\vee q)\\& r\\)\n\nDer Attentäter würgt seine Opfer, oder er bedroht sie und raubt sie aus.\n\nLogisch-semantischen Form: \\(p\\vee (q\\& r)\\)"
+  },
+  {
+    "objectID": "content/slides/sitzung-07-slides.html#ende",
+    "href": "content/slides/sitzung-07-slides.html#ende",
+    "title": "Sitzung 7: Rekonstruktionsprinzipien",
+    "section": "Ende",
+    "text": "Ende\n\n🙏 Danke!"
   },
   {
     "objectID": "content/assignments/sitzung-02-assignment.html#aufgabenstellung",
@@ -1902,13 +1996,32 @@
     "href": "content/notes/sitzung-07-notes.html#einfache-argumentkarte-zum-rütsche-text",
     "title": "Mitschrift: Sitzung 7 (27.11.2026) - Erstellung von Argumentkarten mit Argdown",
     "section": "Einfache Argumentkarte zum Rütsche Text",
-    "text": "Einfache Argumentkarte zum Rütsche Text"
+    "text": "Einfache Argumentkarte zum Rütsche Text",
+    "crumbs": [
+      "Sitzung 7",
+      "Mitschrift"
+    ]
   },
   {
     "objectID": "content/notes/sitzung-07-notes.html#rekonstruktion-des-hauptarguments",
     "href": "content/notes/sitzung-07-notes.html#rekonstruktion-des-hauptarguments",
     "title": "Mitschrift: Sitzung 7 (27.11.2026) - Erstellung von Argumentkarten mit Argdown",
     "section": "Rekonstruktion des Hauptarguments",
-    "text": "Rekonstruktion des Hauptarguments\n(1) Nur durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen\n    kann die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen\n    angewendet werden, um zumindest einfache, monogenetische Veranlagungen zu\n    schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern.\n(2) ...\n-- aus 1,2 mit ?? --\n(3) Die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen ist\n    notwendig, um Antworten auf wissenschaftlich und gesellschaftlich\n    wichtige Fragestellungen zu finden.\n(4) ...\n-- aus 3,4 mit ?? --\n(5) Der Schutz der Menschenwürde wiegt (im Kontext der CRISPR/Cas9-Erforschung)\n    nicht höher als die Forschungsfreiheit.\n(6) ... gilt nur dann, wenn ....\n-- aus 5,6 mit ?? --\n(7) Also: ...\n\n\n\n\n\nArgument Map\n\n\nn0\n\n\nUntitled 1\n\n\n\n\n\n\nDie Antwortoptionen aus Übungsblatt 4, Aufgabe 2:\nAntwortoption: Die Begründungsstruktur der skizzierten vorläufigen Rekonstruktion des Hauptarguments lässt sich so beschreiben: Die Zwischenkonklusionen (3) und (5) folgen jeweils aus voneinander unabhängigen Prämissen. Dann soll die Konklusion (7) aus diesen beiden Zwischenkonklusionen folgen.\nAntwortoption: Ergänzt man als Prämisse (4) den Satz „Wenn die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig ist, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden, dann wiegt der Schutz der Menschenwürde (im Kontext der CRISPR/Cas9-Erforschung) nicht höher als die Forschungsfreiheit.“, folgt die Zwischenkonklusion (5) aus den Prämissen (3) und (4) mittels Modus Ponens.\nAntwortoption: Das Wort ‘nur’ in Prämisse (1) signalisiert eine notwendige Bedingung. Ergänzt man als zweite Prämisse den entsprechenden Bedingungssatz „Nur wenn durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen angewendet werden kann, um zumindest einfache, monogenetische Veranlagungen zu schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern, dann ist die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden.“ folgt die Zwischenkonklusion (3) aus den Prämissen (1) und (2) mittels Modus Ponens.\nAntwortoption: Das skizzierte Hauptargument soll begründen, dass die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen prinzipiell zulässig ist. Die Konklusion könnte man damit zum Beispiel so formulieren: „Alle Forschungsprojekte zur Erforschung der CRISPR/Cas9-Technologie an menschlichen Embryonen sind zulässig.“\nAntwortoption: Prämisse 6 formuliert eine notwendige Bedingung, die nach dem ‘wenn’ ausformuliert werden kann. Der Schluss auf die Konklusion kann dann so weiter rekonstruiert werden: Die Zwischenkonklusion (5) formuliert, dass die notwendige Bedingung nicht erfüllt ist. Formalisiert man (6) mit s → r folgt die Konklusion (7) mit Modus Tollens, wenn die Konklusion mit ¬s und die Zwischenkonklusion (5) mit ¬r formalisiert wird."
+    "text": "Rekonstruktion des Hauptarguments\n(1) Nur durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen\n    kann die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen\n    angewendet werden, um zumindest einfache, monogenetische Veranlagungen zu\n    schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern.\n(2) ...\n-- aus 1,2 mit ?? --\n(3) Die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen ist\n    notwendig, um Antworten auf wissenschaftlich und gesellschaftlich\n    wichtige Fragestellungen zu finden.\n(4) ...\n-- aus 3,4 mit ?? --\n(5) Der Schutz der Menschenwürde wiegt (im Kontext der CRISPR/Cas9-Erforschung)\n    nicht höher als die Forschungsfreiheit.\n(6) ... gilt nur dann, wenn ....\n-- aus 5,6 mit ?? --\n(7) Also: ...\n\n\n\n\n\nArgument Map\n\n\nn0\n\n\nUntitled 1\n\n\n\n\n\n\nDie Antwortoptionen aus Übungsblatt 4, Aufgabe 2:\nAntwortoption: Die Begründungsstruktur der skizzierten vorläufigen Rekonstruktion des Hauptarguments lässt sich so beschreiben: Die Zwischenkonklusionen (3) und (5) folgen jeweils aus voneinander unabhängigen Prämissen. Dann soll die Konklusion (7) aus diesen beiden Zwischenkonklusionen folgen.\nAntwortoption: Ergänzt man als Prämisse (4) den Satz „Wenn die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig ist, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden, dann wiegt der Schutz der Menschenwürde (im Kontext der CRISPR/Cas9-Erforschung) nicht höher als die Forschungsfreiheit.“, folgt die Zwischenkonklusion (5) aus den Prämissen (3) und (4) mittels Modus Ponens.\nAntwortoption: Das Wort ‘nur’ in Prämisse (1) signalisiert eine notwendige Bedingung. Ergänzt man als zweite Prämisse den entsprechenden Bedingungssatz „Nur wenn durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen angewendet werden kann, um zumindest einfache, monogenetische Veranlagungen zu schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern, dann ist die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden.“ folgt die Zwischenkonklusion (3) aus den Prämissen (1) und (2) mittels Modus Ponens.\nAntwortoption: Das skizzierte Hauptargument soll begründen, dass die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen prinzipiell zulässig ist. Die Konklusion könnte man damit zum Beispiel so formulieren: „Alle Forschungsprojekte zur Erforschung der CRISPR/Cas9-Technologie an menschlichen Embryonen sind zulässig.“\nAntwortoption: Prämisse 6 formuliert eine notwendige Bedingung, die nach dem ‘wenn’ ausformuliert werden kann. Der Schluss auf die Konklusion kann dann so weiter rekonstruiert werden: Die Zwischenkonklusion (5) formuliert, dass die notwendige Bedingung nicht erfüllt ist. Formalisiert man (6) mit s → r folgt die Konklusion (7) mit Modus Tollens, wenn die Konklusion mit ¬s und die Zwischenkonklusion (5) mit ¬r formalisiert wird.",
+    "crumbs": [
+      "Sitzung 7",
+      "Mitschrift"
+    ]
+  },
+  {
+    "objectID": "content/notes/sitzung-07-notes.html#musterlösung-des-6.-übungsblatts",
+    "href": "content/notes/sitzung-07-notes.html#musterlösung-des-6.-übungsblatts",
+    "title": "Mitschrift: Sitzung 7 (27.11.2026) - Erstellung von Argumentkarten mit Argdown",
+    "section": "Musterlösung des 6. Übungsblatts",
+    "text": "Musterlösung des 6. Übungsblatts\n\nAufgabe 1 (2 Zusatzpunkte)\nGegeben sei eine Argumentkarte mit den Argumenten &lt;A1&gt;, &lt;A2&gt; und &lt;A3&gt; sowie dem Aussagekasten [T1]. &lt;A1&gt; besitzt als Prämissen die Sätze p und q und als Konklusion den Satz r. &lt;A2&gt; besitzt als Prämissen die Sätze s und t und als Konklusion den Satz u. &lt;A3&gt; besitzt als Prämissen die Sätze v und w und als Konklusion den Satz m.\nZwischen den genannten Sätzen bestehen folgende Beziehungen:\n\nr ist gleichbedeutend mit m,\nt ist gleichbedeutend mit w,\nder Satz des Thesenkastens [T1] ist gleichbedeutend mit der Konklusion von &lt;A3&gt; und\nu widerspricht p kontradiktorisch.\n\nWelche der folgenden Argumentbeziehungen treffen zu?\n\n&lt;A1&gt; stützt &lt;A3&gt;. (falsch)\n&lt;A3&gt; stützt [T1]. (richtig)\n&lt;A1&gt; greift [T1] an. (falsch)\n&lt;A2&gt; greift &lt;A1&gt; an. (richtig)*\n&lt;A2&gt; stützt [T1]. (falsch)\n&lt;A1&gt; greift &lt;A3&gt; an. (falsch)\n&lt;A2&gt; stützt &lt;A3&gt;. (falsch)\n\nAm einfachsten erstellt man sich die beschriebene Argumentkarte unter Berücksichtigung der eingeführten Argumentbeziehungen und liest dann der Karte ab, welche der Antwortoptionen zutreffen:\n\n\n\nAufgabe 2 (2 Zusatzpunkte)\nWelche Informationen kann man der folgenden vertieften Argumentkarte entnehmen? Was trifft zu?\n&lt;A1&gt;\n  +&gt; &lt;A2&gt;\n    +&gt; [T1]\n  +&gt; &lt;A3&gt;\n    +&gt; [T2]\n    &lt;- &lt;A4&gt;\n\n\n\n\nArgument Map\n\n\nn0\n\n\nT1\n\n\n\n\n\nn1\n\n\nT2\n\n\n\n\n\nn2\n\n\nA1\n\n\n\n\n\nn3\n\n\nA2\n\n\n\n\n\nn2-&gt;n3\n\n\n\n\n\n\n\n\nn4\n\n\nA3\n\n\n\n\n\nn2-&gt;n4\n\n\n\n\n\n\n\n\nn3-&gt;n0\n\n\n\n\n\n\n\n\nn4-&gt;n1\n\n\n\n\n\n\n\n\nn5\n\n\nA4\n\n\n\n\n\nn5-&gt;n4\n\n\n\n\n\n\n\n\n\n\nEiner der Prämissen von &lt;A2&gt; ist bedeutungsgleich mit einer der Prämissen von &lt;A3&gt;. \n\nRichtig: Beide Argumente werden von &lt;A1&gt; gestützt. D.h. die Konklusion von &lt;A1&gt; ist bedeutungsgleich mit jeweils einer Prämisse der Argumente &lt;A2&gt; und &lt;A3&gt;. Da die Konklusion mit den beiden Prämissen bedeutungsgleich ist, müssen die Prämissen auch bedeutungsgleich sein.\n\nFügt man der Argumentkarte die Konklusion von &lt;A1&gt; als Aussagekasten hinzu, besteht von diesem Aussagekasten eine Stützungsbeziehung zu &lt;A2&gt; und eine zu &lt;A3&gt;.\n\nRichtig: Laut der Karte ist diese Konklusion bedeutungsgleich mit jeweils einer Prämisse der Argumente &lt;A2&gt; und &lt;A3&gt;. Laut Definition der Argumentbeziehungen besteht dann von dem Aussagenkasten eine Stützungsbeziehung zu beiden Argumenten.\n\nDie Konklusion von &lt;A4&gt; steht in einem kontradiktorischen Widerspruch zu Prämisse von &lt;A1&gt;.\n\nFalsch: Man kann der Karte lediglich ablesen: Das kann sein. Zwar stützt &lt;A1&gt; &lt;A3&gt; und &lt;A4&gt; greift &lt;A3&gt; an, wir wissen allerdings nicht, ob diese Beziehungen auf die gleiche Prämsse abzielen. Wenn sie das täten, bestünde der beschriebene kontradiktorische Widerspruch.\n👉 Man kann diese Mehrdeutigkeit auflösen, indem man die Konklusion von &lt;A1&gt; (bzw. &lt;A4&gt;) der Karte als Aussagekasten hinzufügt.\n\nDie Konklusionen von &lt;A2&gt; und &lt;A3&gt; sind nicht bedeutungsgleich.\n\nRichtig: Wären sie bedeutungsgleich müsste es weitere Pfeile in der Karte geben, nämlich grüne Stützungspfeile von &lt;A2&gt; zu [T2], von &lt;A3&gt; zu [T1] und zwischen [T1] und [T2].\n\nDie Konklusion von &lt;A2&gt; ist bedeutungsgleich mit einer der Prämissen von &lt;A3&gt;.\n\nFalsch: Dann müsste es einen grünen Stützungspfeil zwischen &lt;A2&gt; und &lt;A3&gt; geben.\n\n\n\n\nAufgabe 3 (2 Zusatzpunkte)\nDie folgende vertiefte Argumentkarte enthält Fehler. Ausgehend von den vorhandenen Pfeilen fehlen einige Pfeile. Welche?\n\n\n\n\n\n\nWichtig\n\n\n\nIgnorieren Sie für diese Aufgaben die Hinweise zu redundanten Pfeilen, die nicht dargestellt werden (Folie 23, Sitzung 5). D.h., bearbeiten Sie diese Aufgabe unter der Anforderung, dass alle Argumentbeziehungen, die man sich aus den vorhandenen Pfeilen erschließen kann, in einer korrekten Argumentkarte auch dargestellt werden müssen.\n\n\n&lt;A3&gt;\n  -&gt; [T2]\n    +&gt; &lt;A2&gt;\n  -&gt; &lt;A1&gt;\n    +&gt; [T3]\n    +&gt; [T1]\n      &lt;- &lt;A2&gt;\n\n\n\n\nArgument Map\n\n\nn0\n\n\nT2\n\n\n\n\n\nn4\n\n\nA2\n\n\n\n\n\nn0-&gt;n4\n\n\n\n\n\n\n\n\nn1\n\n\nT3\n\n\n\n\n\nn2\n\n\nT1\n\n\n\n\n\nn3\n\n\nA3\n\n\n\n\n\nn3-&gt;n0\n\n\n\n\n\n\n\n\nn5\n\n\nA1\n\n\n\n\n\nn3-&gt;n5\n\n\n\n\n\n\n\n\nn4-&gt;n2\n\n\n\n\n\n\n\n\nn5-&gt;n1\n\n\n\n\n\n\n\n\nn5-&gt;n2\n\n\n\n\n\n\n\n\n\n\nEs fehlt ein roter Angriffspfeil von [T2] zu &lt;A1&gt;.\n\nFalsch: Was richtig ist: Es fehlt ein grüner Stützungspfeil von [T2] zu &lt;A1&gt;. Sei p die Konklusion von &lt;A3&gt; und q der zu p kontradiktorische Satz in &lt;A1&gt; gemäß der Angriffsbeziehung von &lt;A3&gt; zu &lt;A1&gt;, und r die Aussage von [T2]. Weil gemäß der Angriffsbeziehung von &lt;A3&gt; zu [T2] r kontradiktorisch zu p ist und p kontradiktorisch zu q ist, muss r bedeutungsgleich mit q sein.\n\nEs fehlt ein grüner Stützungspfeil von &lt;A3&gt; zu &lt;A2&gt;. \n\nFalsch: Es fehlt ein roter Stützungspfeil. Das ist einer der Pfeile, die üblicherweise in Argumentkarten aufgrund der Redundanz nicht gemalt werden.\n\nEs fehlt ein grüner Stützungspfeil von [T1] zu [T3]. \n\nRichtig: Die Konklusion von &lt;A1&gt; ist gemäß der dargestellten Pfeile bedeutungsgleich mit den Aussagen. Daher müssen die Aussagen selbst bedeutungsgleich sein.\n\nEs fehlt ein grüner Stützungspfeil von [T3] zu [T1]. \n\nRichtig: Siehe letzte Antwortmöglichkeit.\n\nEs fehlt ein roter Angriffspfeil von &lt;A2&gt; zu [T3]. \n\nRichtig: Die Aussagen der Aussagekästen [T3] und [T1] sind bedeutungsgleich (siehe die letzten beiden Antwortmöglichkeiten). Da die Konklusion von &lt;A2&gt; laut der Karte in einem kontradiktorischen Widerspruch zur Aussagen von [T1] steht, muss sie dann auch in einem kontradiktorischen Widerspruch zur Aussage von [T3] stehen.",
+    "crumbs": [
+      "Sitzung 7",
+      "Mitschrift"
+    ]
   }
 ]
