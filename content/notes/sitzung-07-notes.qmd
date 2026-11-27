@@ -15,11 +15,59 @@ format:
 
 # Analyse des Rütsche Textes
 
+
 ## Einfache Argumentkarte zum Rütsche Text
 
+Der bisherige gemeinsame Zwischenstand der einfachen Argumentkartierung:^[Zeilenangaben beziehen sich immer auf die PDF Version des Textes von Übungsblatt 4.]
+
+```argdown-map
+[T1 - Verbot der Erforschung]: Es gilt ein allgemeines/pauschales Verbot der Erforschung der CRISPR/Cas9-Technologie an Embryonen. (Z. 34-35) 
+    <+ <A2 Einwand>
+
+[T2 - Verbot der Anwendung]: Es gilt ein allgemeines/pauschales Verbot der Anwendung der CRISPR/Cas9-Technologie. 
+
+<A1 Hauptargument>: Die Forschungsfreiheit hat im Kontext der CRISPR/Cas9-Technologie Vorrang vor der Menschenwürde des Embryos. (Z. ca. 6-35)
+    -> [T1 - Verbot der Erforschung]
+
+(1) ..
+(2) ..
+-- ... ---
+(3) Also: Ein pauschales Verbot ... gilt nicht.
+
+<A2 Einwand>: Die therapeutische Anwendung von CRISPR/Cas9-Technologie ist immer mit Risiken verbunden und daher verboten. Dann ist die Erforschung aber auch sinnlos. (Z. 36-41)
+    +> [T2 - Verbot der Anwendung]
+    -> <A1 Hauptargument>
+
+<A3 Entkräftung des Einwands>: Die Forschung hat gerade zum Ziel, die Risiken einer Technologie abschätzbar und beherrschbar zu machen. (Z. 41-47)
+    -> <A2 Einwand>
+
+```
+
+Die Formulierungen sind vorläufig und sollten ggf. angepasst werden.
 
 
-## Rekonstruktion des Hauptarguments
+**Verständnisfragen:**
+
+1. Gibt es im Text für `[T1]` und `[T2]` unabhängige Argumente oder sind es immer Argumente für/gegen beides zusammen?
+    + Geht es nicht eigentlich um Forschung? (zumindest in den Zeilen 1-36)
+2. Auf was genau zielt `<A2>` ab? Geht `<A2>` gegen `<A1>` oder für `<T1>` oder für `[T2]`?
+    + Das Argument soll auch das Verbot der Anwendung zum therap. Zweck begründen (`[T2]`) Das ist aber nur der erste Teil von `<A2>`.
+
+
+**Weiteres Vorgehen:**
+
+Die identifizierten Verständnisfragen können durch eine Rekonstruktion der Argumente beantwortet werden. Folgende Hinweise:
+
++ Nicht alle der in der einfachen Argumentkarte von `<A2>` ausgehenden Pfeile werden in der vertieften Argumentkarte bestätigt. Diese Pfeile können als Hypothesen verstanden werden, die durch die Rekonstruktion "überprüft" werden sollen:
+    1. `<A2> +> [T1]`: Die Konklusion von `<A2>` ist bedeutungsgleich mit der Aussage `[T1]`
+    2. `<A2> +> [T2]`: Die Konklusion von `<A2>` ist bedeutungsgleich mit der Aussage `[T2]`
+    3. `<A2> -> [A1]`: Die Konklusion von `<A2>` steht im kontradiktorischen Widerspruch zu einer Prämisse von `<A1>`. (D.h. mit `<A2>` wird die Falschheit einer der Prämissen von `<A1>` begründet.)
++ Diese Hypothesen können wahrscheinlich nicht alle zusammen zutreffen. (Was würde das heißen? Machen Sie sich ggf. klar, warum nicht.)
++ Für die Untersuchung der dritten Hypothese bietet es sich an, die schon vorhandene Rekonstruktion von `<A1>` zu betrachten. Gegen welche Prämisse wird hier ggf. argumentiert? Oder geht es gegen eine Zwischenkonklusion?
++ Für die ersten beiden Hypothesen stünde mit der Formulierung der Thesen auch schon fest, welche Konklusion `<A2>` haben müsste.
+
+
+## Rekonstruktion des Hauptarguments `<A1>`
 
 ```argdown
 (1) Nur durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen
@@ -42,17 +90,70 @@ format:
 
 Die Antwortoptionen aus Übungsblatt 4, Aufgabe 2:
 
-*Antwortoption:* Die Begründungsstruktur der skizzierten vorläufigen Rekonstruktion des Hauptarguments lässt sich so beschreiben: Die Zwischenkonklusionen (3) und (5) folgen jeweils aus voneinander unabhängigen Prämissen. Dann soll die Konklusion (7) aus diesen beiden Zwischenkonklusionen folgen.
++ *Antwortoption:* Die Begründungsstruktur der skizzierten vorläufigen Rekonstruktion des Hauptarguments lässt sich so beschreiben: Die Zwischenkonklusionen (3) und (5) folgen jeweils aus voneinander unabhängigen Prämissen. Dann soll die Konklusion (7) aus diesen beiden Zwischenkonklusionen folgen.
+    + **Falsch:** In der skizzierten Rekonstruktion wird die ZK (5) nicht unabhängig von ZK (3). Vielmehr wird ZK (5) unter Benutzung von ZK (3) begründet. Dann wird ZK (5) mit der sechsten Prämisse benutzt, um die Konklusion zu begründen.
++ *Antwortoption:* Ergänzt man als Prämisse (4) den Satz *„Wenn die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig ist, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden, dann wiegt der Schutz der Menschenwürde (im Kontext der CRISPR/Cas9-Erforschung) nicht höher als die Forschungsfreiheit.“*, folgt die Zwischenkonklusion (5) aus den Prämissen (3) und (4) mittels Modus Ponens.
+    + **Richtig:** siehe untere Rekonstruktion
++ *Antwortoption:* Das Wort 'nur' in Prämisse (1) signalisiert eine notwendige Bedingung. Ergänzt man als zweite Prämisse den entsprechenden Bedingungssatz *„Nur wenn durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen angewendet werden kann, um zumindest einfache, monogenetische Veranlagungen zu schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern, dann ist die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden.“* folgt die Zwischenkonklusion (3) aus den Prämissen (1) und (2) mittels Modus Ponens.
+    + **Falsch:** Das Wort 'nur' mag hier eine notwendige Bedingung formulieren. Allerdings folgt die Zwischenkonklusion nicht wie beschrieben. Formalisiert man den in der Antwortoption genannten Bedingungssatz mit `Nur wenn p, dann q.` (also äquivalent zu `Wenn q, dann p.`), dann ist `q` die Zwischenkonklusion. Allerdings ist unklar wie mit dieser Subjunktion (und der weiteren Prämisse) `q` geschlossen werden soll. Erstens ist die "Richtung" der Subjunktion falsch, um den Modus Ponens anwenden zu können, und zweitens ist gemäß dieser Formalisierung `p` gar nicht die erste Prämisse.
++ *Antwortoption:* Das skizzierte Hauptargument soll begründen, dass die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen prinzipiell zulässig ist. Die Konklusion könnte man damit zum Beispiel so formulieren: *„Alle Forschungsprojekte zur Erforschung der CRISPR/Cas9-Technologie an menschlichen Embryonen sind zulässig.“* 
+    + **Falsch:** Diese Interpretation der Hauptthese wird explizit verneint (Z. 32--35). Der Autor erklärt, dass es Einzelfallprüfungen geben muss und richtet sich lediglich gegen ein pauschales Verbot. D.h. er legt sich gerade nicht auf eine pauschale (uneingeschränkte) Erlaubnis (Zulässigkeit) fest.
++ *Antwortoption:* Prämisse 6 formuliert eine notwendige Bedingung, die nach dem 'wenn' ausformuliert werden kann. Der Schluss auf die Konklusion kann dann so weiter rekonstruiert werden: Die Zwischenkonklusion (5) formuliert, dass die notwendige Bedingung nicht erfüllt ist. Formalisiert man (6) mit `s → r` folgt die Konklusion (7) mit Modus Tollens, wenn die Konklusion mit `¬s` und die Zwischenkonklusion (5) mit `¬r` formalisiert wird. 
+    + **Richtig:** Siehe Rekonstruktion
 
-*Antwortoption:* Ergänzt man als Prämisse (4) den Satz *„Wenn die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig ist, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden, dann wiegt der Schutz der Menschenwürde (im Kontext der CRISPR/Cas9-Erforschung) nicht höher als die Forschungsfreiheit.“*, folgt die Zwischenkonklusion (5) aus den Prämissen (3) und (4) mittels Modus Ponens.
+Das Hauptargument `<A1>` kann damit folgendermaßen rekonstruiert werden:
 
-*Antwortoption:* Das Wort 'nur' in Prämisse (1) signalisiert eine notwendige Bedingung. Ergänzt man als zweite Prämisse den entsprechenden Bedingungssatz *„Nur wenn durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen angewendet werden kann, um zumindest einfache, monogenetische Veranlagungen zu schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern, dann ist die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen notwendig, um Antworten auf wissenschaftlich und gesellschaftlich wichtige Fragestellungen zu finden.“* folgt die Zwischenkonklusion (3) aus den Prämissen (1) und (2) mittels Modus Ponens.
+```argdown
+(1) Nur durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen
+    kann die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen
+    angewendet werden, um zumindest einfache, monogenetische Veranlagungen zu
+    schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern.
+    // p
+(2) Wenn nur durch die Erforschung der CRISPR/Cas9-Technologie an frühen
+    Embryonen die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen
+    angewendet werden kann, um zumindest einfache, monogenetische Veranlagungen
+    zu schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu 
+    verhindern, dann ist die Erforschung der CRISPR/Cas9-Technologie an
+    frühen Embryonen notwendig, um Antworten auf wissenschaftlich und
+    gesellschaftlich wichtige Fragestellungen zu finden.
+    // p → q
+-- aus 1,2 mit Modus Ponens --
+(3) Die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen ist
+    notwendig, um Antworten auf wissenschaftlich und gesellschaftlich
+    wichtige Fragestellungen zu finden.
+    // q
+(4) Wenn die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen
+    notwendig ist, um Antworten auf wissenschaftlich und gesellschaftlich
+    wichtige Fragestellungen zu finden, dann wiegt der Schutz der
+    Menschenwürde (im Kontext der CRISPR/Cas9-Erforschung) nicht höher
+    als die Forschungsfreiheit.
+    // q → ¬r
+-- aus 3,4 mit Modus Ponens --
+(5) Der Schutz der Menschenwürde wiegt (im Kontext der CRISPR/Cas9-Erforschung)
+    nicht höher als die Forschungsfreiheit.
+    // ¬r
+(6) Ein allgemeines/pauschales Verbot der Erforschung der
+    CRISPR/Cas9-Technologie an Embryonen gilt nur dann, wenn der Schutz
+    der Menschenwürde (im Kontext der CRISPR/Cas9-Erforschung)
+    höher wiegt als die Forschungsfreiheit.
+    // s → r
+-- aus 5,6 mit Modus Tollens --
+(7) Also: Ein allgemeines/pauschales Verbot der Erforschung der
+    CRISPR/Cas9-Technologie an Embryonen gilt nicht.
+    // ¬s
+```
 
-*Antwortoption:* Das skizzierte Hauptargument soll begründen, dass die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen prinzipiell zulässig ist. Die Konklusion könnte man damit zum Beispiel so formulieren: *„Alle Forschungsprojekte zur Erforschung der CRISPR/Cas9-Technologie an menschlichen Embryonen sind zulässig.“* 
+Zuordnungsliste:
 
++ `p`: Nur durch die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen kann die CRISPR/Cas9-Technologie in Zukunft an menschlichen Embryonen angewendet werden, um zumindest einfache, monogenetische Veranlagungen zu schweren Krankheiten oder Fehlbildungen des werdenden Kindes zu verhindern.
++ `q`: Die Erforschung der CRISPR/Cas9-Technologie an frühen Embryonen ist
+    notwendig, um Antworten auf wissenschaftlich und gesellschaftlich
+    wichtige Fragestellungen zu finden.
++ `r`: Der Schutz der Menschenwürde wiegt (im Kontext der CRISPR/Cas9-Erforschung)
+    höher als die Forschungsfreiheit.
++ `s`: Ein gilt allgemeines/pauschales Verbot der Erforschung der CRISPR/Cas9-Technologie an Embryonen.
 
-*Antwortoption:* Prämisse 6 formuliert eine notwendige Bedingung, die nach dem 'wenn' ausformuliert werden kann. Der Schluss auf die Konklusion kann dann so weiter rekonstruiert werden: Die Zwischenkonklusion (5) formuliert, dass die notwendige Bedingung nicht erfüllt ist. Formalisiert man (6) mit `s → r` folgt die Konklusion (7) mit Modus Tollens, wenn die Konklusion mit `¬s` und die Zwischenkonklusion (5) mit `¬r` formalisiert wird. 
-
+*Bemerkung:* Will man die Richtung der Subjunktion (6) noch expliziter machen, reformuliert man den Satz in der Rekonstruktion besser als *"Wenn ein allgemeines/pauschales Verbot der Erforschung der CRISPR/Cas9-Technologie an Embryonen gilt, dann wiegt der Schutz der Menschenwürde (im Kontext der CRISPR/Cas9-Erforschung) höher als die Forschungsfreiheit."* (*Achtung:* Das ist lediglich eine bedeutungserhaltende Reformulierung!)
 
 ## Musterlösung des 6. Übungsblatts
  

@@ -15,12 +15,18 @@ format:
 
 # Aufgabenstellung (4 Punkte/ 2 Punkte je Rekonstruktion)
 
-Rekonstruieren die in der einfachen Argumentkarte identifizierten Argumente X und Y als deduktive gültige Argumente in der erweiterten Standarddarstellung.
+Beantworten Sie die in der Sitzung identifizierten Verständnisfragen zur Argumentation im Rütsche Text (siehe [Mitschrift zur 7. Sitzung](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/notes/sitzung-07-notes.html)). Rekonstruieren Sie dafür die in der (vorläufigen) einfachen Argumentkarte identifizierten Argumente `<A2 Einwand>` und `<A3 Entkräftung des Einwands>` als deduktiv gültige Argumente in der erweiterten Standarddarstellung.
+
+::: {.callout-tip}
++ Beachten Sie die in der Mitschrift formulierten Hinweise unter *"Weiteres Vorgehen"*.
++ Sie müssen für die Rekonstruktion der Argumente den Ausgangstext berücksichtigen.
+:::
 
 ::: {.callout-important}
 
 Bitte laden Sie Ihre Lösung des Übungsblatts als PDF-Dokument bis spätestens **03.12.2026, 23:59** Uhr auf [Moodle](https://moodle.phil.hhu.de/mod/assign/view.php?id=124538) hoch. Geben Sie bitte keine handschriftlichen Lösungen ab.
 
++ **Abzugeben sind:** Die Rekonstruktionen der beiden Argumente sowie eine darauf aufbauende kurze Beantwortung der Verständnisfragen (1-2 Sätze pro Frage).
 + Denken Sie bei Rekonstruktion in der **erweiterten Standarddarstellung** daran, dass Sie neben der Formulierung der Argumente in Listendarstellung auch die logisch-semantische Form der Sätze, die Zuordnungsliste und die Schlussregeln angeben müssen!
     + Für die Formalisierungen sollten Sie die in der Veranstaltung eingeführten Symbole verwenden.
     + Neben den in der Übung eingeführten Schlussmustern dürfen Sie auch andere Ihnen bekannte Schlussmuster verwenden.
