@@ -52,3 +52,93 @@ Die Antwortoptionen aus Übungsblatt 4, Aufgabe 2:
 *Antwortoption:* Prämisse 6 formuliert eine notwendige Bedingung, die nach dem 'wenn' ausformuliert werden kann. Der Schluss auf die Konklusion kann dann so weiter rekonstruiert werden: Die Zwischenkonklusion (5) formuliert, dass die notwendige Bedingung nicht erfüllt ist. Formalisiert man (6) mit `s → r` folgt die Konklusion (7) mit Modus Tollens, wenn die Konklusion mit `¬s` und die Zwischenkonklusion (5) mit `¬r` formalisiert wird. 
 
 
+## Musterlösung des 6. Übungsblatts
+ 
+### Aufgabe 1 (2 Zusatzpunkte)
+
+Gegeben sei eine Argumentkarte mit den Argumenten `<A1>`, `<A2>` und `<A3>` sowie dem Aussagekasten `[T1]`. `<A1>` besitzt als Prämissen die Sätze `p` und `q` und als Konklusion den Satz `r`. `<A2>` besitzt als Prämissen die Sätze `s` und `t` und als Konklusion den Satz `u`. `<A3>` besitzt als Prämissen die Sätze `v` und `w` und als Konklusion den Satz `m`. 
+
+Zwischen den genannten Sätzen bestehen folgende Beziehungen: 
+
++ `r` ist gleichbedeutend mit `m`, 
++ `t` ist gleichbedeutend mit `w`, 
++ der Satz des Thesenkastens `[T1]` ist gleichbedeutend mit der Konklusion von `<A3>` und 
++ `u` widerspricht `p` kontradiktorisch.
+
+Welche der folgenden Argumentbeziehungen treffen zu?
+
+1. `<A1>` stützt `<A3>`. *(falsch)*
+2. `<A3>` stützt `[T1]`. *(richtig)*
+3. `<A1>` greift `[T1]` an. *(falsch)*
+4. `<A2>` greift `<A1>` an. (richtig)*
+5. `<A2>` stützt `[T1]`. *(falsch)*
+6. `<A1>` greift `<A3>` an. *(falsch)*
+7. `<A2>` stützt `<A3>`. *(falsch)*
+
+Am einfachsten erstellt man sich die beschriebene Argumentkarte unter Berücksichtigung der eingeführten Argumentbeziehungen und liest dann der Karte ab, welche der Antwortoptionen zutreffen:
+
+![](./images/argumentkarten-lesen-01-map)
+
+### Aufgabe 2 (2 Zusatzpunkte)
+
+Welche Informationen kann man der folgenden vertieften Argumentkarte entnehmen? Was trifft zu?
+
+```argdown-map
+===
+webComponent:
+  withoutHeader: true
+===
+
+<A1>
+  +> <A2>
+    +> [T1]
+  +> <A3>
+    +> [T2]
+    <- <A4>
+```
+
+1. Einer der Prämissen von `<A2>`  ist bedeutungsgleich mit einer der Prämissen von `<A3>`. <!-- ja -->
+    + **Richtig:** Beide Argumente werden von `<A1>` gestützt. D.h. die Konklusion von `<A1>` ist bedeutungsgleich mit jeweils einer Prämisse der Argumente `<A2>` und `<A3>`. Da die Konklusion mit den beiden Prämissen bedeutungsgleich ist, müssen die Prämissen auch bedeutungsgleich sein. 
+2. Fügt man der Argumentkarte die Konklusion von `<A1>` als Aussagekasten hinzu, besteht von diesem Aussagekasten eine Stützungsbeziehung zu `<A2>` und eine zu `<A3>`.
+    + **Richtig:** Laut der Karte ist diese Konklusion bedeutungsgleich mit jeweils einer Prämisse der Argumente `<A2>` und `<A3>`. Laut Definition der Argumentbeziehungen besteht dann von dem Aussagenkasten eine Stützungsbeziehung zu beiden Argumenten.
+3. Die Konklusion von `<A4>` steht in einem kontradiktorischen Widerspruch zu Prämisse von `<A1>`. 
+    + **Falsch:** Man kann der Karte lediglich ablesen: Das kann sein. Zwar stützt `<A1>` `<A3>` und `<A4>` greift `<A3>` an, wir wissen allerdings nicht, ob diese Beziehungen auf die gleiche Prämsse abzielen. Wenn sie das täten, bestünde der beschriebene kontradiktorische Widerspruch. 
+    + 👉 Man kann diese Mehrdeutigkeit auflösen, indem man die Konklusion von `<A1>` (bzw. `<A4>`) der Karte als Aussagekasten hinzufügt.
+4. Die Konklusionen von `<A2>` und `<A3>` sind nicht bedeutungsgleich.
+    + **Richtig:** Wären sie bedeutungsgleich müsste es weitere Pfeile in der Karte geben, nämlich grüne Stützungspfeile von `<A2>` zu `[T2]`, von `<A3>` zu `[T1]` und zwischen `[T1]` und `[T2]`.
+5. Die Konklusion von `<A2>` ist bedeutungsgleich mit einer der Prämissen von `<A3>`. 
+    + **Falsch:** Dann müsste es einen grünen Stützungspfeil zwischen `<A2>` und `<A3>` geben.
+
+### Aufgabe 3 (2 Zusatzpunkte)
+
+Die folgende vertiefte Argumentkarte enthält Fehler. Ausgehend von den vorhandenen Pfeilen fehlen einige Pfeile. Welche? 
+
+:::{.callout-important}
+Ignorieren Sie für diese Aufgaben die Hinweise zu redundanten Pfeilen, die nicht dargestellt werden ([Folie 23, Sitzung 5](https://argumentkartierung.de/hhu-philosophisches-argumentieren-ws-26-27/content/slides/sitzung-05-slides.html#/unterdr%C3%BCckte-pfeile-in-vertieften-argumentkarten)). D.h., bearbeiten Sie diese Aufgabe unter der Anforderung, dass alle Argumentbeziehungen, die man sich aus den vorhandenen Pfeilen erschließen kann, in einer korrekten Argumentkarte auch dargestellt werden müssen.
+:::
+
+```argdown-map
+===
+webComponent:
+  withoutHeader: true
+===
+
+<A3>
+  -> [T2]
+    +> <A2>
+  -> <A1>
+    +> [T3]
+    +> [T1]
+      <- <A2>
+```
+
+1. Es fehlt ein roter Angriffspfeil von `[T2]` zu `<A1>`. 
+    + **Falsch:** Was richtig ist: Es fehlt ein grüner Stützungspfeil von `[T2]` zu `<A1>`. Sei `p` die Konklusion von `<A3>` und `q` der zu `p` kontradiktorische Satz in `<A1>` gemäß der Angriffsbeziehung von `<A3>` zu `<A1>`, und `r` die Aussage von `[T2]`. Weil gemäß der Angriffsbeziehung von `<A3>` zu `[T2]` `r` kontradiktorisch zu `p` ist und `p` kontradiktorisch zu `q` ist, muss `r` bedeutungsgleich mit `q` sein.
+2. Es fehlt ein grüner Stützungspfeil von `<A3>` zu `<A2>`. <!-- nein -->
+    + **Falsch:** Es fehlt ein roter Stützungspfeil. Das ist einer der Pfeile, die üblicherweise in Argumentkarten aufgrund der Redundanz nicht gemalt werden.
+3. Es fehlt ein grüner Stützungspfeil von `[T1]` zu `[T3]`. <!-- ja -->
+    + **Richtig:** Die Konklusion von `<A1>` ist gemäß der dargestellten Pfeile bedeutungsgleich mit den Aussagen. Daher müssen die Aussagen selbst bedeutungsgleich sein.
+4. Es fehlt ein grüner Stützungspfeil von `[T3]` zu `[T1]`. <!-- ja -->
+    + **Richtig:** Siehe letzte Antwortmöglichkeit.
+5. Es fehlt ein roter Angriffspfeil von `<A2>` zu `[T3]`. <!-- ja -->
+    + **Richtig:** Die Aussagen der Aussagekästen `[T3]` und `[T1]` sind bedeutungsgleich (siehe die letzten beiden Antwortmöglichkeiten). Da die Konklusion von `<A2>` laut der Karte in einem kontradiktorischen Widerspruch zur Aussagen von `[T1]` steht, muss sie dann auch in einem kontradiktorischen Widerspruch zur Aussage von `[T3]` stehen.
