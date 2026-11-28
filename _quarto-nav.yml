@@ -2,6 +2,8 @@
 # This file is owned by tools/generate.py and will be overwritten on each run.
 # Edit _quarto.yml to adjust project settings.
 
+
+
 website:
     sidebar:
       style: "docked"
@@ -10,16 +12,18 @@ website:
         - text: "Startseite"
           href: index.qmd
         - text: "Lehrplan"
-          href: content/syllabus.qmd
+          href: "content/syllabus.qmd"
         - text: "---"
+
 
 
 
         - section: "Sitzung 1"
           href: content/modules/sitzung-01.qmd
           contents:
-            - text: "Übungsblatt"
-              href: content/assignments/sitzung-01-assignment.qmd
+            - text: "\u00dcbungsblatt"
+              href: "content/assignments/sitzung-01-assignment.qmd"
+
 
 
 
@@ -28,10 +32,11 @@ website:
         - section: "Sitzung 2"
           href: content/modules/sitzung-02.qmd
           contents:
-            - text: "Mitschrift"
-              href: content/notes/sitzung-02-notes.qmd
-            - text: "Übungsblatt"
-              href: content/assignments/sitzung-02-assignment.qmd
+            - text: "Notizen"
+              href: "content/notes/sitzung-02-notes.qmd"
+            - text: "\u00dcbungsblatt"
+              href: "content/assignments/sitzung-02-assignment.qmd"
+
 
 
 
@@ -40,8 +45,9 @@ website:
         - section: "Sitzung 3"
           href: content/modules/sitzung-03.qmd
           contents:
-            - text: "Übungsblatt"
-              href: content/assignments/sitzung-03-assignment.qmd
+            - text: "\u00dcbungsblatt"
+              href: "content/assignments/sitzung-03-assignment.qmd"
+
 
 
 
@@ -50,10 +56,11 @@ website:
         - section: "Sitzung 4"
           href: content/modules/sitzung-04.qmd
           contents:
-            - text: "Mitschrift"
-              href: content/notes/sitzung-04-notes.qmd
-            - text: "Übungsblatt"
-              href: content/assignments/sitzung-04-assignment.qmd
+            - text: "Notizen"
+              href: "content/notes/sitzung-04-notes.qmd"
+            - text: "\u00dcbungsblatt"
+              href: "content/assignments/sitzung-04-assignment.qmd"
+
 
 
 
@@ -62,10 +69,11 @@ website:
         - section: "Sitzung 5"
           href: content/modules/sitzung-05.qmd
           contents:
-            - text: "Mitschrift"
-              href: content/notes/sitzung-05-notes.qmd
-            - text: "Übungsblatt"
-              href: content/assignments/sitzung-05-assignment.qmd
+            - text: "Notizen"
+              href: "content/notes/sitzung-05-notes.qmd"
+            - text: "\u00dcbungsblatt"
+              href: "content/assignments/sitzung-05-assignment.qmd"
+
 
 
 
@@ -74,10 +82,11 @@ website:
         - section: "Sitzung 6"
           href: content/modules/sitzung-06.qmd
           contents:
-            - text: "Mitschrift"
-              href: content/notes/sitzung-06-notes.qmd
-            - text: "Übungsblatt"
-              href: content/assignments/sitzung-06-assignment.qmd
+            - text: "Notizen"
+              href: "content/notes/sitzung-06-notes.qmd"
+            - text: "\u00dcbungsblatt"
+              href: "content/assignments/sitzung-06-assignment.qmd"
+
 
 
 
@@ -87,9 +96,12 @@ website:
           href: content/modules/sitzung-07.qmd
           contents:
             - text: "Mitschrift"
-              href: content/notes/sitzung-07-notes.qmd
-            - text: "Übungsblatt"
-              href: content/assignments/sitzung-07-assignment.qmd
+              href: "content/notes/sitzung-07-notes.qmd"
+            - text: "\u00dcbungsblatt"
+              href: "content/assignments/sitzung-07-assignment.qmd"
+            - text: "Musterl\u00f6sung \u00dcbungsblatt 6"
+              href: "content/notes/solution-07.qmd"
+
 
 
 
@@ -101,8 +113,10 @@ website:
 
 
 
+
         - text: "Sitzung 9"
           href: content/modules/sitzung-09.qmd
+
 
 
 
@@ -113,8 +127,10 @@ website:
 
 
 
+
         - text: "Sitzung 11"
           href: content/modules/sitzung-11.qmd
+
 
 
 
@@ -125,14 +141,17 @@ website:
 
 
 
+
         - text: "Sitzung 13"
           href: content/modules/sitzung-13.qmd
 
 
 
 
-        - text: "Sitzung 14 (online)"
+
+        - text: "Sitzung 14"
           href: content/modules/sitzung-14.qmd
+
 
 
 
@@ -146,5 +165,5 @@ website:
         - text: "---"
 
         - text: "Wichtige Definitionen \u0026 Schlussmuster"
-          href: content/handout-schlussmuster-definitionen.qmd
+          href: "content/handout-schlussmuster-definitionen.qmd"
 

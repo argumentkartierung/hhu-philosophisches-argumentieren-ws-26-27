@@ -58,22 +58,22 @@ modules:
     # visibility: hidden
     # overwrite: never
     artifacts:
-      - id: folien-sitzung-01
-        type: slides
+      # - id: folien-sitzung-01
+      - type: slides
         output_formats: [revealjs, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: notes-01
-        type: notes
+      # - id: notes-01
+      - type: notes
         enabled: false
         # status: draft
         # visibility: hidden
         # overwrite: never
         output_formats: [website, pdf]
-      - id: assignment-01
-        type: assignment
+      # - id: assignment-01
+      - type: assignment
         # enabled: false
         # status: draft
         # visibility: hidden
@@ -97,22 +97,22 @@ modules:
     # visibility: hidden
     # overwrite: never
     artifacts:
-      - id: folien-sitzung-02
-        type: slides
+      # - id: folien-sitzung-02
+      - type: slides
         output_formats: [revealjs, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: notes-02
-        type: notes
+      # - id: notes-02
+      - type: notes
         output_formats: [website, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: assignment-02
-        type: assignment
+      # - id: assignment-02
+      - type: assignment
         output_formats: [website, pdf]
         enabled: true
         # status: draft
@@ -135,15 +135,15 @@ modules:
     # status: draft
     # visibility: hidden
     artifacts:
-      - id: folien-sitzung-03
-        type: slides
+      # - id: folien-sitzung-03
+      - type: slides
         output_formats: [revealjs, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: assignment-03
-        type: assignment
+      # - id: assignment-03
+      - type: assignment
         output_formats: [website, pdf]
         # enabled: false
         # status: draft
@@ -166,22 +166,22 @@ modules:
     # status: draft
     # visibility: hidden
     artifacts:
-      - id: folien-sitzung-04
-        type: slides
+      # - id: folien-sitzung-04
+      - type: slides
         output_formats: [revealjs, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: notes-04
-        type: notes
+      # - id: notes-04
+      - type: notes
         output_formats: [website, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: assignment-04
-        type: assignment
+      # - id: assignment-04
+      - type: assignment
         output_formats: [website, pdf]
         # enabled: false
         # status: draft
@@ -203,22 +203,22 @@ modules:
     # status: draft
     # visibility: hidden
     artifacts:
-      - id: folien-sitzung-05
-        type: slides
+      # - id: folien-sitzung-05
+      - type: slides
         output_formats: [revealjs, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: notes-05
-        type: notes
+      # - id: notes-05
+      - type: notes
         output_formats: [website, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: assignment-05
-        type: assignment
+      # - id: assignment-05
+      - type: assignment
         output_formats: [website, pdf]
         # enabled: false
         # status: draft
@@ -240,22 +240,22 @@ modules:
     # status: draft
     # visibility: hidden
     artifacts:
-      - id: folien-sitzung-06
-        type: slides
+      # - id: folien-sitzung-06
+      - type: slides
         output_formats: [revealjs, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: notes-06
-        type: notes
+      # - id: notes-06
+      - type: notes
         output_formats: [website, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: assignment-06
-        type: assignment
+      # - id: assignment-06
+      - type: assignment
         output_formats: [website, pdf]
         # enabled: false
         # status: draft
@@ -277,22 +277,23 @@ modules:
     # status: draft
     # visibility: hidden
     artifacts:
-      - id: folien-sitzung-07
-        type: slides
+      # - id: folien-sitzung-07
+      - type: slides
         output_formats: [revealjs, pdf]
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: notes-07
-        type: notes
+      # - id: notes-07
+      - type: notes
         output_formats: [website, pdf]
+        title: "Mitschrift"
         # enabled: false
         # status: draft
         # visibility: hidden
         overwrite: never
-      - id: assignment-07
-        type: assignment
+      # - id: assignment-07
+      - type: assignment
         output_formats: [website, pdf]
         # enabled: false
         # status: draft
@@ -300,11 +301,12 @@ modules:
         overwrite: never
       - id: solution-07
         type: notes
+        title: "Musterlösung Übungsblatt 6"
         output_formats: [website, pdf]
-        enabled: false
+        # enabled: false
         # status: draft
         # visibility: hidden
-        # overwrite: never
+        overwrite: never
 
   - id: sitzung-08
     type: lecture

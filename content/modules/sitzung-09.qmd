@@ -18,7 +18,7 @@ Zentrale Fragen:
 + Wie können Argumente mit Hilfe von allgemeinen Prinzipien rekonstruiert werden?
 + Was ist die allquantifizierte Subjunktion und was unterscheidet sie von der Subjunktion der Aussagenlogik?
 
-::: {.callout-info}
+::: {.callout-important}
 Diese Sitzung findet als reine Onlinesitzung statt.
 :::
 
@@ -34,10 +34,6 @@ Diese Sitzung findet als reine Onlinesitzung statt.
 
 
  
-
-
- 
-
 
 <!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
 <!-- 

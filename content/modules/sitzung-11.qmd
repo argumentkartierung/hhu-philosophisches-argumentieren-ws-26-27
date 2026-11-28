@@ -25,10 +25,6 @@ In dieser Sitzung beschäftigen wir uns mit Annahmewiderlegung und -beseitigung 
 
  
 
-
- 
-
-
 <!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
 <!-- 
 

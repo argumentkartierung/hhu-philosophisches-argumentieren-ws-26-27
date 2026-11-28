@@ -48,10 +48,6 @@ Zentrale Fragen:
 
  
 
-
- 
-
-
 <!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
 <!-- 
 
@@ -67,13 +63,7 @@ TODO: Add content.
 
 
 
-
-
-
 - **Folien**: [{{< fa link >}}](../slides/sitzung-01-slides.html) | [{{< fa file-pdf >}}](../slides/sitzung-01-slides.pdf)
-
-
-
 
 
 

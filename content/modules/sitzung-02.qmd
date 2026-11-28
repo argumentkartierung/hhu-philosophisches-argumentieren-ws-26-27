@@ -47,10 +47,6 @@ Zentrale Fragen:
 
  
 
-
- 
-
-
 <!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
 <!-- 
 
@@ -66,22 +62,13 @@ TODO: Add content.
 
 
 
-
-
-
 - **Folien**: [{{< fa link >}}](../slides/sitzung-02-slides.html) | [{{< fa file-pdf >}}](../slides/sitzung-02-slides.pdf)
 
 
 
 
 
-
-
-
-- **Mitschrift**: [{{< fa link >}}](../notes/sitzung-02-notes.html) | [{{< fa file-pdf >}}](../notes/sitzung-02-notes.pdf)
-
-
-
+- **Notizen**: [{{< fa link >}}](../notes/sitzung-02-notes.html) | [{{< fa file-pdf >}}](../notes/sitzung-02-notes.pdf)
 
 
 

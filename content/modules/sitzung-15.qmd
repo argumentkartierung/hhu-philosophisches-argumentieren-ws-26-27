@@ -27,10 +27,6 @@ Achtung: In dieser Sitzung in Anwesenheitspflicht. Eine Hybridteilnahme ist nich
 
  
 
-
- 
-
-
 <!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
 <!-- 
 

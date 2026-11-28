@@ -1,6 +1,6 @@
 ---
-title: "Sitzung 14 (online) (29.01.2027)"
-subtitle: "TBD" 
+title: "Sitzung 14 (29.01.2027)"
+subtitle: "TBD  (online)" 
 date: "2027-01-29"
 status: "published"
 lang: "de"
@@ -28,10 +28,6 @@ Diese Sitzung findet als reine Onlinesitzung statt.
 
 
  
-
-
- 
-
 
 <!-- Uncomment the following section to add content to the module page. You can use Markdown and Quarto syntax. -->
 <!-- 
