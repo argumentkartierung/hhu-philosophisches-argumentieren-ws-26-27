@@ -33,7 +33,7 @@ slides: sync-assets
 	quarto render content/slides/
 
 # Export slides to PDF using Decktape (requires decktape installed globally).
-slides-pdf: slides
+slides-pdf:
 	for f in docs/content/slides/*.html; do \
 		./node_modules/.bin/decktape reveal "$$f" "$${f%.html}.pdf"; \
 	done
