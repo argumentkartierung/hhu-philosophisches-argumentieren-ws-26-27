@@ -5,7 +5,7 @@
 artifact_labels:
   slides: "Folien"
   handout: "Handout"
-  notes: "Mitschrift"
+  notes: "Notizen"
   assignment: "Übungsblatt"
   syllabus: "Lehrplan"
 
@@ -32,7 +32,7 @@ handout:
   references: "Literatur"
 
 notes:
-  notes: "Mitschrift"
+  notes: "Notizen"
   key_concepts: "Schlüsselkonzepte"
   references: "Literatur"
 
